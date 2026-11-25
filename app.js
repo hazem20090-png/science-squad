@@ -1,15 +1,35 @@
 const state = { sets: [], set: null, answers: {}, current: 0 };
 const arabic = { '10a':'العاشر متقدم', '11a':'الحادي عشر متقدم', '12g':'الثاني عشر عام' };
 const root = document.querySelector('#app');
+const homeMarkup = root.innerHTML;
 const storageKey = id => `science-squad-v2-${id}-progress`;
 
-fetch('questions-rich.json').then(r => r.json()).then(sets => { state.sets = sets; renderCards(); }).catch(() => root.innerHTML = '<p class="section">تعذّر تحميل الأسئلة. أعد تحديث الصفحة.</p>');
+fetch('questions-rich.json?v=20261126-2', { cache: 'no-store' }).then(r => {
+  if(!r.ok) throw new Error('questions');
+  return r.json();
+}).then(sets => {
+  if(!Array.isArray(sets) || sets.length !== 3 || sets.some(set => !Array.isArray(set.questions) || set.questions.length !== 50)) throw new Error('invalid questions');
+  state.sets = sets; renderCards(); setupReveal();
+}).catch(() => root.innerHTML = '<section class="load-error"><h2>تعذّر تحميل الأسئلة</h2><p>حدّث الصفحة مرة واحدة لتحميل آخر نسخة.</p><button class="button primary" onclick="location.reload()">تحديث الصفحة</button></section>');
 document.querySelector('#theme').onclick = () => { document.body.classList.toggle('dark'); localStorage.setItem('science-squad-theme', document.body.classList.contains('dark') ? 'dark' : 'light'); };
 if(localStorage.getItem('science-squad-theme') === 'dark') document.body.classList.add('dark');
 document.querySelectorAll('.topbar a[href^="#"]').forEach(link => link.addEventListener('click', event => {
-  const target = link.getAttribute('href');
-  if(state.set){ event.preventDefault(); save(); window.location.href = `${window.location.pathname}${target}`; window.location.reload(); }
+  event.preventDefault(); showHome(link.getAttribute('href'));
 }));
+
+function showHome(target='#home'){
+  save(); state.set = null; state.questions = []; state.answers = {}; state.current = 0;
+  root.innerHTML = homeMarkup; renderCards(); setupReveal();
+  history.replaceState(null, '', `${location.pathname}${location.search}${target}`);
+  requestAnimationFrame(() => document.querySelector(target)?.scrollIntoView({behavior:'smooth',block:'start'}));
+}
+
+function setupReveal(){
+  const items = document.querySelectorAll('.section-title,.exam-card,.grade-column,.hero>div');
+  if(!('IntersectionObserver' in window) || matchMedia('(prefers-reduced-motion: reduce)').matches){ items.forEach(x=>x.classList.add('revealed')); return; }
+  const observer = new IntersectionObserver(entries => entries.forEach(entry => { if(entry.isIntersecting){ entry.target.classList.add('revealed'); observer.unobserve(entry.target); } }), {threshold:.12});
+  items.forEach((item,index) => { item.classList.add('reveal'); item.style.setProperty('--reveal-delay',`${Math.min(index%4,3)*90}ms`); observer.observe(item); });
+}
 
 function renderCards(){
   document.querySelector('#examCards').innerHTML = state.sets.map(s => `<article class="exam-card"><span class="num">${s.id.slice(0,2)}</span><h3>${arabic[s.id]}</h3><strong>${s.labelEn}</strong><p>${s.topic}<br>50 سؤالًا • محاولات غير محدودة</p><button class="button primary" data-start="${s.id}">ابدأ الاختبار</button></article>`).join('');
@@ -21,7 +41,7 @@ function startExam(id, subset){
   if(!subset){ try { const saved = JSON.parse(localStorage.getItem(storageKey(id))); if(saved?.answers && confirm('لديك تقدّم محفوظ. هل تريد المتابعة؟')) { state.answers=saved.answers; state.current=Math.min(saved.current||0,state.questions.length-1); } } catch{} }
   root.innerHTML = document.querySelector('#examTemplate').innerHTML;
   document.querySelector('.exam-name').textContent = `${arabic[id]} — ${state.set.labelEn}`;
-  document.querySelector('.exit').onclick = () => { save(); window.location.href = `${window.location.pathname}#exams`; window.location.reload(); };
+  document.querySelector('.exit').onclick = () => showHome('#exams');
   document.querySelector('.next').onclick = () => move(1); document.querySelector('.previous').onclick = () => move(-1);
   document.querySelector('.submit').onclick = submit;
   const navigator = document.querySelector('.navigator'), backdrop = document.querySelector('.nav-backdrop');
@@ -55,7 +75,8 @@ function submit(){
   if(unanswered && !confirm(`ما زال لديك ${unanswered} سؤالًا دون إجابة. هل تريد التسليم؟`)) return;
   const correct = state.questions.filter(q=>state.answers[q.id]===q.answer).length, wrong=state.questions.filter(q=>state.answers[q.id]!==q.answer);
   localStorage.removeItem(storageKey(state.set.id));
-  root.innerHTML = `<section class="results"><div class="result-hero"><p>نتيجتك في ${arabic[state.set.id]}</p><div class="score">${correct} / ${state.questions.length}</div><h2>${Math.round(correct/state.questions.length*100)}%</h2><p>${correct>=40?'ممتاز جدًا! استمر بهذا الأداء.':'مراجعة الأخطاء ستقوّي نتيجتك في المحاولة القادمة.'}</p></div><div class="result-actions"><button class="button primary" id="retryWrong" ${wrong.length?'':'disabled'}>أعد الأسئلة الخاطئة (${wrong.length})</button><button class="button ghost" id="retryAll">أعد الاختبار كاملًا</button><a class="button ghost" href="#videos" onclick="location.reload()">شاهد المراجعة</a></div>${wrong.length?`<section class="wrong-list"><h2>مراجعة الأخطاء والحلول الأصلية</h2>${wrong.map(q=>`<article class="wrong"><h3>السؤال ${q.id} — إجابتك: ${state.answers[q.id]||'لم تُجب'} | الصحيحة: ${q.answer}</h3><img class="slide solution" loading="lazy" src="${q.solutionImage}" alt="الحل الأصلي للسؤال ${q.id}"></article>`).join('')}</section>`:'<p style="text-align:center">إجابات كاملة وصحيحة — أحسنت!</p>'}</section>`;
+  root.innerHTML = `<section class="results"><div class="result-hero"><p>نتيجتك في ${arabic[state.set.id]}</p><div class="score">${correct} / ${state.questions.length}</div><h2>${Math.round(correct/state.questions.length*100)}%</h2><p>${correct>=40?'ممتاز جدًا! استمر بهذا الأداء.':'مراجعة الأخطاء ستقوّي نتيجتك في المحاولة القادمة.'}</p></div><div class="result-actions"><button class="button primary" id="retryWrong" ${wrong.length?'':'disabled'}>أعد الأسئلة الخاطئة (${wrong.length})</button><button class="button ghost" id="retryAll">أعد الاختبار كاملًا</button><button class="button ghost" id="watchVideos">شاهد المراجعة</button></div>${wrong.length?`<section class="wrong-list"><h2>مراجعة الأخطاء والحلول الأصلية</h2>${wrong.map(q=>`<article class="wrong"><h3>السؤال ${q.id} — إجابتك: ${state.answers[q.id]||'لم تُجب'} | الصحيحة: ${q.answer}</h3><img class="slide solution" loading="lazy" src="${q.solutionImage}" alt="الحل الأصلي للسؤال ${q.id}"></article>`).join('')}</section>`:'<p style="text-align:center">إجابات كاملة وصحيحة — أحسنت!</p>'}</section>`;
   document.querySelector('#retryAll').onclick=()=>startExam(state.set.id); if(wrong.length) document.querySelector('#retryWrong').onclick=()=>startExam(state.set.id,wrong);
+  document.querySelector('#watchVideos').onclick=()=>showHome('#videos');
   window.scrollTo({top:0,behavior:'smooth'});
 }
