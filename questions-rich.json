@@ -1,0 +1,4216 @@
+[
+  {
+    "id": "10a",
+    "labelEn": "Grade 10 Advanced",
+    "topic": "Electrons and Chemical Bonding",
+    "questions": [
+      {
+        "id": 1,
+        "answer": "B",
+        "promptEn": "According to Bohr's model, when an atom gains energy, it is said to be in which state?",
+        "promptAr": "وفقًا لنموذج بور، عندما تكتسب الذرة طاقة، يُقال إنها في أي حالة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Ground state",
+            "ar": "الحالة المستقرة"
+          },
+          "B": {
+            "en": "Excited state",
+            "ar": "حالة الإثارة"
+          },
+          "C": {
+            "en": "Stable state",
+            "ar": "حالة الثبات"
+          },
+          "D": {
+            "en": "Neutral state",
+            "ar": "الحالة المتعادلة"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a1.png"
+      },
+      {
+        "id": 2,
+        "answer": "C",
+        "promptEn": "The figure shows a hydrogen atom with its one electron in two different energy states. Which statement is correct?",
+        "promptAr": "يبيّن الشكل ذرة هيدروجين بإلكترونها الوحيد في حالتين مختلفتين من الطاقة. أي العبارات التالية صحيحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Atom (1) is in the excited state because its electron is close to the nucleus.",
+            "ar": "الذرة ‪(1)‬ في حالة الإثارة لأن إلكترونها قريب من النواة."
+          },
+          "B": {
+            "en": "Atom (2) is in the ground state because its electron is in a higher energy level.",
+            "ar": "الذرة ‪(2)‬ في الحالة المستقرة لأن إلكترونها في مستوى طاقة أعلى."
+          },
+          "C": {
+            "en": "Atom (1) is in the ground state, the lowest allowable energy state.",
+            "ar": "الذرة ‪(1)‬ في الحالة المستقرة، وهي أدنى حالة طاقة مسموحة."
+          },
+          "D": {
+            "en": "Both atoms are in the ground state because each has one electron.",
+            "ar": "الذرتان في الحالة المستقرة لأن لكل منهما إلكترونًا واحدًا."
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q2-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a2.png"
+      },
+      {
+        "id": 3,
+        "answer": "B",
+        "promptEn": "Which of the following statements is correct?",
+        "promptAr": "أي العبارات التالية صحيحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Energy level 3 has three sublevels: 3s, 3p and 3f",
+            "ar": "مستوى الطاقة ‪3‬ له ثلاثة مستويات فرعية: ‪3s‬ و‪3p‬ و‪3f‬"
+          },
+          "B": {
+            "en": "Energy level 3 has three sublevels: 3s, 3p and 3d",
+            "ar": "مستوى الطاقة ‪3‬ له ثلاثة مستويات فرعية: ‪3s‬ و‪3p‬ و‪3d‬"
+          },
+          "C": {
+            "en": "Energy level 2 has two sublevels: 2s and 2d",
+            "ar": "مستوى الطاقة ‪2‬ له مستويان فرعيان: ‪2s‬ و‪2d‬"
+          },
+          "D": {
+            "en": "Energy level 2 has two sublevels: 2s and 2f",
+            "ar": "مستوى الطاقة ‪2‬ له مستويان فرعيان: ‪2s‬ و‪2f‬"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a3.png"
+      },
+      {
+        "id": 4,
+        "answer": "D",
+        "promptEn": "What is the total number of orbitals in the principal energy level n = 4?",
+        "promptAr": "ما العدد الكلي للأفلاك في مستوى الطاقة الرئيس ‪n = 4‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "4",
+            "ar": "4"
+          },
+          "B": {
+            "en": "9",
+            "ar": "9"
+          },
+          "C": {
+            "en": "8",
+            "ar": "8"
+          },
+          "D": {
+            "en": "16",
+            "ar": "16"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a4.png"
+      },
+      {
+        "id": 5,
+        "answer": "B",
+        "promptEn": "Which of the orbital diagrams A, B, C and D in the figure violates Hund's rule?",
+        "promptAr": "أي مخططات الأفلاك ‪A‬ و‪B‬ و‪C‬ و‪D‬ في الشكل يخالف قاعدة هوند؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Diagram A",
+            "ar": "المخطط ‪A‬"
+          },
+          "B": {
+            "en": "Diagram B",
+            "ar": "المخطط ‪B‬"
+          },
+          "C": {
+            "en": "Diagram C",
+            "ar": "المخطط ‪C‬"
+          },
+          "D": {
+            "en": "Diagram D",
+            "ar": "المخطط ‪D‬"
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q5-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a5.png"
+      },
+      {
+        "id": 6,
+        "answer": "A",
+        "promptEn": "Which statement describes the Pauli exclusion principle?",
+        "promptAr": "أي عبارة تصف مبدأ باولي للاستبعاد؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "A maximum of two electrons can occupy an orbital, but only if they have opposite spins.",
+            "ar": "يتسع الفلك الواحد لإلكترونين كحد أقصى، بشرط أن يكون غزلهما متعاكسًا."
+          },
+          "B": {
+            "en": "Each electron occupies the lowest-energy orbital available.",
+            "ar": "يشغل كل إلكترون الفلك ذا الطاقة الأقل المتاح."
+          },
+          "C": {
+            "en": "Single electrons with the same spin fill equal-energy orbitals before pairing.",
+            "ar": "تشغل الإلكترونات المفردة ذات الغزل نفسه الأفلاك المتساوية في الطاقة قبل أن تزدوج."
+          },
+          "D": {
+            "en": "Two electrons in the same orbital must have the same spin.",
+            "ar": "يجب أن يكون للإلكترونين في الفلك نفسه الغزل نفسه."
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a6.png"
+      },
+      {
+        "id": 7,
+        "answer": "B",
+        "promptEn": "An atom of phosphorus (P) has 15 electrons. Which sublevel is partially filled?",
+        "promptAr": "تحتوي ذرة الفوسفور ‪P‬ على ‪15‬ إلكترونًا. أي مستوى فرعي يكون ممتلئًا جزئيًا؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "4s",
+            "ar": "4s"
+          },
+          "B": {
+            "en": "3p",
+            "ar": "3p"
+          },
+          "C": {
+            "en": "2p",
+            "ar": "2p"
+          },
+          "D": {
+            "en": "3s",
+            "ar": "3s"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a7.png"
+      },
+      {
+        "id": 8,
+        "answer": "D",
+        "promptEn": "What is the correct noble-gas notation for copper, Cu (atomic number 29)?",
+        "promptAr": "ما الترميز الصحيح بالغاز النبيل للنحاس ‪Cu‬ الذي عدده الذري ‪29‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "[Ar] 4s² 3d⁹",
+            "ar": "[Ar] 4s² 3d⁹"
+          },
+          "B": {
+            "en": "[Kr] 5s¹ 3d¹⁰",
+            "ar": "[Kr] 5s¹ 3d¹⁰"
+          },
+          "C": {
+            "en": "[Ar] 4s² 3d⁸ 4p¹",
+            "ar": "[Ar] 4s² 3d⁸ 4p¹"
+          },
+          "D": {
+            "en": "[Ar] 4s¹ 3d¹⁰",
+            "ar": "[Ar] 4s¹ 3d¹⁰"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a8.png"
+      },
+      {
+        "id": 9,
+        "answer": "C",
+        "promptEn": "How many dots are shown in the electron-dot structure of selenium (Se, atomic number 34)?",
+        "promptAr": "كم عدد النقاط في التمثيل النقطي للإلكترونات لعنصر السيلينيوم ‪Se‬ الذي عدده الذري ‪34‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "2",
+            "ar": "2"
+          },
+          "B": {
+            "en": "4",
+            "ar": "4"
+          },
+          "C": {
+            "en": "6",
+            "ar": "6"
+          },
+          "D": {
+            "en": "16",
+            "ar": "16"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a9.png"
+      },
+      {
+        "id": 10,
+        "answer": "A",
+        "promptEn": "An atom has 13 electrons. Which element is it, and how many dots are in its electron-dot structure?",
+        "promptAr": "تحتوي ذرة عنصر على ‪13‬ إلكترونًا. ما هذا العنصر، وكم عدد النقاط في تمثيله النقطي؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Aluminum (Al), 3 dots",
+            "ar": "الألومنيوم ‪Al‬، ‪3‬ نقاط"
+          },
+          "B": {
+            "en": "Aluminum (Al), 13 dots",
+            "ar": "الألومنيوم ‪Al‬، ‪13‬ نقطة"
+          },
+          "C": {
+            "en": "Silicon (Si), 4 dots",
+            "ar": "السيليكون ‪Si‬، ‪4‬ نقاط"
+          },
+          "D": {
+            "en": "Boron (B), 3 dots",
+            "ar": "البورون ‪B‬، ‪3‬ نقاط"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a10.png"
+      },
+      {
+        "id": 11,
+        "answer": "D",
+        "promptEn": "What is the name of the series of elements shown by the arrow in the periodic table?",
+        "promptAr": "ما اسم سلسلة العناصر التي يشير إليها السهم في الجدول الدوري؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Transition metals",
+            "ar": "الفلزات الانتقالية"
+          },
+          "B": {
+            "en": "Metalloids",
+            "ar": "أشباه الفلزات"
+          },
+          "C": {
+            "en": "Noble gases",
+            "ar": "الغازات النبيلة"
+          },
+          "D": {
+            "en": "Lanthanides",
+            "ar": "اللانثانيدات"
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q11-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a11.png"
+      },
+      {
+        "id": 12,
+        "answer": "C",
+        "promptEn": "The representative elements are found in which groups of the periodic table?",
+        "promptAr": "في أي مجموعات الجدول الدوري توجد العناصر المُمثِّلة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Groups 3–12",
+            "ar": "المجموعات ‪3–12‬"
+          },
+          "B": {
+            "en": "Groups 1 and 2 only",
+            "ar": "المجموعتان ‪1‬ و‪2‬ فقط"
+          },
+          "C": {
+            "en": "Groups 1, 2 and 13–18",
+            "ar": "المجموعات ‪1‬ و‪2‬ و‪13–18‬"
+          },
+          "D": {
+            "en": "Groups 13–17 only",
+            "ar": "المجموعات ‪13–17‬ فقط"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a12.png"
+      },
+      {
+        "id": 13,
+        "answer": "D",
+        "promptEn": "What are the period, group and block of an element with the configuration [Kr] 5s² 4d¹⁰ 5p⁵?",
+        "promptAr": "ما الدورة والمجموعة والمجمع لعنصر توزيعه الإلكتروني ‪[Kr] 5s² 4d¹⁰ 5p⁵‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Period 5, group 15, p-block",
+            "ar": "الدورة ‪5‬، المجموعة ‪15‬، المجمع ‪p‬"
+          },
+          "B": {
+            "en": "Period 4, group 17, d-block",
+            "ar": "الدورة ‪4‬، المجموعة ‪17‬، المجمع ‪d‬"
+          },
+          "C": {
+            "en": "Period 5, group 7, d-block",
+            "ar": "الدورة ‪5‬، المجموعة ‪7‬، المجمع ‪d‬"
+          },
+          "D": {
+            "en": "Period 5, group 17, p-block",
+            "ar": "الدورة ‪5‬، المجموعة ‪17‬، المجمع ‪p‬"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a13.png"
+      },
+      {
+        "id": 14,
+        "answer": "A",
+        "promptEn": "Which letter represents the s-block region in the periodic table shown?",
+        "promptAr": "أي حرف يمثّل منطقة المجمع ‪s‬ في الجدول الدوري الموضّح؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Region A",
+            "ar": "المنطقة ‪A‬"
+          },
+          "B": {
+            "en": "Region B",
+            "ar": "المنطقة ‪B‬"
+          },
+          "C": {
+            "en": "Region C",
+            "ar": "المنطقة ‪C‬"
+          },
+          "D": {
+            "en": "Region D",
+            "ar": "المنطقة ‪D‬"
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q14-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a14.png"
+      },
+      {
+        "id": 15,
+        "answer": "A",
+        "promptEn": "Which electron configuration represents an element in group 4, period 4 and the d-block?",
+        "promptAr": "أي توزيع إلكتروني يمثّل عنصرًا في المجموعة ‪4‬ والدورة ‪4‬ والمجمع ‪d‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "[Ar] 4s² 3d²",
+            "ar": "[Ar] 4s² 3d²"
+          },
+          "B": {
+            "en": "[Ne] 3s² 3p²",
+            "ar": "[Ne] 3s² 3p²"
+          },
+          "C": {
+            "en": "[Ar] 4s² 3d¹⁰ 4p⁴",
+            "ar": "[Ar] 4s² 3d¹⁰ 4p⁴"
+          },
+          "D": {
+            "en": "[Ar] 4s² 3d¹⁰ 4p²",
+            "ar": "[Ar] 4s² 3d¹⁰ 4p²"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a15.png"
+      },
+      {
+        "id": 16,
+        "answer": "D",
+        "promptEn": "The graph shows the first ionization energies of the elements in periods 1 to 5. Which group has the HIGHEST first ionization energy in each period?",
+        "promptAr": "يبيّن الرسم البياني طاقة التأين الأولى لعناصر الدورات من ‪1‬ إلى ‪5‬. أي مجموعة لها أعلى طاقة تأين أولى في كل دورة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Group 1 (alkali metals)",
+            "ar": "المجموعة ‪1‬ (الفلزات القلوية)"
+          },
+          "B": {
+            "en": "Group 2 (alkaline earth metals)",
+            "ar": "المجموعة ‪2‬ (الفلزات القلوية الأرضية)"
+          },
+          "C": {
+            "en": "Group 17 (halogens)",
+            "ar": "المجموعة ‪17‬ (الهالوجينات)"
+          },
+          "D": {
+            "en": "Group 18 (noble gases)",
+            "ar": "المجموعة ‪18‬ (الغازات النبيلة)"
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q16-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a16.png"
+      },
+      {
+        "id": 17,
+        "answer": "B",
+        "promptEn": "Using Table 5, between which two neighbouring elements of period 2 does the first ionization energy DECREASE?",
+        "promptAr": "باستخدام الجدول ‪5‬، بين أي عنصرين متجاورين في الدورة ‪2‬ تقلّ طاقة التأين الأولى؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Li → Be",
+            "ar": "Li → Be"
+          },
+          "B": {
+            "en": "Be → B",
+            "ar": "Be → B"
+          },
+          "C": {
+            "en": "C → N",
+            "ar": "C → N"
+          },
+          "D": {
+            "en": "F → Ne",
+            "ar": "F → Ne"
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q17-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a17.png"
+      },
+      {
+        "id": 18,
+        "answer": "C",
+        "promptEn": "Which statement correctly describes the trend of electronegativity in the periodic table?",
+        "promptAr": "أي عبارة تصف بشكل صحيح تدرّج الكهروسالبية في الجدول الدوري؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "It increases down a group and across a period.",
+            "ar": "تزداد من أعلى إلى أسفل في المجموعة وعبر الدورة."
+          },
+          "B": {
+            "en": "It decreases across a period and increases down a group.",
+            "ar": "تقلّ عبر الدورة وتزداد من أعلى إلى أسفل في المجموعة."
+          },
+          "C": {
+            "en": "It increases across a period and decreases down a group.",
+            "ar": "تزداد عبر الدورة وتقلّ من أعلى إلى أسفل في المجموعة."
+          },
+          "D": {
+            "en": "It stays the same in every period and group.",
+            "ar": "تبقى ثابتة في كل الدورات والمجموعات."
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a18.png"
+      },
+      {
+        "id": 19,
+        "answer": "D",
+        "promptEn": "Which electron configuration belongs to the element with the HIGHEST electronegativity?",
+        "promptAr": "أي توزيع إلكتروني يعود إلى العنصر الذي له أعلى كهروسالبية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "[Ne] 3s¹",
+            "ar": "[Ne] 3s¹"
+          },
+          "B": {
+            "en": "[Ne] 3s² 3p³",
+            "ar": "[Ne] 3s² 3p³"
+          },
+          "C": {
+            "en": "[Ne] 3s² 3p⁴",
+            "ar": "[Ne] 3s² 3p⁴"
+          },
+          "D": {
+            "en": "[Ne] 3s² 3p⁵",
+            "ar": "[Ne] 3s² 3p⁵"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a19.png"
+      },
+      {
+        "id": 20,
+        "answer": "B",
+        "promptEn": "Aluminium is in group 13. How does an aluminium atom reach a stable octet when it forms an ion?",
+        "promptAr": "يقع الألومنيوم في المجموعة ‪13‬. كيف تصل ذرة الألومنيوم إلى ثُمانيّ مستقر عندما تكوّن أيونًا؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "It gains 5 electrons and forms Al⁵⁻.",
+            "ar": "تكتسب ‪5‬ إلكترونات وتكوّن ‪Al⁵⁻‬."
+          },
+          "B": {
+            "en": "It loses 3 electrons and forms Al³⁺.",
+            "ar": "تفقد ‪3‬ إلكترونات وتكوّن ‪Al³⁺‬."
+          },
+          "C": {
+            "en": "It loses 2 electrons and forms Al²⁺.",
+            "ar": "تفقد إلكترونين وتكوّن ‪Al²⁺‬."
+          },
+          "D": {
+            "en": "It gains 3 electrons and forms Al³⁻.",
+            "ar": "تكتسب ‪3‬ إلكترونات وتكوّن ‪Al³⁻‬."
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a20.png"
+      },
+      {
+        "id": 21,
+        "answer": "B",
+        "promptEn": "Which of the following is a pseudo-noble gas electron configuration?",
+        "promptAr": "أي مما يلي يمثّل توزيعًا إلكترونيًا شبيهًا بالغاز النبيل؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "1s² 2s² 2p⁶ 3s² 3p⁶",
+            "ar": "1s² 2s² 2p⁶ 3s² 3p⁶"
+          },
+          "B": {
+            "en": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰",
+            "ar": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰"
+          },
+          "C": {
+            "en": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²",
+            "ar": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²"
+          },
+          "D": {
+            "en": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰",
+            "ar": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a21.png"
+      },
+      {
+        "id": 22,
+        "answer": "C",
+        "promptEn": "Which ion has a pseudo-noble gas configuration?",
+        "promptAr": "أي أيون له توزيع إلكتروني شبيه بالغاز النبيل؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Na⁺",
+            "ar": "Na⁺"
+          },
+          "B": {
+            "en": "Ca²⁺",
+            "ar": "Ca²⁺"
+          },
+          "C": {
+            "en": "Zn²⁺",
+            "ar": "Zn²⁺"
+          },
+          "D": {
+            "en": "Cl⁻",
+            "ar": "Cl⁻"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a22.png"
+      },
+      {
+        "id": 23,
+        "answer": "A",
+        "promptEn": "Which statement describes what happens when a chlorine atom forms a chloride ion?",
+        "promptAr": "أي عبارة تصف ما يحدث عندما تكوّن ذرة الكلور أيون الكلوريد؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "It gains 1 electron, forms Cl⁻ and gets the configuration of argon.",
+            "ar": "تكتسب إلكترونًا واحدًا وتكوّن ‪Cl⁻‬ ويصبح توزيعها مثل الأرجون."
+          },
+          "B": {
+            "en": "It loses 1 electron and forms Cl⁺.",
+            "ar": "تفقد إلكترونًا واحدًا وتكوّن ‪Cl⁺‬."
+          },
+          "C": {
+            "en": "It gains 1 electron and its protons become 18.",
+            "ar": "تكتسب إلكترونًا واحدًا ويصبح عدد بروتوناتها ‪18‬."
+          },
+          "D": {
+            "en": "It loses 7 electrons and forms Cl⁷⁺.",
+            "ar": "تفقد ‪7‬ إلكترونات وتكوّن ‪Cl⁷⁺‬."
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a23.png"
+      },
+      {
+        "id": 24,
+        "answer": "C",
+        "promptEn": "Table 4 shows the formation of sodium chloride, NaCl. Which statement is correct?",
+        "promptAr": "يبيّن الجدول ‪4‬ تكوّن كلوريد الصوديوم ‪NaCl‬. أي عبارة صحيحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Chlorine transfers one electron to sodium.",
+            "ar": "ينقل الكلور إلكترونًا واحدًا إلى الصوديوم."
+          },
+          "B": {
+            "en": "Sodium and chlorine share one pair of electrons.",
+            "ar": "يتشارك الصوديوم والكلور في زوج واحد من الإلكترونات."
+          },
+          "C": {
+            "en": "Sodium transfers one electron to chlorine and energy is released.",
+            "ar": "ينقل الصوديوم إلكترونًا واحدًا إلى الكلور وتنطلق طاقة."
+          },
+          "D": {
+            "en": "Sodium transfers one electron to chlorine and energy is absorbed.",
+            "ar": "ينقل الصوديوم إلكترونًا واحدًا إلى الكلور وتُمتص طاقة."
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q24-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a24.png"
+      },
+      {
+        "id": 25,
+        "answer": "D",
+        "promptEn": "The table shows the melting points of some ionic compounds. Why do ionic compounds have high melting points?",
+        "promptAr": "يبيّن الجدول درجات انصهار بعض المركبات الأيونية. لماذا تكون درجات انصهار المركبات الأيونية مرتفعة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The forces between their molecules are weak.",
+            "ar": "القوى بين جزيئاتها ضعيفة."
+          },
+          "B": {
+            "en": "Their electrons are delocalized.",
+            "ar": "إلكتروناتها غير متمركزة."
+          },
+          "C": {
+            "en": "Their atoms share pairs of electrons.",
+            "ar": "تتشارك ذراتها في أزواج من الإلكترونات."
+          },
+          "D": {
+            "en": "Strong attractions between oppositely charged ions need a lot of energy to break.",
+            "ar": "التجاذب القوي بين الأيونات المختلفة في الشحنة يحتاج طاقة كبيرة لكسره."
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q25-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a25.png"
+      },
+      {
+        "id": 26,
+        "answer": "C",
+        "promptEn": "In which state(s) does sodium chloride, NaCl, conduct an electric current?",
+        "promptAr": "في أي حالة (حالات) يوصل كلوريد الصوديوم ‪NaCl‬ التيار الكهربائي؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Only as a solid",
+            "ar": "في الحالة الصلبة فقط"
+          },
+          "B": {
+            "en": "As a solid and as a liquid",
+            "ar": "في الحالتين الصلبة والسائلة"
+          },
+          "C": {
+            "en": "When molten or dissolved in water",
+            "ar": "عندما يكون منصهرًا أو مذابًا في الماء"
+          },
+          "D": {
+            "en": "It never conducts electricity",
+            "ar": "لا يوصل الكهرباء أبدًا"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a26.png"
+      },
+      {
+        "id": 27,
+        "answer": "B",
+        "promptEn": "What is the formula of the compound formed from the aluminium ion, Al³⁺, and the sulfate ion, SO₄²⁻?",
+        "promptAr": "ما صيغة المركب المتكوّن من أيون الألومنيوم ‪Al³⁺‬ وأيون الكبريتات ‪SO₄²⁻‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "AlSO₄",
+            "ar": "AlSO₄"
+          },
+          "B": {
+            "en": "Al₂(SO₄)₃",
+            "ar": "Al₂(SO₄)₃"
+          },
+          "C": {
+            "en": "Al₃(SO₄)₂",
+            "ar": "Al₃(SO₄)₂"
+          },
+          "D": {
+            "en": "Al(SO₄)₃",
+            "ar": "Al(SO₄)₃"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a27.png"
+      },
+      {
+        "id": 28,
+        "answer": "C",
+        "promptEn": "What is the correct name of the compound Fe₂O₃?",
+        "promptAr": "ما الاسم الصحيح للمركب ‪Fe₂O₃‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Iron oxide",
+            "ar": "أكسيد الحديد"
+          },
+          "B": {
+            "en": "Iron(II) oxide",
+            "ar": "أكسيد الحديد ‪(II)‬"
+          },
+          "C": {
+            "en": "Iron(III) oxide",
+            "ar": "أكسيد الحديد ‪(III)‬"
+          },
+          "D": {
+            "en": "Diiron trioxide",
+            "ar": "ثنائي الحديد ثلاثي الأكسيد"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a28.png"
+      },
+      {
+        "id": 29,
+        "answer": "D",
+        "promptEn": "The figure shows the electron-sea model of a metal. Which statement best describes the valence electrons in a metal?",
+        "promptAr": "يبيّن الشكل نموذج بحر الإلكترونات لفلز. أي عبارة تصف إلكترونات التكافؤ في الفلز بشكل أفضل؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "They are fixed between two atoms.",
+            "ar": "مثبّتة بين ذرتين."
+          },
+          "B": {
+            "en": "They are transferred to nonmetals to form anions.",
+            "ar": "تنتقل إلى اللافلزات لتكوين أيونات سالبة."
+          },
+          "C": {
+            "en": "Each one is held tightly by a single cation.",
+            "ar": "كل إلكترون مرتبط بقوة بكاتيون واحد."
+          },
+          "D": {
+            "en": "They are delocalized and move freely around the metal cations.",
+            "ar": "غير متمركزة وتتحرك بحرية حول كاتيونات الفلز."
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q29-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a29.png"
+      },
+      {
+        "id": 30,
+        "answer": "A",
+        "promptEn": "Which of the following is the definition of a metallic bond?",
+        "promptAr": "أي مما يلي هو تعريف الرابطة الفلزية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The attraction of a metallic cation for delocalized electrons",
+            "ar": "تجاذب كاتيون فلزي مع الإلكترونات غير المتمركزة"
+          },
+          "B": {
+            "en": "The sharing of a pair of electrons between two atoms",
+            "ar": "التشارك في زوج من الإلكترونات بين ذرتين"
+          },
+          "C": {
+            "en": "The attraction between a positive ion and a negative ion",
+            "ar": "التجاذب بين أيون موجب وأيون سالب"
+          },
+          "D": {
+            "en": "The attraction between the nuclei of two metal atoms",
+            "ar": "التجاذب بين نواتي ذرتين فلزيتين"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a30.png"
+      },
+      {
+        "id": 31,
+        "answer": "B",
+        "promptEn": "Which of the following explains the luster (shine) of metals?",
+        "promptAr": "أي مما يلي يفسّر اللمعان (البريق) في الفلزات؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The delocalized electrons move easily.",
+            "ar": "تحرّك الإلكترونات غير المتمركزة بسهولة."
+          },
+          "B": {
+            "en": "The delocalized electrons interact with light.",
+            "ar": "تفاعل الإلكترونات غير المتمركزة مع الضوء."
+          },
+          "C": {
+            "en": "The metal cations move through the delocalized electrons.",
+            "ar": "تحرّك الكاتيونات الفلزية خلال الإلكترونات غير المتمركزة."
+          },
+          "D": {
+            "en": "The electrons are fixed around each metal cation.",
+            "ar": "ثبات الإلكترونات حول كل كاتيون فلزي."
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a31.png"
+      },
+      {
+        "id": 32,
+        "answer": "C",
+        "promptEn": "Which of the following explains why metals are malleable (can be hammered into sheets)?",
+        "promptAr": "أي مما يلي يفسّر قابلية الفلزات للطرق (يمكن تشكيلها صفائح)؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The delocalized electrons move easily.",
+            "ar": "تحرّك الإلكترونات غير المتمركزة بسهولة."
+          },
+          "B": {
+            "en": "The delocalized electrons interact with light.",
+            "ar": "تفاعل الإلكترونات غير المتمركزة مع الضوء."
+          },
+          "C": {
+            "en": "The metal cations move through the delocalized electrons.",
+            "ar": "تحرّك الكاتيونات الفلزية خلال الإلكترونات غير المتمركزة."
+          },
+          "D": {
+            "en": "The electrons are fixed around each metal cation.",
+            "ar": "ثبات الإلكترونات حول كل كاتيون فلزي."
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q32-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a32.png"
+      },
+      {
+        "id": 33,
+        "answer": "A",
+        "promptEn": "Which statement describes a covalent bond?",
+        "promptAr": "أي عبارة تصف الرابطة التساهمية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "A chemical bond that results from sharing valence electrons",
+            "ar": "رابطة كيميائية تنتج عن التشارك في إلكترونات التكافؤ"
+          },
+          "B": {
+            "en": "A bond formed by transferring electrons from a metal to a nonmetal",
+            "ar": "رابطة تتكوّن بانتقال الإلكترونات من فلز إلى لافلز"
+          },
+          "C": {
+            "en": "The attraction of metal cations for delocalized electrons",
+            "ar": "تجاذب الكاتيونات الفلزية مع الإلكترونات غير المتمركزة"
+          },
+          "D": {
+            "en": "The attraction between oppositely charged ions in a crystal",
+            "ar": "التجاذب بين أيونات مختلفة الشحنة في بلورة"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a33.png"
+      },
+      {
+        "id": 34,
+        "answer": "C",
+        "promptEn": "The figure shows two fluorine atoms moving toward each other. At which stage does the covalent bond form?",
+        "promptAr": "يبيّن الشكل ذرتي فلور تقتربان من بعضهما. في أي مرحلة تتكوّن الرابطة التساهمية؟",
+        "context": [
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4"
+        ],
+        "options": {
+          "A": {
+            "en": "Stage 1",
+            "ar": "المرحلة ‪1‬"
+          },
+          "B": {
+            "en": "Stage 2",
+            "ar": "المرحلة ‪2‬"
+          },
+          "C": {
+            "en": "Stage 3",
+            "ar": "المرحلة ‪3‬"
+          },
+          "D": {
+            "en": "Stage 4",
+            "ar": "المرحلة ‪4‬"
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q34-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a34.png"
+      },
+      {
+        "id": 35,
+        "answer": "A",
+        "promptEn": "How many sigma (σ) bonds and pi (π) bonds are there in a molecule of ethene, C₂H₄?",
+        "promptAr": "كم عدد روابط سيجما (σ) وروابط باي (π) في جزيء الإيثين ‪C₂H₄‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "5 σ and 1 π",
+            "ar": "5 σ and 1 π"
+          },
+          "B": {
+            "en": "4 σ and 2 π",
+            "ar": "4 σ and 2 π"
+          },
+          "C": {
+            "en": "6 σ and 0 π",
+            "ar": "6 σ and 0 π"
+          },
+          "D": {
+            "en": "1 σ and 5 π",
+            "ar": "1 σ and 5 π"
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q35-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a35.png"
+      },
+      {
+        "id": 36,
+        "answer": "D",
+        "promptEn": "A nitrogen molecule, N₂, contains a triple covalent bond. What does this triple bond consist of?",
+        "promptAr": "يحتوي جزيء النيتروجين ‪N₂‬ على رابطة تساهمية ثلاثية. مِمَّ تتكوّن هذه الرابطة الثلاثية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "3 sigma bonds",
+            "ar": "‪3‬ روابط سيجما"
+          },
+          "B": {
+            "en": "2 sigma bonds and 1 pi bond",
+            "ar": "رابطتا سيجما ورابطة باي واحدة"
+          },
+          "C": {
+            "en": "3 pi bonds",
+            "ar": "‪3‬ روابط باي"
+          },
+          "D": {
+            "en": "1 sigma bond and 2 pi bonds",
+            "ar": "رابطة سيجما واحدة ورابطتا باي"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a36.png"
+      },
+      {
+        "id": 37,
+        "answer": "B",
+        "promptEn": "Using Table 1, what is the order of covalent bond strength from WEAKEST to STRONGEST?",
+        "promptAr": "باستخدام الجدول ‪1‬، ما ترتيب قوة الرابطة التساهمية من الأضعف إلى الأقوى؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "N₂ < O₂ < F₂",
+            "ar": "N₂ < O₂ < F₂"
+          },
+          "B": {
+            "en": "F₂ < O₂ < N₂",
+            "ar": "F₂ < O₂ < N₂"
+          },
+          "C": {
+            "en": "O₂ < F₂ < N₂",
+            "ar": "O₂ < F₂ < N₂"
+          },
+          "D": {
+            "en": "F₂ < N₂ < O₂",
+            "ar": "F₂ < N₂ < O₂"
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q37-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a37.png"
+      },
+      {
+        "id": 38,
+        "answer": "A",
+        "promptEn": "Which statement is true based on the data in Table 1?",
+        "promptAr": "أي عبارة صحيحة بناءً على البيانات في الجدول ‪1‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The triple bond is the shortest and has the highest bond-dissociation energy.",
+            "ar": "الرابطة الثلاثية هي الأقصر ولها أعلى طاقة تفكك."
+          },
+          "B": {
+            "en": "As bond length increases, bond-dissociation energy increases.",
+            "ar": "كلما زاد طول الرابطة زادت طاقة تفككها."
+          },
+          "C": {
+            "en": "The single bond is the shortest and has the lowest bond-dissociation energy.",
+            "ar": "الرابطة الأحادية هي الأقصر ولها أقل طاقة تفكك."
+          },
+          "D": {
+            "en": "As bond length decreases, bond-dissociation energy decreases.",
+            "ar": "كلما قلّ طول الرابطة قلّت طاقة تفككها."
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q38-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a38.png"
+      },
+      {
+        "id": 39,
+        "answer": "B",
+        "promptEn": "Which compound is NOT named correctly?",
+        "promptAr": "أي مركب سُمّي بشكل غير صحيح؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "SiO₂: silicon dioxide",
+            "ar": "‪SiO₂‬: ثاني أكسيد السيليكون"
+          },
+          "B": {
+            "en": "P₂O₅: pentaphosphorus dioxide",
+            "ar": "‪P₂O₅‬: خماسي الفوسفور ثنائي الأكسيد"
+          },
+          "C": {
+            "en": "N₂O: dinitrogen monoxide",
+            "ar": "‪N₂O‬: أحادي أكسيد ثنائي النيتروجين"
+          },
+          "D": {
+            "en": "CCl₄: carbon tetrachloride",
+            "ar": "‪CCl₄‬: رباعي كلوريد الكربون"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a39.png"
+      },
+      {
+        "id": 40,
+        "answer": "D",
+        "promptEn": "What is the chemical formula of diarsenic trioxide?",
+        "promptAr": "ما الصيغة الكيميائية لثلاثي أكسيد ثنائي الزرنيخ؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "As₃O₂",
+            "ar": "As₃O₂"
+          },
+          "B": {
+            "en": "AsO₃",
+            "ar": "AsO₃"
+          },
+          "C": {
+            "en": "As₂O",
+            "ar": "As₂O"
+          },
+          "D": {
+            "en": "As₂O₃",
+            "ar": "As₂O₃"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a40.png"
+      },
+      {
+        "id": 41,
+        "answer": "A",
+        "promptEn": "Which is the correct chemical formula of hydrobromic acid?",
+        "promptAr": "ما الصيغة الكيميائية الصحيحة لحمض الهيدروبروميك؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "HBr",
+            "ar": "HBr"
+          },
+          "B": {
+            "en": "HBrO₂",
+            "ar": "HBrO₂"
+          },
+          "C": {
+            "en": "HBrO₃",
+            "ar": "HBrO₃"
+          },
+          "D": {
+            "en": "HB",
+            "ar": "HB"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a41.png"
+      },
+      {
+        "id": 42,
+        "answer": "C",
+        "promptEn": "Which is the correct chemical formula of chloric acid?",
+        "promptAr": "ما الصيغة الكيميائية الصحيحة لحمض الكلوريك؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "HClO₂",
+            "ar": "HClO₂"
+          },
+          "B": {
+            "en": "HCl",
+            "ar": "HCl"
+          },
+          "C": {
+            "en": "HClO₃",
+            "ar": "HClO₃"
+          },
+          "D": {
+            "en": "HClO",
+            "ar": "HClO"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a42.png"
+      },
+      {
+        "id": 43,
+        "answer": "C",
+        "promptEn": "Which of the following formulas represents hydrazine?",
+        "promptAr": "أي الصيغ التالية تمثّل الهيدرازين؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "N₂O",
+            "ar": "N₂O"
+          },
+          "B": {
+            "en": "NH₃",
+            "ar": "NH₃"
+          },
+          "C": {
+            "en": "N₂H₄",
+            "ar": "N₂H₄"
+          },
+          "D": {
+            "en": "N₂O₅",
+            "ar": "N₂O₅"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a43.png"
+      },
+      {
+        "id": 44,
+        "answer": "B",
+        "promptEn": "A compound has the molecular compound name nitrogen trihydride. What are its chemical formula and its common name?",
+        "promptAr": "مركب اسمه الجزيئي ثلاثي هيدريد النيتروجين. ما صيغته الكيميائية واسمه الشائع؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "N₃H, hydrazine",
+            "ar": "‪N₃H‬، الهيدرازين"
+          },
+          "B": {
+            "en": "NH₃, ammonia",
+            "ar": "‪NH₃‬، الأمونيا"
+          },
+          "C": {
+            "en": "N₂H₄, ammonia",
+            "ar": "‪N₂H₄‬، الأمونيا"
+          },
+          "D": {
+            "en": "NH₃, hydrazine",
+            "ar": "‪NH₃‬، الهيدرازين"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a44.png"
+      },
+      {
+        "id": 45,
+        "answer": "D",
+        "promptEn": "What is the total number of valence electrons available for bonding in the phosphate ion, PO₄³⁻? (valence electrons: P = 5, O = 6)",
+        "promptAr": "ما العدد الكلي لإلكترونات التكافؤ المتوفرة للترابط في أيون الفوسفات ‪PO₄³⁻‬؟ علمًا أن عدد إلكترونات التكافؤ للفوسفور ‪5‬ وللأكسجين ‪6‬.",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "26",
+            "ar": "26"
+          },
+          "B": {
+            "en": "29",
+            "ar": "29"
+          },
+          "C": {
+            "en": "31",
+            "ar": "31"
+          },
+          "D": {
+            "en": "32",
+            "ar": "32"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a45.png"
+      },
+      {
+        "id": 46,
+        "answer": "A",
+        "promptEn": "How many pairs of unshared electrons (lone pairs) are on the nitrogen atom in the Lewis structure of ammonia, NH₃? (valence electrons: N = 5, H = 1)",
+        "promptAr": "كم عدد أزواج الإلكترونات غير المشتركة على ذرة النيتروجين في بنية لويس لجزيء الأمونيا ‪NH₃‬؟ علمًا أن عدد إلكترونات التكافؤ للنيتروجين ‪5‬ وللهيدروجين ‪1‬.",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "1",
+            "ar": "1"
+          },
+          "B": {
+            "en": "2",
+            "ar": "2"
+          },
+          "C": {
+            "en": "3",
+            "ar": "3"
+          },
+          "D": {
+            "en": "4",
+            "ar": "4"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a46.png"
+      },
+      {
+        "id": 47,
+        "answer": "C",
+        "promptEn": "The figure shows three Lewis structures of the nitrate ion, NO₃⁻. What is the difference between these structures?",
+        "promptAr": "يبيّن الشكل ثلاث بنى لويس لأيون النترات ‪NO₃⁻‬. ما الفرق بين هذه البنى؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The charge of each structure",
+            "ar": "شحنة كل بنية"
+          },
+          "B": {
+            "en": "The positions of the atoms",
+            "ar": "مواقع الذرات"
+          },
+          "C": {
+            "en": "The position of the double bond",
+            "ar": "موقع الرابطة الثنائية"
+          },
+          "D": {
+            "en": "The type of atoms",
+            "ar": "نوع الذرات"
+          }
+        },
+        "figures": [
+          "assets/figures/10a/q47-1.png"
+        ],
+        "solutionImage": "assets/slides/10a/a47.png"
+      },
+      {
+        "id": 48,
+        "answer": "C",
+        "promptEn": "Which of the following does NOT exhibit resonance?",
+        "promptAr": "أيٌّ مما يلي لا يُظهر الرنين؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "O₃",
+            "ar": "O₃"
+          },
+          "B": {
+            "en": "CO₃²⁻",
+            "ar": "CO₃²⁻"
+          },
+          "C": {
+            "en": "CH₄",
+            "ar": "CH₄"
+          },
+          "D": {
+            "en": "SO₃²⁻",
+            "ar": "SO₃²⁻"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a48.png"
+      },
+      {
+        "id": 49,
+        "answer": "B",
+        "promptEn": "Which molecule is an exception to the octet rule because it has an ODD number of valence electrons?",
+        "promptAr": "أي جزيء يُعدّ استثناءً من قاعدة الثماني بسبب وجود عدد فردي من إلكترونات التكافؤ؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "BH₃",
+            "ar": "BH₃"
+          },
+          "B": {
+            "en": "NO₂",
+            "ar": "NO₂"
+          },
+          "C": {
+            "en": "PCl₅",
+            "ar": "PCl₅"
+          },
+          "D": {
+            "en": "XeF₄",
+            "ar": "XeF₄"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a49.png"
+      },
+      {
+        "id": 50,
+        "answer": "D",
+        "promptEn": "In xenon tetrafluoride, XeF₄, how many electrons surround the central xenon atom? (valence electrons: Xe = 8, F = 7)",
+        "promptAr": "في جزيء رباعي فلوريد الزينون ‪XeF₄‬، كم عدد الإلكترونات المحيطة بذرة الزينون المركزية؟ علمًا أن عدد إلكترونات التكافؤ للزينون ‪8‬ وللفلور ‪7‬.",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "6",
+            "ar": "6"
+          },
+          "B": {
+            "en": "8",
+            "ar": "8"
+          },
+          "C": {
+            "en": "10",
+            "ar": "10"
+          },
+          "D": {
+            "en": "12",
+            "ar": "12"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/10a/a50.png"
+      }
+    ]
+  },
+  {
+    "id": "11a",
+    "labelEn": "Grade 11 Advanced",
+    "topic": "Energy and Reaction Rates",
+    "questions": [
+      {
+        "id": 1,
+        "answer": "D",
+        "promptEn": "How much energy in joules is supplied by a breakfast containing 170 nutritional Calories (Cal)?",
+        "promptAr": "ما مقدار الطاقة بوحدة الجول التي توفرها وجبة إفطار تحتوي على ‪170‬ سعرًا غذائيًا ‪Cal‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "170 J",
+            "ar": "170 J"
+          },
+          "B": {
+            "en": "711 J",
+            "ar": "711 J"
+          },
+          "C": {
+            "en": "1.70 × 10⁵ J",
+            "ar": "1.70 × 10⁵ J"
+          },
+          "D": {
+            "en": "7.11 × 10⁵ J",
+            "ar": "7.11 × 10⁵ J"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a1.png"
+      },
+      {
+        "id": 2,
+        "answer": "C",
+        "promptEn": "Which of the following contains the highest number of nutritional Calories?",
+        "promptAr": "أي مما يلي يحتوي على أكبر عدد من السعرات الحرارية الغذائية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "10 Cal",
+            "ar": "10 Cal"
+          },
+          "B": {
+            "en": "9600 J",
+            "ar": "9600 J"
+          },
+          "C": {
+            "en": "86.5 kJ",
+            "ar": "86.5 kJ"
+          },
+          "D": {
+            "en": "1000 cal",
+            "ar": "1000 cal"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a2.png"
+      },
+      {
+        "id": 3,
+        "answer": "A",
+        "promptEn": "The same amount of heat is added to a 10 g sample of each metal in the table. If each metal is initially at 20.0 °C, which metal will reach the highest temperature?",
+        "promptAr": "أُضيفت كمية الحرارة نفسها إلى عينة كتلتها ‪10 g‬ من كل فلز في الجدول. إذا كانت درجة الحرارة الابتدائية لكل فلز ‪20.0 °C‬، فأي الفلزات يصل إلى أعلى درجة حرارة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Gold",
+            "ar": "الذهب"
+          },
+          "B": {
+            "en": "Copper",
+            "ar": "النحاس"
+          },
+          "C": {
+            "en": "Calcium",
+            "ar": "الكالسيوم"
+          },
+          "D": {
+            "en": "Beryllium",
+            "ar": "البريليوم"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q3-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a3.png"
+      },
+      {
+        "id": 4,
+        "answer": "B",
+        "promptEn": "Equal masses of aluminum, gold, iron and silver were left in sunlight for the same time. Which order shows the temperature increase from LARGEST to SMALLEST?",
+        "promptAr": "c in J/(g·°C): Al 0.897, Au 0.129, Fe 0.449, Ag 0.235",
+        "context": [
+          "تُركت كتل متساوية من الألومنيوم والذهب والحديد والفضة في ضوء الشمس للمدة نفسها. أي ترتيب يبيّن الزيادة في درجة الحرارة من الأكبر إلى الأصغر؟"
+        ],
+        "options": {
+          "A": {
+            "en": "aluminum, iron, silver, gold",
+            "ar": "الألومنيوم، الحديد، الفضة، الذهب"
+          },
+          "B": {
+            "en": "gold, silver, iron, aluminum",
+            "ar": "الذهب، الفضة، الحديد، الألومنيوم"
+          },
+          "C": {
+            "en": "gold, iron, silver, aluminum",
+            "ar": "الذهب، الحديد، الفضة، الألومنيوم"
+          },
+          "D": {
+            "en": "silver, gold, aluminum, iron",
+            "ar": "الفضة، الذهب، الألومنيوم، الحديد"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a4.png"
+      },
+      {
+        "id": 5,
+        "answer": "C",
+        "promptEn": "How much heat is absorbed by a 3.00 kg granite boulder as its temperature changes from 10.0 °C to 45.0 °C?",
+        "promptAr": "Specific heat of granite = 0.803 J/(g·°C)",
+        "context": [
+          "ما كمية الحرارة التي تمتصها صخرة جرانيت كتلتها ‪3.00 kg‬ عندما تتغير درجة حرارتها من ‪10.0 °C‬ إلى ‪45.0 °C‬؟"
+        ],
+        "options": {
+          "A": {
+            "en": "84.3 J",
+            "ar": "84.3 J"
+          },
+          "B": {
+            "en": "2.02 × 10⁴ J",
+            "ar": "2.02 × 10⁴ J"
+          },
+          "C": {
+            "en": "8.43 × 10⁴ J",
+            "ar": "8.43 × 10⁴ J"
+          },
+          "D": {
+            "en": "1.08 × 10⁵ J",
+            "ar": "1.08 × 10⁵ J"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a5.png"
+      },
+      {
+        "id": 6,
+        "answer": "B",
+        "promptEn": "A 15.0 g piece of cadmium metal absorbed 32.0 cal of heat. The final temperature was 62.7 °C and the specific heat of cadmium is 0.231 J/(g·°C). What was the initial temperature?",
+        "promptAr": "امتصت قطعة كتلتها ‪15.0 g‬ من فلز الكادميوم ‪32.0 cal‬ من الحرارة. كانت درجة الحرارة النهائية ‪62.7 °C‬ والحرارة النوعية للكادميوم ‪0.231 J/(g·°C)‬. ما درجة الحرارة الابتدائية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "38.7 °C",
+            "ar": "38.7 °C"
+          },
+          "B": {
+            "en": "24.1 °C",
+            "ar": "24.1 °C"
+          },
+          "C": {
+            "en": "9.3 °C",
+            "ar": "9.3 °C"
+          },
+          "D": {
+            "en": "53.4 °C",
+            "ar": "53.4 °C"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a6.png"
+      },
+      {
+        "id": 7,
+        "answer": "B",
+        "promptEn": "A 250 g sample of ethanol at 75.0 °C loses 4655 J of heat. What is the final temperature of the ethanol?",
+        "promptAr": "Specific heat of ethanol = 2.44 J/(g·°C)",
+        "context": [
+          "عينة من الإيثانول كتلتها ‪250 g‬ ودرجة حرارتها ‪75.0 °C‬ فقدت ‪4655 J‬ من الحرارة. ما درجة الحرارة النهائية للإيثانول؟"
+        ],
+        "options": {
+          "A": {
+            "en": "82.6 °C",
+            "ar": "82.6 °C"
+          },
+          "B": {
+            "en": "67.4 °C",
+            "ar": "67.4 °C"
+          },
+          "C": {
+            "en": "59.5 °C",
+            "ar": "59.5 °C"
+          },
+          "D": {
+            "en": "45.8 °C",
+            "ar": "45.8 °C"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a7.png"
+      },
+      {
+        "id": 8,
+        "answer": "C",
+        "promptEn": "A 5.00 × 10³ g block of concrete reached 74.0 °C on a sunny day and cooled to 40.0 °C at night. How much heat did it release?",
+        "promptAr": "Specific heat of concrete = 0.84 J/(g·°C)",
+        "context": [
+          "قطعة خرسانة كتلتها ‪5.00 × 10³ g‬ وصلت درجة حرارتها إلى ‪74.0 °C‬ في يوم مشمس ثم بردت إلى ‪40.0 °C‬ ليلًا. ما كمية الحرارة التي أطلقتها؟"
+        ],
+        "options": {
+          "A": {
+            "en": "1.7 × 10⁵ J",
+            "ar": "1.7 × 10⁵ J"
+          },
+          "B": {
+            "en": "2.5 × 10⁴ J",
+            "ar": "2.5 × 10⁴ J"
+          },
+          "C": {
+            "en": "1.4 × 10⁵ J",
+            "ar": "1.4 × 10⁵ J"
+          },
+          "D": {
+            "en": "3.1 × 10⁵ J",
+            "ar": "3.1 × 10⁵ J"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a8.png"
+      },
+      {
+        "id": 9,
+        "answer": "D",
+        "promptEn": "A 355 g sample of an unknown substance was heated from 22.4 °C to 43.6 °C and absorbed 6.75 kJ of energy. Using the table, which is the substance?",
+        "promptAr": "سُخّنت عينة كتلتها ‪355 g‬ من مادة مجهولة من ‪22.4 °C‬ إلى ‪43.6 °C‬ فامتصت ‪6.75 kJ‬ من الطاقة. باستخدام الجدول، ما المادة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Gold",
+            "ar": "الذهب"
+          },
+          "B": {
+            "en": "Silver",
+            "ar": "الفضة"
+          },
+          "C": {
+            "en": "Iron",
+            "ar": "الحديد"
+          },
+          "D": {
+            "en": "Aluminum",
+            "ar": "الألومنيوم"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q9-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a9.png"
+      },
+      {
+        "id": 10,
+        "answer": "D",
+        "promptEn": "A 360 g piece of hot alloy is placed in 425 g of cold water in a calorimeter. The temperature of the alloy decreases by 205 °C while the temperature of the water increases by 18.7 °C. What is the specific heat of the alloy?",
+        "promptAr": "c(water) = 4.184 J/(g·°C)",
+        "context": [
+          "وُضعت قطعة سبيكة ساخنة كتلتها ‪360 g‬ في ‪425 g‬ من الماء البارد داخل مسعر. انخفضت درجة حرارة السبيكة بمقدار ‪205 °C‬ وارتفعت درجة حرارة الماء بمقدار ‪18.7 °C‬. ما الحرارة النوعية للسبيكة؟"
+        ],
+        "options": {
+          "A": {
+            "en": "0.129 J/(g·°C)",
+            "ar": "0.129 J/(g·°C)"
+          },
+          "B": {
+            "en": "0.235 J/(g·°C)",
+            "ar": "0.235 J/(g·°C)"
+          },
+          "C": {
+            "en": "0.380 J/(g·°C)",
+            "ar": "0.380 J/(g·°C)"
+          },
+          "D": {
+            "en": "0.451 J/(g·°C)",
+            "ar": "0.451 J/(g·°C)"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a10.png"
+      },
+      {
+        "id": 11,
+        "answer": "A",
+        "promptEn": "Which of the following is the definition of thermochemistry?",
+        "promptAr": "أي مما يلي يمثل تعريف الكيمياء الحرارية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The study of heat changes that accompany chemical reactions and phase changes",
+            "ar": "دراسة التغيرات الحرارية المصاحبة للتفاعلات الكيميائية وتغيرات الحالة"
+          },
+          "B": {
+            "en": "The heat content of a system at constant pressure",
+            "ar": "المحتوى الحراري للنظام عند ضغط ثابت"
+          },
+          "C": {
+            "en": "The energy stored in a substance because of its composition",
+            "ar": "الطاقة المختزنة في المادة بسبب تركيبها"
+          },
+          "D": {
+            "en": "The heat needed to raise the temperature of 1 g of a substance by 1 °C",
+            "ar": "الحرارة اللازمة لرفع درجة حرارة ‪1 g‬ من المادة بمقدار ‪1 °C‬"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a11.png"
+      },
+      {
+        "id": 12,
+        "answer": "C",
+        "promptEn": "Barium hydroxide and ammonium thiocyanate crystals are mixed in a beaker on a wet board, and a highly endothermic reaction occurs. In which direction does heat flow?",
+        "promptAr": "عند خلط بلورات هيدروكسيد الباريوم وثيوسيانات الأمونيوم في كأس موضوعة على لوح رطب يحدث تفاعل ماص للحرارة بشدة. ما اتجاه انتقال الحرارة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "From the beaker to the wet board and water",
+            "ar": "من الكأس إلى اللوح الرطب والماء"
+          },
+          "B": {
+            "en": "From the mixture to the universe",
+            "ar": "من الخليط إلى الكون"
+          },
+          "C": {
+            "en": "From the wet board and water to the beaker",
+            "ar": "من اللوح الرطب والماء إلى الكأس"
+          },
+          "D": {
+            "en": "From the system to the surroundings",
+            "ar": "من النظام إلى المحيط"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q12-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a12.png"
+      },
+      {
+        "id": 13,
+        "answer": "D",
+        "promptEn": "Which of the following statements about the foam-cup calorimeter is INCORRECT?",
+        "promptAr": "أي العبارات التالية غير صحيحة فيما يتعلق بالمسعر المصنوع من كوب الفلين؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "It can be used to find the specific heat of an unknown metal",
+            "ar": "يُستخدم لتحديد الحرارة النوعية لفلز مجهول"
+          },
+          "B": {
+            "en": "Reactions carried out in it occur at constant pressure",
+            "ar": "التفاعلات التي تحدث فيه تتم عند ضغط ثابت"
+          },
+          "C": {
+            "en": "It is open to the atmosphere",
+            "ar": "يكون مفتوحًا على الهواء الجوي"
+          },
+          "D": {
+            "en": "The data to be collected is the specific heat",
+            "ar": "البيانات التي يتم جمعها هي الحرارة النوعية"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a13.png"
+      },
+      {
+        "id": 14,
+        "answer": "C",
+        "promptEn": "Which of the following is true about the reaction shown in the diagram?",
+        "promptAr": "أي مما يلي صحيح بالنسبة للتفاعل الموضح في الشكل؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The reaction is endothermic",
+            "ar": "التفاعل ماص للحرارة"
+          },
+          "B": {
+            "en": "This reaction is used in the cold pack",
+            "ar": "يُستخدم هذا التفاعل في الكمادة الباردة"
+          },
+          "C": {
+            "en": "This reaction is used in the heat pack",
+            "ar": "يُستخدم هذا التفاعل في الكمادة الساخنة"
+          },
+          "D": {
+            "en": "The sign of the enthalpy change is positive",
+            "ar": "إشارة التغير في المحتوى الحراري موجبة"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q14-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a14.png"
+      },
+      {
+        "id": 15,
+        "answer": "A",
+        "promptEn": "Which of the following represents the process that takes place in the cold pack shown?",
+        "promptAr": "أي مما يلي يمثل العملية التي تحدث في الكمادة الباردة الموضحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "NH₄NO₃(s) + 27 kJ → NH₄⁺(aq) + NO₃⁻(aq)",
+            "ar": "NH₄NO₃(s) + 27 kJ → NH₄⁺(aq) + NO₃⁻(aq)"
+          },
+          "B": {
+            "en": "NH₄NO₃(s) → NH₄⁺(aq) + NO₃⁻(aq)   ΔH = −27 kJ",
+            "ar": "NH₄NO₃(s) → NH₄⁺(aq) + NO₃⁻(aq)   ΔH = −27 kJ"
+          },
+          "C": {
+            "en": "NH₄NO₃(s) → NH₄⁺(aq) + NO₃⁻(aq)   ΔH < 0",
+            "ar": "NH₄NO₃(s) → NH₄⁺(aq) + NO₃⁻(aq)   ΔH < 0"
+          },
+          "D": {
+            "en": "NH₄NO₃(s) → NH₄⁺(aq) + NO₃⁻(aq) + 27 kJ",
+            "ar": "NH₄NO₃(s) → NH₄⁺(aq) + NO₃⁻(aq) + 27 kJ"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q15-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a15.png"
+      },
+      {
+        "id": 16,
+        "answer": "B",
+        "promptEn": "For the reaction A → C shown in the diagram, which of the following is correct?",
+        "promptAr": "بالنسبة للتفاعل ‪A → C‬ الموضح في الشكل، أي مما يلي صحيح؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "H reactants < H products",
+            "ar": "H reactants < H products"
+          },
+          "B": {
+            "en": "H reactants > H products",
+            "ar": "H reactants > H products"
+          },
+          "C": {
+            "en": "H products = H reactants",
+            "ar": "H products = H reactants"
+          },
+          "D": {
+            "en": "ΔH > 0",
+            "ar": "ΔH > 0"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q16-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a16.png"
+      },
+      {
+        "id": 17,
+        "answer": "B",
+        "promptEn": "Which is correct about the reaction A → C shown in the diagram?",
+        "promptAr": "I. ΔH > 0     II. H products < H reactants",
+        "context": [
+          "III. Heat flows from the surroundings to the system",
+          "أي مما يلي صحيح حول التفاعل ‪A → C‬ الموضح في الشكل؟"
+        ],
+        "options": {
+          "A": {
+            "en": "I only",
+            "ar": "‪I‬ فقط"
+          },
+          "B": {
+            "en": "I and III only",
+            "ar": "‪I‬ و ‪III‬ فقط"
+          },
+          "C": {
+            "en": "II and III only",
+            "ar": "‪II‬ و ‪III‬ فقط"
+          },
+          "D": {
+            "en": "I and II only",
+            "ar": "‪I‬ و ‪II‬ فقط"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q17-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a17.png"
+      },
+      {
+        "id": 18,
+        "answer": "C",
+        "promptEn": "What mass of methane, CH₄, must be burned to release 10,692 kJ of heat?",
+        "promptAr": "ΔHcomb = −891 kJ/mol;  molar mass = 16.04 g/mol",
+        "context": [
+          "ما كتلة الميثان ‪CH₄‬ التي يجب حرقها لإطلاق ‪10,692 kJ‬ من الحرارة؟"
+        ],
+        "options": {
+          "A": {
+            "en": "1.37 g",
+            "ar": "1.37 g"
+          },
+          "B": {
+            "en": "96.3 g",
+            "ar": "96.3 g"
+          },
+          "C": {
+            "en": "192 g",
+            "ar": "192 g"
+          },
+          "D": {
+            "en": "385 g",
+            "ar": "385 g"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a18.png"
+      },
+      {
+        "id": 19,
+        "answer": "A",
+        "promptEn": "What mass of sucrose, C₁₂H₂₂O₁₁, must be burned to release 8466 kJ of heat?",
+        "promptAr": "ما كتلة السكروز ‪C₁₂H₂₂O₁₁‬ التي يجب حرقها لإطلاق ‪8466 kJ‬ من الحرارة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "513.5 g",
+            "ar": "513.5 g"
+          },
+          "B": {
+            "en": "228.2 g",
+            "ar": "228.2 g"
+          },
+          "C": {
+            "en": "684.6 g",
+            "ar": "684.6 g"
+          },
+          "D": {
+            "en": "171.1 g",
+            "ar": "171.1 g"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q19-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a19.png"
+      },
+      {
+        "id": 20,
+        "answer": "D",
+        "promptEn": "What does the zero superscript in the symbol ΔH°comb indicate?",
+        "promptAr": "ما الذي يشير إليه الصفر العلوي في الرمز ‪ΔH°comb‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Standard temperature and pressure (STP)",
+            "ar": "درجة الحرارة والضغط القياسيان ‪STP‬"
+          },
+          "B": {
+            "en": "Low pressure and low temperature",
+            "ar": "ضغط منخفض ودرجة حرارة منخفضة"
+          },
+          "C": {
+            "en": "0 atm pressure and 273 K (0 °C)",
+            "ar": "ضغط ‪0 atm‬ ودرجة حرارة ‪273 K‬"
+          },
+          "D": {
+            "en": "Standard conditions: 1 atm and 298 K (25 °C)",
+            "ar": "الظروف القياسية: ‪1 atm‬ و ‪298 K‬"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a20.png"
+      },
+      {
+        "id": 21,
+        "answer": "B",
+        "promptEn": "The standard enthalpy of combustion of methane is −891 kJ/mol. Which is the correct thermochemical equation for the combustion of methane?",
+        "promptAr": "حرارة الاحتراق القياسية للميثان تساوي ‪−891 kJ/mol‬. ما المعادلة الكيميائية الحرارية الصحيحة لاحتراق الميثان؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)   ΔH = +891 kJ",
+            "ar": "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)   ΔH = +891 kJ"
+          },
+          "B": {
+            "en": "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)   ΔH = −891 kJ",
+            "ar": "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)   ΔH = −891 kJ"
+          },
+          "C": {
+            "en": "CH₄(g) + 2O₂(g) + 891 kJ → CO₂(g) + 2H₂O(l)",
+            "ar": "CH₄(g) + 2O₂(g) + 891 kJ → CO₂(g) + 2H₂O(l)"
+          },
+          "D": {
+            "en": "2CH₄(g) + 4O₂(g) → 2CO₂(g) + 4H₂O(l)   ΔH = −891 kJ",
+            "ar": "2CH₄(g) + 4O₂(g) → 2CO₂(g) + 4H₂O(l)   ΔH = −891 kJ"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a21.png"
+      },
+      {
+        "id": 22,
+        "answer": "B",
+        "promptEn": "Which of the following statements is INCORRECT according to the diagram?",
+        "promptAr": "أي العبارات التالية غير صحيحة اعتمادًا على الشكل؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The system energy increases as ice melts and then evaporates",
+            "ar": "تزداد طاقة النظام عند انصهار الجليد ثم تبخره"
+          },
+          "B": {
+            "en": "The system energy increases as water vapor condenses and then solidifies",
+            "ar": "تزداد طاقة النظام عند تكثف بخار الماء ثم تجمده"
+          },
+          "C": {
+            "en": "Vaporization of water and melting of ice are endothermic",
+            "ar": "تبخر الماء وانصهار الجليد عمليتان ماصتان للحرارة"
+          },
+          "D": {
+            "en": "Condensation and solidification of water are exothermic",
+            "ar": "تكثف الماء وتجمده عمليتان طاردتان للحرارة"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q22-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a22.png"
+      },
+      {
+        "id": 23,
+        "answer": "A",
+        "promptEn": "Which of the following changes are endothermic?",
+        "promptAr": "I. Water vaporization     II. Melting of ice",
+        "context": [
+          "III. Water freezing     IV. Condensing of water vapor",
+          "أي التغيرات التالية ماصة للحرارة؟\n‪I‬. تبخر الماء   ‪II‬. انصهار الجليد   ‪III‬. تجمد الماء   ‪IV‬. تكثف بخار الماء"
+        ],
+        "options": {
+          "A": {
+            "en": "I and II",
+            "ar": "‪I‬ و ‪II‬"
+          },
+          "B": {
+            "en": "I and III",
+            "ar": "‪I‬ و ‪III‬"
+          },
+          "C": {
+            "en": "II and IV",
+            "ar": "‪II‬ و ‪IV‬"
+          },
+          "D": {
+            "en": "III and IV",
+            "ar": "‪III‬ و ‪IV‬"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a23.png"
+      },
+      {
+        "id": 24,
+        "answer": "A",
+        "promptEn": "How much heat is required to vaporize 63.07 g of water at 100 °C?",
+        "promptAr": "ΔHvap = +40.7 kJ/mol;  molar mass of water = 18.02 g/mol",
+        "context": [
+          "ما كمية الحرارة اللازمة لتبخير ‪63.07 g‬ من الماء عند ‪100 °C‬؟"
+        ],
+        "options": {
+          "A": {
+            "en": "142 kJ",
+            "ar": "142 kJ"
+          },
+          "B": {
+            "en": "21.0 kJ",
+            "ar": "21.0 kJ"
+          },
+          "C": {
+            "en": "2.57 × 10³ kJ",
+            "ar": "2.57 × 10³ kJ"
+          },
+          "D": {
+            "en": "40.7 kJ",
+            "ar": "40.7 kJ"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a24.png"
+      },
+      {
+        "id": 25,
+        "answer": "A",
+        "promptEn": "Water is sprayed on oranges during a frosty night. If an average of 29.5 g of water freezes on each orange, how much heat is released?",
+        "promptAr": "molar mass of water = 18.02 g/mol",
+        "context": [
+          "يُرش الماء على البرتقال خلال ليلة باردة. إذا تجمد في المتوسط ‪29.5 g‬ من الماء على كل برتقالة، فما كمية الحرارة المنطلقة؟"
+        ],
+        "options": {
+          "A": {
+            "en": "9.84 kJ",
+            "ar": "9.84 kJ"
+          },
+          "B": {
+            "en": "66.6 kJ",
+            "ar": "66.6 kJ"
+          },
+          "C": {
+            "en": "3195 kJ",
+            "ar": "3195 kJ"
+          },
+          "D": {
+            "en": "21,636 kJ",
+            "ar": "21,636 kJ"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a25.png"
+      },
+      {
+        "id": 26,
+        "answer": "D",
+        "promptEn": "Use Hess's law to calculate ΔH for:  2S(s) + 3O₂(g) → 2SO₃(g)",
+        "promptAr": "2S(s) + 2O₂(g) → 2SO₂(g)   ΔH = −594 kJ",
+        "context": [
+          "2SO₂(g) + O₂(g) → 2SO₃(g)   ΔH = −198 kJ",
+          "باستخدام قانون هس، احسب ‪ΔH‬ للتفاعل الذي ينتج ‪SO₃‬ من المعادلتين المعطاتين."
+        ],
+        "options": {
+          "A": {
+            "en": "+406 kJ",
+            "ar": "+406 kJ"
+          },
+          "B": {
+            "en": "−406 kJ",
+            "ar": "−406 kJ"
+          },
+          "C": {
+            "en": "+792 kJ",
+            "ar": "+792 kJ"
+          },
+          "D": {
+            "en": "−792 kJ",
+            "ar": "−792 kJ"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a26.png"
+      },
+      {
+        "id": 27,
+        "answer": "C",
+        "promptEn": "Use Hess's law to find ΔH for:  NO(g) + O(g) → NO₂(g)",
+        "promptAr": "a. O₂(g) → 2O(g)   ΔH = +495 kJ",
+        "context": [
+          "b. 2O₃(g) → 3O₂(g)   ΔH = −427 kJ",
+          "c. NO(g) + O₃(g) → NO₂(g) + O₂(g)   ΔH = −199 kJ",
+          "استخدم قانون هس لحساب ‪ΔH‬ للتفاعل ‪NO + O → NO₂‬ باستخدام التفاعلات المعطاة."
+        ],
+        "options": {
+          "A": {
+            "en": "+233 kJ",
+            "ar": "+233 kJ"
+          },
+          "B": {
+            "en": "−131 kJ",
+            "ar": "−131 kJ"
+          },
+          "C": {
+            "en": "−233 kJ",
+            "ar": "−233 kJ"
+          },
+          "D": {
+            "en": "+131 kJ",
+            "ar": "+131 kJ"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a27.png"
+      },
+      {
+        "id": 28,
+        "answer": "B",
+        "promptEn": "Which of the following reactions represents the standard enthalpy of formation of the compound produced?",
+        "promptAr": "أي التفاعلات التالية يمثل حرارة التكوين القياسية للمركب الناتج؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "NO(g) + ½O₂(g) → NO₂(g)   ΔH = −58.1 kJ",
+            "ar": "NO(g) + ½O₂(g) → NO₂(g)   ΔH = −58.1 kJ"
+          },
+          "B": {
+            "en": "S(s) + 3/2 O₂(g) → SO₃(g)   ΔH = −396 kJ",
+            "ar": "S(s) + 3/2 O₂(g) → SO₃(g)   ΔH = −396 kJ"
+          },
+          "C": {
+            "en": "SO₃(g) + H₂O(l) → H₂SO₄(l)   ΔH = −133 kJ",
+            "ar": "SO₃(g) + H₂O(l) → H₂SO₄(l)   ΔH = −133 kJ"
+          },
+          "D": {
+            "en": "H₂(g) + F₂(g) → 2HF(g)   ΔH = −546 kJ",
+            "ar": "H₂(g) + F₂(g) → 2HF(g)   ΔH = −546 kJ"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a28.png"
+      },
+      {
+        "id": 29,
+        "answer": "D",
+        "promptEn": "Using information from the figure, which of the following statements is correct?",
+        "promptAr": "مستخدمًا بيانات الشكل، أي العبارات التالية صحيحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The formations of NO₂(g) and SO₃(g) are both endothermic",
+            "ar": "تكوين كل من ‪NO₂(g)‬ و ‪SO₃(g)‬ ماص للحرارة"
+          },
+          "B": {
+            "en": "33.2 kJ is released when 1 mol of NO₂(g) forms",
+            "ar": "تتحرر ‪33.2 kJ‬ عند تكوّن ‪1 mol‬ من ‪NO₂(g)‬"
+          },
+          "C": {
+            "en": "33.2 kJ is absorbed when 1 mol of SO₃(g) forms",
+            "ar": "تُمتص ‪33.2 kJ‬ عند تكوّن ‪1 mol‬ من ‪SO₃(g)‬"
+          },
+          "D": {
+            "en": "Formation of NO₂(g) is endothermic; formation of SO₃(g) is exothermic",
+            "ar": "تكوين ‪NO₂(g)‬ ماص للحرارة بينما تكوين ‪SO₃(g)‬ طارد للحرارة"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q29-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a29.png"
+      },
+      {
+        "id": 30,
+        "answer": "C",
+        "promptEn": "Using standard enthalpies of formation, what is ΔH°rxn for the combustion of methane?",
+        "promptAr": "CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(l)",
+        "context": [
+          "ΔHf° (kJ/mol): CO₂(g) −394;  H₂O(l) −286;  CH₄(g) −75;  O₂(g) 0.0",
+          "باستخدام حرارات التكوين القياسية، ما قيمة ‪ΔH°rxn‬ لاحتراق الميثان؟"
+        ],
+        "options": {
+          "A": {
+            "en": "−605 kJ",
+            "ar": "−605 kJ"
+          },
+          "B": {
+            "en": "−640 kJ",
+            "ar": "−640 kJ"
+          },
+          "C": {
+            "en": "−891 kJ",
+            "ar": "−891 kJ"
+          },
+          "D": {
+            "en": "−1041 kJ",
+            "ar": "−1041 kJ"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a30.png"
+      },
+      {
+        "id": 31,
+        "answer": "B",
+        "promptEn": "Using the standard enthalpies of formation in the table, what is ΔH°rxn for the reaction shown?",
+        "promptAr": "باستخدام قيم حرارة التكوين القياسية في الجدول، ما قيمة ‪ΔH°rxn‬ للتفاعل الموضح؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "−1901 kJ",
+            "ar": "−1901 kJ"
+          },
+          "B": {
+            "en": "−2803 kJ",
+            "ar": "−2803 kJ"
+          },
+          "C": {
+            "en": "−594 kJ",
+            "ar": "−594 kJ"
+          },
+          "D": {
+            "en": "−5349 kJ",
+            "ar": "−5349 kJ"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q31-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a31.png"
+      },
+      {
+        "id": 32,
+        "answer": "A",
+        "promptEn": "What is ΔH°rxn for the reaction below, and is it exothermic or endothermic?",
+        "promptAr": "4NH₃(g) + 7O₂(g) → 4NO₂(g) + 6H₂O(l)",
+        "context": [
+          "ΔHf° (kJ/mol): NH₃ −46.19;  H₂O(l) −285.8;  NO₂ +33.2;  O₂ 0.0",
+          "ما قيمة ‪ΔH°rxn‬ للتفاعل التالي، وهل هو طارد أم ماص للحرارة؟"
+        ],
+        "options": {
+          "A": {
+            "en": "−1397 kJ, exothermic",
+            "ar": "‪−1397 kJ‬، طارد للحرارة"
+          },
+          "B": {
+            "en": "+1397 kJ, endothermic",
+            "ar": "‪+1397 kJ‬، ماص للحرارة"
+          },
+          "C": {
+            "en": "−1582 kJ, exothermic",
+            "ar": "‪−1582 kJ‬، طارد للحرارة"
+          },
+          "D": {
+            "en": "−206 kJ, exothermic",
+            "ar": "‪−206 kJ‬، طارد للحرارة"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a32.png"
+      },
+      {
+        "id": 33,
+        "answer": "B",
+        "promptEn": "Using the standard enthalpies of formation in the table, what is ΔH°rxn for the reaction, and is it exothermic or endothermic?",
+        "promptAr": "باستخدام قيم حرارة التكوين القياسية في الجدول، ما قيمة ‪ΔH°rxn‬ للتفاعل، وهل هو طارد أم ماص للحرارة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "−901.3 kJ, exothermic",
+            "ar": "‪−901.3 kJ‬، طارد للحرارة"
+          },
+          "B": {
+            "en": "−878.2 kJ, exothermic",
+            "ar": "‪−878.2 kJ‬، طارد للحرارة"
+          },
+          "C": {
+            "en": "+878.2 kJ, endothermic",
+            "ar": "‪+878.2 kJ‬، ماص للحرارة"
+          },
+          "D": {
+            "en": "−593.6 kJ, exothermic",
+            "ar": "‪−593.6 kJ‬، طارد للحرارة"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q33-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a33.png"
+      },
+      {
+        "id": 34,
+        "answer": "A",
+        "promptEn": "In the reaction I₂(g) + Cl₂(g) → 2ICl(g), the concentration of I₂ falls from 0.400 M at 0.00 s to 0.300 M at 4.00 s. What is the average reaction rate, expressed as moles of I₂ consumed per liter per second?",
+        "promptAr": "في التفاعل ‪I₂(g) + Cl₂(g) → 2ICl(g)‬، يقل تركيز ‪I₂‬ من ‪0.400 M‬ عند ‪0.00 s‬ إلى ‪0.300 M‬ عند ‪4.00 s‬. ما متوسط سرعة التفاعل معبرًا عنه بعدد مولات ‪I₂‬ المستهلكة لكل لتر في الثانية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "0.0250 mol/(L·s)",
+            "ar": "0.0250 mol/(L·s)"
+          },
+          "B": {
+            "en": "0.0350 mol/(L·s)",
+            "ar": "0.0350 mol/(L·s)"
+          },
+          "C": {
+            "en": "0.870 mol/(L·s)",
+            "ar": "0.870 mol/(L·s)"
+          },
+          "D": {
+            "en": "0.690 mol/(L·s)",
+            "ar": "0.690 mol/(L·s)"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a34.png"
+      },
+      {
+        "id": 35,
+        "answer": "B",
+        "promptEn": "For H₂(g) + Cl₂(g) → 2HCl(g), use the data in the table. What is the average rate at which HCl is formed during the first 4.00 s?",
+        "promptAr": "للتفاعل ‪H₂(g) + Cl₂(g) → 2HCl(g)‬، استخدم البيانات في الجدول. ما متوسط سرعة تكوّن ‪HCl‬ خلال أول ‪4.00 s‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "0.0025 mol/(L·s)",
+            "ar": "0.0025 mol/(L·s)"
+          },
+          "B": {
+            "en": "0.0050 mol/(L·s)",
+            "ar": "0.0050 mol/(L·s)"
+          },
+          "C": {
+            "en": "0.010 mol/(L·s)",
+            "ar": "0.010 mol/(L·s)"
+          },
+          "D": {
+            "en": "0.020 mol/(L·s)",
+            "ar": "0.020 mol/(L·s)"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q35-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a35.png"
+      },
+      {
+        "id": 36,
+        "answer": "A",
+        "promptEn": "The figure shows A₂ and B₂ colliding to form 2AB. According to collision theory, why did this collision produce AB?",
+        "promptAr": "يبيّن الشكل تصادم ‪A₂‬ و ‪B₂‬ لتكوين ‪2AB‬. وفقًا لنظرية التصادم، لماذا نتج ‪AB‬ عن هذا التصادم؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The molecules collided with the correct orientation and sufficient energy.",
+            "ar": "تصادمت الجزيئات باتجاه صحيح وطاقة كافية."
+          },
+          "B": {
+            "en": "The molecules collided with the correct orientation only; energy is not needed.",
+            "ar": "تصادمت الجزيئات باتجاه صحيح فقط؛ ولا يلزم وجود طاقة."
+          },
+          "C": {
+            "en": "The molecules collided with high energy only; orientation does not matter.",
+            "ar": "تصادمت الجزيئات بطاقة عالية فقط؛ ولا يهم الاتجاه."
+          },
+          "D": {
+            "en": "Any collision between A₂ and B₂ always forms products.",
+            "ar": "أي تصادم بين ‪A₂‬ و ‪B₂‬ يكوّن نواتج دائمًا."
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q36-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a36.png"
+      },
+      {
+        "id": 37,
+        "answer": "D",
+        "promptEn": "The figure shows collisions between CO and NO₂ molecules. Why does the collision in figure (c) form products?",
+        "promptAr": "يبيّن الشكل تصادمات بين جزيئات ‪CO‬ و ‪NO₂‬. لماذا يؤدي التصادم في الشكل ‪(c)‬ إلى تكوين نواتج؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The molecules have sufficient energy.",
+            "ar": "تمتلك الجزيئات طاقة كافية."
+          },
+          "B": {
+            "en": "The molecules have insufficient energy.",
+            "ar": "تمتلك الجزيئات طاقة غير كافية."
+          },
+          "C": {
+            "en": "The molecules have the correct orientation.",
+            "ar": "تمتلك الجزيئات اتجاهًا صحيحًا."
+          },
+          "D": {
+            "en": "Both A and C",
+            "ar": "كل من ‪A‬ و ‪C‬"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q37-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a37.png"
+      },
+      {
+        "id": 38,
+        "answer": "B",
+        "promptEn": "In the energy diagram, what does number 3 represent?",
+        "promptAr": "في مخطط الطاقة، ماذا يمثل الرقم ‪3‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Activation energy",
+            "ar": "طاقة التنشيط"
+          },
+          "B": {
+            "en": "Activated complex",
+            "ar": "المعقد المنشط"
+          },
+          "C": {
+            "en": "Reactants",
+            "ar": "المواد المتفاعلة"
+          },
+          "D": {
+            "en": "Products",
+            "ar": "النواتج"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q38-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a38.png"
+      },
+      {
+        "id": 39,
+        "answer": "B",
+        "promptEn": "What is the relationship between the activation energy of a reaction and its rate?",
+        "promptAr": "ما العلاقة بين طاقة التنشيط للتفاعل وسرعته؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Direct: the higher the activation energy, the faster the reaction.",
+            "ar": "طردية: كلما زادت طاقة التنشيط زادت سرعة التفاعل."
+          },
+          "B": {
+            "en": "Inverse: the higher the activation energy, the slower the reaction.",
+            "ar": "عكسية: كلما زادت طاقة التنشيط قلّت سرعة التفاعل."
+          },
+          "C": {
+            "en": "The rate stays the same whatever the activation energy.",
+            "ar": "تبقى السرعة ثابتة مهما كانت طاقة التنشيط."
+          },
+          "D": {
+            "en": "There is no relationship between them.",
+            "ar": "لا توجد علاقة بينهما."
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a39.png"
+      },
+      {
+        "id": 40,
+        "answer": "B",
+        "promptEn": "Study figure (1) and figure (2). Which statement is correct?",
+        "promptAr": "ادرس الشكل ‪(1)‬ والشكل ‪(2)‬. أي العبارات التالية صحيحة؟",
+        "context": [
+          "Figure (2)",
+          "Figure (1)"
+        ],
+        "options": {
+          "A": {
+            "en": "Ea in figure (1) is greater than Ea in figure (2).",
+            "ar": "طاقة التنشيط في الشكل ‪(1)‬ أكبر منها في الشكل ‪(2)‬."
+          },
+          "B": {
+            "en": "Ea in figure (2) is greater than Ea in figure (1).",
+            "ar": "طاقة التنشيط في الشكل ‪(2)‬ أكبر منها في الشكل ‪(1)‬."
+          },
+          "C": {
+            "en": "The reaction in figure (1) is endothermic.",
+            "ar": "التفاعل في الشكل ‪(1)‬ ماص للحرارة."
+          },
+          "D": {
+            "en": "Ea in figure (1) equals Ea in figure (2).",
+            "ar": "طاقة التنشيط في الشكل ‪(1)‬ تساوي طاقة التنشيط في الشكل ‪(2)‬."
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q40-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a40.png"
+      },
+      {
+        "id": 41,
+        "answer": "B",
+        "promptEn": "Which statement about the energy diagram is correct?",
+        "promptAr": "أي العبارات التالية حول مخطط الطاقة صحيحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "4 indicates energy absorbed by the reaction while 5 indicates activation energy.",
+            "ar": "يشير ‪4‬ إلى الطاقة الممتصة في التفاعل بينما يشير ‪5‬ إلى طاقة التنشيط."
+          },
+          "B": {
+            "en": "4 indicates activation energy while 5 indicates energy absorbed by the reaction.",
+            "ar": "يشير ‪4‬ إلى طاقة التنشيط بينما يشير ‪5‬ إلى الطاقة الممتصة في التفاعل."
+          },
+          "C": {
+            "en": "3 indicates the products while 2 indicates the activated complex.",
+            "ar": "يشير ‪3‬ إلى النواتج بينما يشير ‪2‬ إلى المعقد المنشط."
+          },
+          "D": {
+            "en": "4 indicates activation energy while 5 indicates energy released by the reaction.",
+            "ar": "يشير ‪4‬ إلى طاقة التنشيط بينما يشير ‪5‬ إلى الطاقة المنطلقة من التفاعل."
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q41-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a41.png"
+      },
+      {
+        "id": 42,
+        "answer": "C",
+        "promptEn": "The reaction 2SO₂(g) + O₂(g) → 2SO₃(g) is second order in O₂ and fourth order overall. Which is the rate law for this reaction?",
+        "promptAr": "التفاعل ‪2SO₂(g) + O₂(g) → 2SO₃(g)‬ من الرتبة الثانية بالنسبة إلى ‪O₂‬ ومن الرتبة الرابعة إجمالاً. ما قانون السرعة لهذا التفاعل؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Rate = k[SO₂]³[O₂]",
+            "ar": "Rate = k[SO₂]³[O₂]"
+          },
+          "B": {
+            "en": "Rate = k[O₂]⁴[SO₂]",
+            "ar": "Rate = k[O₂]⁴[SO₂]"
+          },
+          "C": {
+            "en": "Rate = k[O₂]²[SO₂]²",
+            "ar": "Rate = k[O₂]²[SO₂]²"
+          },
+          "D": {
+            "en": "Rate = k[SO₂]⁴[O₂]²",
+            "ar": "Rate = k[SO₂]⁴[O₂]²"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a42.png"
+      },
+      {
+        "id": 43,
+        "answer": "B",
+        "promptEn": "The rate law for a reaction is Rate = k[A]²[B]. What happens to the rate if the concentration of A is doubled while [B] stays the same?",
+        "promptAr": "قانون السرعة لتفاعل ما هو ‪Rate = k[A]²[B]‬. ماذا يحدث للسرعة إذا تضاعف تركيز ‪A‬ مع بقاء ‪[B]‬ ثابتًا؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The rate is halved.",
+            "ar": "تقل السرعة إلى النصف."
+          },
+          "B": {
+            "en": "The rate increases four times.",
+            "ar": "تزداد السرعة أربع مرات."
+          },
+          "C": {
+            "en": "The rate increases three times.",
+            "ar": "تزداد السرعة ثلاث مرات."
+          },
+          "D": {
+            "en": "The rate doubles.",
+            "ar": "تتضاعف السرعة."
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a43.png"
+      },
+      {
+        "id": 44,
+        "answer": "C",
+        "promptEn": "Use the experimental initial-rate data in the table. What is the rate law for the reaction aA + bB → products?",
+        "promptAr": "استخدم بيانات السرعة الابتدائية التجريبية في الجدول. ما قانون السرعة للتفاعل ‪aA + bB → products‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Rate = k[A][B]²",
+            "ar": "Rate = k[A][B]²"
+          },
+          "B": {
+            "en": "Rate = k[A]²[B]²",
+            "ar": "Rate = k[A]²[B]²"
+          },
+          "C": {
+            "en": "Rate = k[A]²[B]",
+            "ar": "Rate = k[A]²[B]"
+          },
+          "D": {
+            "en": "Rate = k[A][B]",
+            "ar": "Rate = k[A][B]"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q44-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a44.png"
+      },
+      {
+        "id": 45,
+        "answer": "D",
+        "promptEn": "Use the data in the table for the reaction A + B → products. What is the rate law?",
+        "promptAr": "استخدم البيانات في الجدول للتفاعل ‪A + B → products‬. ما قانون السرعة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Rate = k[A]",
+            "ar": "Rate = k[A]"
+          },
+          "B": {
+            "en": "Rate = k[A][B]",
+            "ar": "Rate = k[A][B]"
+          },
+          "C": {
+            "en": "Rate = k[A]²[B]³",
+            "ar": "Rate = k[A]²[B]³"
+          },
+          "D": {
+            "en": "Rate = k[A]³[B]²",
+            "ar": "Rate = k[A]³[B]²"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q45-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a45.png"
+      },
+      {
+        "id": 46,
+        "answer": "A",
+        "promptEn": "Use the data in the table for 2NO(g) + O₂(g) → 2NO₂(g). What is the value of the specific rate constant k?",
+        "promptAr": "استخدم البيانات في الجدول للتفاعل ‪2NO(g) + O₂(g) → 2NO₂(g)‬. ما قيمة ثابت السرعة النوعي ‪k‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "2.3 × 10² L²/(mol²·s)",
+            "ar": "2.3 × 10² L²/(mol²·s)"
+          },
+          "B": {
+            "en": "6.8 L²/(mol²·s)",
+            "ar": "6.8 L²/(mol²·s)"
+          },
+          "C": {
+            "en": "1.1 × 10⁴ L²/(mol²·s)",
+            "ar": "1.1 × 10⁴ L²/(mol²·s)"
+          },
+          "D": {
+            "en": "7.4 × 10⁻⁸ L²/(mol²·s)",
+            "ar": "7.4 × 10⁻⁸ L²/(mol²·s)"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q46-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a46.png"
+      },
+      {
+        "id": 47,
+        "answer": "A",
+        "promptEn": "For 2NO(g) + H₂(g) → N₂O(g) + H₂O(g), the reaction is first order in H₂ and second order in NO, and k = 2.90 × 10² L²/(mol²·s). If the rate is 9.0 × 10⁻⁵ mol/(L·s) when [H₂] = 0.003 M, what is [NO]?",
+        "promptAr": "للتفاعل ‪2NO(g) + H₂(g) → N₂O(g) + H₂O(g)‬، التفاعل من الرتبة الأولى بالنسبة إلى ‪H₂‬ ومن الرتبة الثانية بالنسبة إلى ‪NO‬، و ‪k = 2.90 × 10² L²/(mol²·s)‬. إذا كانت السرعة ‪9.0 × 10⁻⁵ mol/(L·s)‬ عندما ‪[H₂] = 0.003 M‬، فما قيمة ‪[NO]‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "0.010 M",
+            "ar": "0.010 M"
+          },
+          "B": {
+            "en": "0.002 M",
+            "ar": "0.002 M"
+          },
+          "C": {
+            "en": "0.001 M",
+            "ar": "0.001 M"
+          },
+          "D": {
+            "en": "0.004 M",
+            "ar": "0.004 M"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a47.png"
+      },
+      {
+        "id": 48,
+        "answer": "A",
+        "promptEn": "The rate law for the decomposition of CH₃CHO is Rate = k[CH₃CHO]². Use the table to find the initial concentration of CH₃CHO in trial 6.",
+        "promptAr": "قانون السرعة لتحلل ‪CH₃CHO‬ هو ‪Rate = k[CH₃CHO]²‬. استخدم الجدول لإيجاد التركيز الابتدائي لـ ‪CH₃CHO‬ في التجربة ‪6‬.",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "1.20 × 10⁻² M",
+            "ar": "1.20 × 10⁻² M"
+          },
+          "B": {
+            "en": "1.44 × 10⁻⁴ M",
+            "ar": "1.44 × 10⁻⁴ M"
+          },
+          "C": {
+            "en": "6.00 × 10⁻³ M",
+            "ar": "6.00 × 10⁻³ M"
+          },
+          "D": {
+            "en": "2.40 × 10⁻² M",
+            "ar": "2.40 × 10⁻² M"
+          }
+        },
+        "figures": [
+          "assets/figures/11a/q48-1.png"
+        ],
+        "solutionImage": "assets/slides/11a/a48.png"
+      },
+      {
+        "id": 49,
+        "answer": "C",
+        "promptEn": "For 2NO(g) + H₂(g) → N₂O(g) + H₂O(g), Rate = k[NO]²[H₂] and k = 2.90 × 10² L²/(mol²·s). What is the reaction rate when [NO] = 0.005 M and [H₂] = 0.002 M?",
+        "promptAr": "للتفاعل ‪2NO(g) + H₂(g) → N₂O(g) + H₂O(g)‬، ‪Rate = k[NO]²[H₂]‬ و ‪k = 2.90 × 10² L²/(mol²·s)‬. ما سرعة التفاعل عندما ‪[NO] = 0.005 M‬ و ‪[H₂] = 0.002 M‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "1.0 × 10⁻⁵ mol/(L·s)",
+            "ar": "1.0 × 10⁻⁵ mol/(L·s)"
+          },
+          "B": {
+            "en": "4.8 × 10⁻⁴ mol/(L·s)",
+            "ar": "4.8 × 10⁻⁴ mol/(L·s)"
+          },
+          "C": {
+            "en": "1.45 × 10⁻⁵ mol/(L·s)",
+            "ar": "1.45 × 10⁻⁵ mol/(L·s)"
+          },
+          "D": {
+            "en": "1.3 × 10⁻² mol/(L·s)",
+            "ar": "1.3 × 10⁻² mol/(L·s)"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a49.png"
+      },
+      {
+        "id": 50,
+        "answer": "A",
+        "promptEn": "A reaction A + B → C is first order in A and first order in B, with k = 0.500 L/(mol·s). What is the rate when [A] = 2.0 × 10⁻² M and [B] = 1.5 × 10⁻² M?",
+        "promptAr": "التفاعل ‪A + B → C‬ من الرتبة الأولى بالنسبة إلى ‪A‬ ومن الرتبة الأولى بالنسبة إلى ‪B‬، و ‪k = 0.500 L/(mol·s)‬. ما السرعة عندما ‪[A] = 2.0 × 10⁻² M‬ و ‪[B] = 1.5 × 10⁻² M‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "1.5 × 10⁻⁴ mol/(L·s)",
+            "ar": "1.5 × 10⁻⁴ mol/(L·s)"
+          },
+          "B": {
+            "en": "4.8 × 10⁻⁴ mol/(L·s)",
+            "ar": "4.8 × 10⁻⁴ mol/(L·s)"
+          },
+          "C": {
+            "en": "6.0 × 10⁻⁴ mol/(L·s)",
+            "ar": "6.0 × 10⁻⁴ mol/(L·s)"
+          },
+          "D": {
+            "en": "3.0 × 10⁻² mol/(L·s)",
+            "ar": "3.0 × 10⁻² mol/(L·s)"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11a/a50.png"
+      }
+    ]
+  },
+  {
+    "id": "12g",
+    "labelEn": "Grade 12 General",
+    "topic": "The Mole",
+    "questions": [
+      {
+        "id": 1,
+        "answer": "A",
+        "promptEn": "Which of the following does NOT describe a mole?",
+        "promptAr": "أيٌّ مما يلي لا يصف المول؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "A unit used to count particles directly",
+            "ar": "وحدة تُستخدم لعدّ الجسيمات مباشرةً"
+          },
+          "B": {
+            "en": "Avogadro's number of particles of a substance",
+            "ar": "عدد أفوجادرو من جسيمات المادة"
+          },
+          "C": {
+            "en": "The number of atoms in exactly 12 g of pure carbon-12",
+            "ar": "عدد الذرات في ‪12 g‬ بالضبط من الكربون-‪12‬ النقي"
+          },
+          "D": {
+            "en": "The SI base unit for the amount of a substance",
+            "ar": "الوحدة الأساسية في النظام الدولي لكمية المادة"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a1.png"
+      },
+      {
+        "id": 2,
+        "answer": "A",
+        "promptEn": "Two samples of different elements each represent one mole. Which statement is correct?",
+        "promptAr": "عيّنتان من عنصرين مختلفين تمثل كلٌّ منهما مولًا واحدًا. أي العبارات التالية صحيحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "They contain the same number of atoms.",
+            "ar": "تحتويان على نفس عدد الذرات."
+          },
+          "B": {
+            "en": "They have the same mass.",
+            "ar": "لهما نفس الكتلة."
+          },
+          "C": {
+            "en": "They have the same molar mass.",
+            "ar": "لهما نفس الكتلة المولية."
+          },
+          "D": {
+            "en": "They have the same atomic mass.",
+            "ar": "لهما نفس الكتلة الذرية."
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a2.png"
+      },
+      {
+        "id": 3,
+        "answer": "A",
+        "promptEn": "Which conversion factor is correct to find the number of molecules of a compound from the number of moles of the compound?",
+        "promptAr": "ما معامل التحويل الصحيح لإيجاد عدد الجزيئات لمركب من عدد مولات المركب؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "6.02 × 10²³ molecules / 1 mol",
+            "ar": "6.02 × 10²³ molecules / 1 mol"
+          },
+          "B": {
+            "en": "1 mol / 6.02 × 10²³ molecules",
+            "ar": "1 mol / 6.02 × 10²³ molecules"
+          },
+          "C": {
+            "en": "1 mol × 6.02 × 10²³ molecules",
+            "ar": "1 mol × 6.02 × 10²³ molecules"
+          },
+          "D": {
+            "en": "molar mass × 6.02 × 10²³ molecules",
+            "ar": "molar mass × 6.02 × 10²³ molecules"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a3.png"
+      },
+      {
+        "id": 4,
+        "answer": "B",
+        "promptEn": "Which conversion factor is correct to find the number of moles of a compound from a certain number of its molecules?",
+        "promptAr": "ما معامل التحويل الصحيح لإيجاد عدد مولات مركب من عدد معيّن من جزيئاته؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "6.02 × 10²³ molecules / 1 mol",
+            "ar": "6.02 × 10²³ molecules / 1 mol"
+          },
+          "B": {
+            "en": "1 mol / 6.02 × 10²³ molecules",
+            "ar": "1 mol / 6.02 × 10²³ molecules"
+          },
+          "C": {
+            "en": "1 mol × 6.02 × 10²³ molecules",
+            "ar": "1 mol × 6.02 × 10²³ molecules"
+          },
+          "D": {
+            "en": "molar mass × 6.02 × 10²³ molecules",
+            "ar": "molar mass × 6.02 × 10²³ molecules"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a4.png"
+      },
+      {
+        "id": 5,
+        "answer": "A",
+        "promptEn": "How many moles of aluminium are contained in 5.75 × 10²⁴ atoms of Al?",
+        "promptAr": "كم عدد مولات الألومنيوم الموجودة في ‪5.75 × 10²⁴‬ ذرة من ‪Al‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "9.55 mol Al",
+            "ar": "9.55 mol Al"
+          },
+          "B": {
+            "en": "9.5 × 10⁴⁶ mol Al",
+            "ar": "9.5 × 10⁴⁶ mol Al"
+          },
+          "C": {
+            "en": "3.4 × 10⁴⁶ mol Al",
+            "ar": "3.4 × 10⁴⁶ mol Al"
+          },
+          "D": {
+            "en": "1.05 mol Al",
+            "ar": "1.05 mol Al"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a5.png"
+      },
+      {
+        "id": 6,
+        "answer": "C",
+        "promptEn": "How many moles of iron are contained in 2.50 × 10²⁰ atoms of Fe?",
+        "promptAr": "كم عدد مولات الحديد الموجودة في ‪2.50 × 10²⁰‬ ذرة من ‪Fe‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "2.4 × 10³ mol Fe",
+            "ar": "2.4 × 10³ mol Fe"
+          },
+          "B": {
+            "en": "4.15 × 10⁴³ mol Fe",
+            "ar": "4.15 × 10⁴³ mol Fe"
+          },
+          "C": {
+            "en": "4.15 × 10⁻⁴ mol Fe",
+            "ar": "4.15 × 10⁻⁴ mol Fe"
+          },
+          "D": {
+            "en": "2.4 mol Fe",
+            "ar": "2.4 mol Fe"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a6.png"
+      },
+      {
+        "id": 7,
+        "answer": "B",
+        "promptEn": "How many Zn atoms are in 3 mol of the element zinc? (Avogadro's number = 6.02 × 10²³)",
+        "promptAr": "ما عدد ذرات ‪Zn‬ الموجودة في ‪3 mol‬ من عنصر الخارصين؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "1.2 × 10²⁴",
+            "ar": "1.2 × 10²⁴"
+          },
+          "B": {
+            "en": "1.81 × 10²⁴",
+            "ar": "1.81 × 10²⁴"
+          },
+          "C": {
+            "en": "3.0 × 10²⁴",
+            "ar": "3.0 × 10²⁴"
+          },
+          "D": {
+            "en": "2.01 × 10²³",
+            "ar": "2.01 × 10²³"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a7.png"
+      },
+      {
+        "id": 8,
+        "answer": "B",
+        "promptEn": "Arrange these samples from smallest to largest number of representative particles: 1.25 × 10²⁵ atoms of Zn, 3.56 mol of Fe, 6.78 × 10²² molecules of glucose.",
+        "promptAr": "رتّب العيّنات التالية من الأصغر إلى الأكبر حسب عدد الجسيمات الممثلة:",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "zinc < iron < glucose",
+            "ar": "zinc < iron < glucose"
+          },
+          "B": {
+            "en": "glucose < iron < zinc",
+            "ar": "glucose < iron < zinc"
+          },
+          "C": {
+            "en": "iron < glucose < zinc",
+            "ar": "iron < glucose < zinc"
+          },
+          "D": {
+            "en": "glucose < zinc < iron",
+            "ar": "glucose < zinc < iron"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a8.png"
+      },
+      {
+        "id": 9,
+        "answer": "A",
+        "promptEn": "Which of the following represents one mole of copper?",
+        "promptAr": "أيٌّ مما يلي يمثل مولًا واحدًا من النحاس؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "6.02 × 10²³ atoms",
+            "ar": "‪6.02 × 10²³‬ ذرة"
+          },
+          "B": {
+            "en": "A number equal to the atomic number of copper",
+            "ar": "عدد يساوي العدد الذري للنحاس"
+          },
+          "C": {
+            "en": "The mass of 1 g of copper",
+            "ar": "كتلة ‪1 g‬ من النحاس"
+          },
+          "D": {
+            "en": "The number of copper atoms in 1 g of pure copper",
+            "ar": "عدد ذرات النحاس في ‪1 g‬ من النحاس النقي"
+          }
+        },
+        "figures": [
+          "assets/figures/12g/q9-1.png"
+        ],
+        "solutionImage": "assets/slides/12g/a9.png"
+      },
+      {
+        "id": 10,
+        "answer": "D",
+        "promptEn": "Which of the following represents one mole of sodium chloride, NaCl?",
+        "promptAr": "أيٌّ مما يلي يمثل مولًا واحدًا من كلوريد الصوديوم ‪NaCl‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The mass of 1 g of water",
+            "ar": "كتلة ‪1 g‬ من الماء"
+          },
+          "B": {
+            "en": "A number equal to the atomic number of water",
+            "ar": "عدد يساوي العدد الذري للماء"
+          },
+          "C": {
+            "en": "The number of atoms in 1 g of pure copper",
+            "ar": "عدد الذرات في ‪1 g‬ من النحاس النقي"
+          },
+          "D": {
+            "en": "6.02 × 10²³ formula units",
+            "ar": "‪6.02 × 10²³‬ وحدة صيغة"
+          }
+        },
+        "figures": [
+          "assets/figures/12g/q10-1.png"
+        ],
+        "solutionImage": "assets/slides/12g/a10.png"
+      },
+      {
+        "id": 11,
+        "answer": "B",
+        "promptEn": "What is the SI base unit used to measure the amount of a substance?",
+        "promptAr": "ما الوحدة الأساسية في النظام الدولي ‪SI‬ المستخدمة لقياس كمية المادة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "gram",
+            "ar": "الجرام"
+          },
+          "B": {
+            "en": "mole",
+            "ar": "المول"
+          },
+          "C": {
+            "en": "liter",
+            "ar": "اللتر"
+          },
+          "D": {
+            "en": "kelvin",
+            "ar": "الكلفن"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a11.png"
+      },
+      {
+        "id": 12,
+        "answer": "C",
+        "promptEn": "The mole is defined as the number of carbon atoms in exactly how many grams of pure carbon-12?",
+        "promptAr": "يُعرَّف المول بأنه عدد ذرات الكربون الموجودة في كم جرامًا بالضبط من الكربون-‪12‬ النقي؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "1 g",
+            "ar": "1 g"
+          },
+          "B": {
+            "en": "6 g",
+            "ar": "6 g"
+          },
+          "C": {
+            "en": "12 g",
+            "ar": "12 g"
+          },
+          "D": {
+            "en": "6.02 × 10²³ g",
+            "ar": "6.02 × 10²³ g"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a12.png"
+      },
+      {
+        "id": 13,
+        "answer": "D",
+        "promptEn": "What is the number of molecules in 3.50 mol of sucrose? (Avogadro's number = 6.02 × 10²³)",
+        "promptAr": "ما عدد الجزيئات الموجودة في ‪3.50 mol‬ من السكروز؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "3.02 × 10²⁴",
+            "ar": "3.02 × 10²⁴"
+          },
+          "B": {
+            "en": "1.07 × 10²⁴",
+            "ar": "1.07 × 10²⁴"
+          },
+          "C": {
+            "en": "9.33 × 10²⁴",
+            "ar": "9.33 × 10²⁴"
+          },
+          "D": {
+            "en": "2.11 × 10²⁴",
+            "ar": "2.11 × 10²⁴"
+          }
+        },
+        "figures": [
+          "assets/figures/12g/q13-1.png"
+        ],
+        "solutionImage": "assets/slides/12g/a13.png"
+      },
+      {
+        "id": 14,
+        "answer": "B",
+        "promptEn": "Calculate the number of molecules in 11.5 mol of water, H₂O.",
+        "promptAr": "احسب عدد الجزيئات الموجودة في ‪11.5 mol‬ من الماء ‪H₂O‬.",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "1.91 × 10⁻²³",
+            "ar": "1.91 × 10⁻²³"
+          },
+          "B": {
+            "en": "6.92 × 10²⁴",
+            "ar": "6.92 × 10²⁴"
+          },
+          "C": {
+            "en": "6.92 × 10²³",
+            "ar": "6.92 × 10²³"
+          },
+          "D": {
+            "en": "2.07 × 10²⁴",
+            "ar": "2.07 × 10²⁴"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a14.png"
+      },
+      {
+        "id": 15,
+        "answer": "C",
+        "promptEn": "How many moles of zinc are in 1.204 × 10²⁴ atoms of zinc?",
+        "promptAr": "كم عدد مولات الخارصين الموجودة في ‪1.204 × 10²⁴‬ ذرة من الخارصين؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "0.500 mol",
+            "ar": "0.500 mol"
+          },
+          "B": {
+            "en": "7.25 × 10⁴⁷ mol",
+            "ar": "7.25 × 10⁴⁷ mol"
+          },
+          "C": {
+            "en": "2.00 mol",
+            "ar": "2.00 mol"
+          },
+          "D": {
+            "en": "20.0 mol",
+            "ar": "20.0 mol"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a15.png"
+      },
+      {
+        "id": 16,
+        "answer": "A",
+        "promptEn": "A sample contains 3.25 × 10²⁰ representative particles. How many moles is this?",
+        "promptAr": "تحتوي عيّنة على ‪3.25 × 10²⁰‬ جسيمًا ممثلًا. كم مولًا تمثل هذه العيّنة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "5.40 × 10⁻⁴ mol",
+            "ar": "5.40 × 10⁻⁴ mol"
+          },
+          "B": {
+            "en": "1.96 × 10⁴⁴ mol",
+            "ar": "1.96 × 10⁴⁴ mol"
+          },
+          "C": {
+            "en": "1.85 × 10³ mol",
+            "ar": "1.85 × 10³ mol"
+          },
+          "D": {
+            "en": "5.40 × 10⁴ mol",
+            "ar": "5.40 × 10⁴ mol"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a16.png"
+      },
+      {
+        "id": 17,
+        "answer": "A",
+        "promptEn": "In which unit is the molar mass of an element expressed?",
+        "promptAr": "ما الوحدة التي تُقاس بها الكتلة المولية للعنصر؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "g/mol",
+            "ar": "g/mol"
+          },
+          "B": {
+            "en": "amu",
+            "ar": "amu"
+          },
+          "C": {
+            "en": "mol/g",
+            "ar": "mol/g"
+          },
+          "D": {
+            "en": "g",
+            "ar": "g"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a17.png"
+      },
+      {
+        "id": 18,
+        "answer": "C",
+        "promptEn": "Using the periodic table, what is the molar mass of the element nitrogen, N?",
+        "promptAr": "باستخدام الجدول الدوري، ما الكتلة المولية لعنصر النيتروجين ‪N‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "28 g/mol",
+            "ar": "28 g/mol"
+          },
+          "B": {
+            "en": "16 g/mol",
+            "ar": "16 g/mol"
+          },
+          "C": {
+            "en": "14 g/mol",
+            "ar": "14 g/mol"
+          },
+          "D": {
+            "en": "32 g/mol",
+            "ar": "32 g/mol"
+          }
+        },
+        "figures": [
+          "assets/figures/12g/q18-1.png"
+        ],
+        "solutionImage": "assets/slides/12g/a18.png"
+      },
+      {
+        "id": 19,
+        "answer": "C",
+        "promptEn": "Which is the correct conversion factor to find the moles of an element in a certain mass of the element?",
+        "promptAr": "ما معامل التحويل الصحيح لإيجاد مولات العنصر الموجودة في كتلة معيّنة منه؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "1 mol × number of grams",
+            "ar": "1 mol × number of grams"
+          },
+          "B": {
+            "en": "mass in grams / 1 mol",
+            "ar": "mass in grams / 1 mol"
+          },
+          "C": {
+            "en": "1 mol / mass in grams",
+            "ar": "1 mol / mass in grams"
+          },
+          "D": {
+            "en": "1 mol / 6.02 × 10²³ atoms",
+            "ar": "1 mol / 6.02 × 10²³ atoms"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a19.png"
+      },
+      {
+        "id": 20,
+        "answer": "B",
+        "promptEn": "Which is the correct conversion factor to find the mass of an element in a certain number of moles of the element?",
+        "promptAr": "ما معامل التحويل الصحيح لإيجاد كتلة العنصر الموجودة في عدد معيّن من مولاته؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "1 mol × number of grams",
+            "ar": "1 mol × number of grams"
+          },
+          "B": {
+            "en": "mass in grams / 1 mol",
+            "ar": "mass in grams / 1 mol"
+          },
+          "C": {
+            "en": "1 mol / mass in grams",
+            "ar": "1 mol / mass in grams"
+          },
+          "D": {
+            "en": "1 mol / 6.02 × 10²³ atoms",
+            "ar": "1 mol / 6.02 × 10²³ atoms"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a20.png"
+      },
+      {
+        "id": 21,
+        "answer": "D",
+        "promptEn": "How many moles are in 191 g of Cu? (Molar mass of Cu = 63.546 g/mol)",
+        "promptAr": "كم مولًا يوجد في ‪191 g‬ من ‪Cu‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "4.5 mol",
+            "ar": "4.5 mol"
+          },
+          "B": {
+            "en": "2 mol",
+            "ar": "2 mol"
+          },
+          "C": {
+            "en": "1.5 mol",
+            "ar": "1.5 mol"
+          },
+          "D": {
+            "en": "3 mol",
+            "ar": "3 mol"
+          }
+        },
+        "figures": [
+          "assets/figures/12g/q21-1.png"
+        ],
+        "solutionImage": "assets/slides/12g/a21.png"
+      },
+      {
+        "id": 22,
+        "answer": "B",
+        "promptEn": "How many moles are in 111.70 g of Fe? (Molar mass of Fe = 55.85 g/mol)",
+        "promptAr": "كم مولًا يوجد في ‪111.70 g‬ من ‪Fe‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "4.5 mol",
+            "ar": "4.5 mol"
+          },
+          "B": {
+            "en": "2 mol",
+            "ar": "2 mol"
+          },
+          "C": {
+            "en": "1.5 mol",
+            "ar": "1.5 mol"
+          },
+          "D": {
+            "en": "3 mol",
+            "ar": "3 mol"
+          }
+        },
+        "figures": [
+          "assets/figures/12g/q22-1.png"
+        ],
+        "solutionImage": "assets/slides/12g/a22.png"
+      },
+      {
+        "id": 23,
+        "answer": "B",
+        "promptEn": "What is the central unit of conversions between mass and representative particles (atoms, ions or molecules) in the figure?",
+        "promptAr": "ما الوحدة المركزية للتحويلات بين الكتلة والجسيمات الممثلة (الذرات أو الأيونات أو الجزيئات) في الشكل؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Particles",
+            "ar": "عدد الجسيمات"
+          },
+          "B": {
+            "en": "Moles",
+            "ar": "عدد المولات"
+          },
+          "C": {
+            "en": "Atoms",
+            "ar": "عدد الذرات"
+          },
+          "D": {
+            "en": "Grams",
+            "ar": "عدد الجرامات"
+          }
+        },
+        "figures": [
+          "assets/figures/12g/q23-1.png"
+        ],
+        "solutionImage": "assets/slides/12g/a23.png"
+      },
+      {
+        "id": 24,
+        "answer": "C",
+        "promptEn": "How many conversion steps are needed to calculate how many representative particles are in a certain mass of an element?",
+        "promptAr": "كم خطوة تحويل نحتاج لحساب عدد الجسيمات الممثلة الموجودة في كتلة معيّنة من عنصر؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Four steps",
+            "ar": "أربع خطوات"
+          },
+          "B": {
+            "en": "Three steps",
+            "ar": "ثلاث خطوات"
+          },
+          "C": {
+            "en": "Two steps",
+            "ar": "خطوتان"
+          },
+          "D": {
+            "en": "One step",
+            "ar": "خطوة واحدة"
+          }
+        },
+        "figures": [
+          "assets/figures/12g/q24-1.png"
+        ],
+        "solutionImage": "assets/slides/12g/a24.png"
+      },
+      {
+        "id": 25,
+        "answer": "D",
+        "promptEn": "What is the mass in grams of 1.0 × 10²⁴ atoms of Mn? (Molar mass of Mn = 54.94 g/mol)",
+        "promptAr": "ما الكتلة بالجرام لـ ‪1.0 × 10²⁴‬ ذرة من ‪Mn‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "5.5 × 10²⁵ g",
+            "ar": "5.5 × 10²⁵ g"
+          },
+          "B": {
+            "en": "0.03 g",
+            "ar": "0.03 g"
+          },
+          "C": {
+            "en": "2.04 × 10²³ g",
+            "ar": "2.04 × 10²³ g"
+          },
+          "D": {
+            "en": "91.3 g",
+            "ar": "91.3 g"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a25.png"
+      },
+      {
+        "id": 26,
+        "answer": "C",
+        "promptEn": "How many atoms are in 55.2 g of Li? (Molar mass of Li = 6.94 g/mol)",
+        "promptAr": "ما عدد الذرات الموجودة في ‪55.2 g‬ من ‪Li‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "3.3 × 10²⁵ atoms",
+            "ar": "3.3 × 10²⁵ atoms"
+          },
+          "B": {
+            "en": "7.95 atoms",
+            "ar": "7.95 atoms"
+          },
+          "C": {
+            "en": "4.79 × 10²⁴ atoms",
+            "ar": "4.79 × 10²⁴ atoms"
+          },
+          "D": {
+            "en": "383.0 atoms",
+            "ar": "383.0 atoms"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a26.png"
+      },
+      {
+        "id": 27,
+        "answer": "B",
+        "promptEn": "Figure 6 shows 55.85 g of iron on a balance. The molar mass of Fe is 55.85 g/mol. What does this sample represent?",
+        "promptAr": "يبيّن الشكل ‪6‬ كتلة ‪55.85 g‬ من الحديد على ميزان. ماذا تمثل هذه العيّنة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "1 atom of iron",
+            "ar": "ذرة واحدة من الحديد"
+          },
+          "B": {
+            "en": "6.02 × 10²³ atoms of iron (1 mol)",
+            "ar": "‪6.02 × 10²³‬ ذرة من الحديد ‪(1 mol)‬"
+          },
+          "C": {
+            "en": "55.85 atoms of iron",
+            "ar": "‪55.85‬ ذرة من الحديد"
+          },
+          "D": {
+            "en": "26 mol of iron",
+            "ar": "‪26 mol‬ من الحديد"
+          }
+        },
+        "figures": [
+          "assets/figures/12g/q27-1.png"
+        ],
+        "solutionImage": "assets/slides/12g/a27.png"
+      },
+      {
+        "id": 28,
+        "answer": "D",
+        "promptEn": "Using the periodic table, what is the molar mass of the element fluorine, F?",
+        "promptAr": "باستخدام الجدول الدوري، ما الكتلة المولية لعنصر الفلور ‪F‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "32 g/mol",
+            "ar": "32 g/mol"
+          },
+          "B": {
+            "en": "57 g/mol",
+            "ar": "57 g/mol"
+          },
+          "C": {
+            "en": "38 g/mol",
+            "ar": "38 g/mol"
+          },
+          "D": {
+            "en": "19 g/mol",
+            "ar": "19 g/mol"
+          }
+        },
+        "figures": [
+          "assets/figures/12g/q28-1.png"
+        ],
+        "solutionImage": "assets/slides/12g/a28.png"
+      },
+      {
+        "id": 29,
+        "answer": "D",
+        "promptEn": "What is the number of atoms in a 2.50 mol sample of zinc, Zn? (Avogadro's number = 6.02 × 10²³)",
+        "promptAr": "ما عدد الذرات في عيّنة مقدارها ‪2.50 mol‬ من الخارصين ‪Zn‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "9.33 × 10²⁴ atoms",
+            "ar": "9.33 × 10²⁴ atoms"
+          },
+          "B": {
+            "en": "1.07 × 10²⁴ atoms",
+            "ar": "1.07 × 10²⁴ atoms"
+          },
+          "C": {
+            "en": "3.02 × 10²⁴ atoms",
+            "ar": "3.02 × 10²⁴ atoms"
+          },
+          "D": {
+            "en": "1.51 × 10²⁴ atoms",
+            "ar": "1.51 × 10²⁴ atoms"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a29.png"
+      },
+      {
+        "id": 30,
+        "answer": "A",
+        "promptEn": "How many aluminium ions, Al³⁺, are present in 2.5 mol of aluminium oxide, Al₂O₃? (Avogadro's number = 6.02 × 10²³)",
+        "promptAr": "ما عدد أيونات الألومنيوم ‪Al³⁺‬ الموجودة في ‪2.5 mol‬ من أكسيد الألومنيوم ‪Al₂O₃‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "3.01 × 10²⁴",
+            "ar": "3.01 × 10²⁴"
+          },
+          "B": {
+            "en": "1.2 × 10²⁴",
+            "ar": "1.2 × 10²⁴"
+          },
+          "C": {
+            "en": "2.4 × 10²³",
+            "ar": "2.4 × 10²³"
+          },
+          "D": {
+            "en": "4.8 × 10²³",
+            "ar": "4.8 × 10²³"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a30.png"
+      },
+      {
+        "id": 31,
+        "answer": "A",
+        "promptEn": "How many moles are in 130.1 g of Cr? (Molar mass of Cr = 52 g/mol)",
+        "promptAr": "كم مولًا يوجد في ‪130.1 g‬ من ‪Cr‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "2.5 mol",
+            "ar": "2.5 mol"
+          },
+          "B": {
+            "en": "2 mol",
+            "ar": "2 mol"
+          },
+          "C": {
+            "en": "1.5 mol",
+            "ar": "1.5 mol"
+          },
+          "D": {
+            "en": "3 mol",
+            "ar": "3 mol"
+          }
+        },
+        "figures": [
+          "assets/figures/12g/q31-1.png"
+        ],
+        "solutionImage": "assets/slides/12g/a31.png"
+      },
+      {
+        "id": 32,
+        "answer": "B",
+        "promptEn": "Calculate the mass in grams of 0.0450 mol of chromium, Cr. (Molar mass of Cr = 52.00 g/mol)",
+        "promptAr": "احسب الكتلة بالجرام لـ ‪0.0450 mol‬ من الكروم ‪Cr‬.",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "0.000865 g",
+            "ar": "0.000865 g"
+          },
+          "B": {
+            "en": "2.34 g",
+            "ar": "2.34 g"
+          },
+          "C": {
+            "en": "1156 g",
+            "ar": "1156 g"
+          },
+          "D": {
+            "en": "23.4 g",
+            "ar": "23.4 g"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a32.png"
+      },
+      {
+        "id": 33,
+        "answer": "B",
+        "promptEn": "How many moles of Cl⁻ ions are present in 1.5 mol of iron(III) chloride, FeCl₃?",
+        "promptAr": "كم عدد مولات أيون ‪Cl⁻‬ الموجودة في ‪1.5 mol‬ من كلوريد الحديد ‪(III) FeCl₃‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "3",
+            "ar": "3"
+          },
+          "B": {
+            "en": "4.5",
+            "ar": "4.5"
+          },
+          "C": {
+            "en": "6",
+            "ar": "6"
+          },
+          "D": {
+            "en": "1.5",
+            "ar": "1.5"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a33.png"
+      },
+      {
+        "id": 34,
+        "answer": "A",
+        "promptEn": "What is the number of moles of carbon atoms present in 1.25 mol of glucose, C₆H₁₂O₆?",
+        "promptAr": "كم عدد مولات ذرات الكربون في ‪1.25 mol‬ من الجلوكوز ‪C₆H₁₂O₆‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "7.5",
+            "ar": "7.5"
+          },
+          "B": {
+            "en": "4.8",
+            "ar": "4.8"
+          },
+          "C": {
+            "en": "15",
+            "ar": "15"
+          },
+          "D": {
+            "en": "0.2",
+            "ar": "0.2"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a34.png"
+      },
+      {
+        "id": 35,
+        "answer": "B",
+        "promptEn": "What is the number of moles of sulfate ions, SO₄²⁻, present in 3.00 mol of iron(III) sulfate, Fe₂(SO₄)₃?",
+        "promptAr": "كم عدد مولات أيون الكبريتات ‪SO₄²⁻‬ في ‪3.00 mol‬ من كبريتات الحديد ‪(III) Fe₂(SO₄)₃‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "18",
+            "ar": "18"
+          },
+          "B": {
+            "en": "9",
+            "ar": "9"
+          },
+          "C": {
+            "en": "6",
+            "ar": "6"
+          },
+          "D": {
+            "en": "36",
+            "ar": "36"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a35.png"
+      },
+      {
+        "id": 36,
+        "answer": "C",
+        "promptEn": "How many moles of oxygen atoms are present in 5.00 mol of diphosphorus pentoxide, P₂O₅?",
+        "promptAr": "كم عدد مولات ذرات الأكسجين الموجودة في ‪5.00 mol‬ من خامس أكسيد ثنائي الفوسفور ‪P₂O₅‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "5.00 mol",
+            "ar": "5.00 mol"
+          },
+          "B": {
+            "en": "10.0 mol",
+            "ar": "10.0 mol"
+          },
+          "C": {
+            "en": "25.0 mol",
+            "ar": "25.0 mol"
+          },
+          "D": {
+            "en": "35.0 mol",
+            "ar": "35.0 mol"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a36.png"
+      },
+      {
+        "id": 37,
+        "answer": "A",
+        "promptEn": "What is the mass of 3.25 mol of sulfuric acid, H₂SO₄? (Molar mass of H₂SO₄ = 98.08 g/mol)",
+        "promptAr": "ما كتلة ‪3.25 mol‬ من حمض الكبريتيك ‪H₂SO₄‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "319 g",
+            "ar": "319 g"
+          },
+          "B": {
+            "en": "159 g",
+            "ar": "159 g"
+          },
+          "C": {
+            "en": "478 g",
+            "ar": "478 g"
+          },
+          "D": {
+            "en": "637 g",
+            "ar": "637 g"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a37.png"
+      },
+      {
+        "id": 38,
+        "answer": "D",
+        "promptEn": "What is the mass of 0.133 mol of silver nitrate, AgNO₃? (Molar mass of AgNO₃ = 169.9 g/mol)",
+        "promptAr": "ما كتلة ‪0.133 mol‬ من نترات الفضة ‪AgNO₃‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "169.9 g",
+            "ar": "169.9 g"
+          },
+          "B": {
+            "en": "7.8 × 10⁻⁴ g",
+            "ar": "7.8 × 10⁻⁴ g"
+          },
+          "C": {
+            "en": "1277 g",
+            "ar": "1277 g"
+          },
+          "D": {
+            "en": "22.6 g",
+            "ar": "22.6 g"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a38.png"
+      },
+      {
+        "id": 39,
+        "answer": "C",
+        "promptEn": "How many moles are in 80.7 g of zinc sulfate, ZnSO₄? (Molar mass of ZnSO₄ = 161.46 g/mol)",
+        "promptAr": "ما عدد مولات ‪80.7 g‬ من كبريتات الخارصين ‪ZnSO₄‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "2 mol",
+            "ar": "2 mol"
+          },
+          "B": {
+            "en": "6.1 mol",
+            "ar": "6.1 mol"
+          },
+          "C": {
+            "en": "0.5 mol",
+            "ar": "0.5 mol"
+          },
+          "D": {
+            "en": "13030 mol",
+            "ar": "13030 mol"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a39.png"
+      },
+      {
+        "id": 40,
+        "answer": "A",
+        "promptEn": "Calculate the number of moles of calcium hydroxide, Ca(OH)₂, in 325 g of the compound.",
+        "promptAr": "احسب عدد مولات هيدروكسيد الكالسيوم ‪Ca(OH)₂‬ في ‪325 g‬ من المركب.",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "4.39 mol",
+            "ar": "4.39 mol"
+          },
+          "B": {
+            "en": "0.228 mol",
+            "ar": "0.228 mol"
+          },
+          "C": {
+            "en": "2.41 × 10⁴ mol",
+            "ar": "2.41 × 10⁴ mol"
+          },
+          "D": {
+            "en": "5.69 mol",
+            "ar": "5.69 mol"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a40.png"
+      },
+      {
+        "id": 41,
+        "answer": "D",
+        "promptEn": "How many carbon dioxide, CO₂, molecules are in 110.6 g of CO₂? (Molar mass of CO₂ = 44 g/mol; Avogadro's number = 6.02 × 10²³)",
+        "promptAr": "ما عدد جزيئات ثاني أكسيد الكربون ‪CO₂‬ الموجودة في ‪110.6 g‬ من ‪CO₂‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "2.9 × 10²⁷",
+            "ar": "2.9 × 10²⁷"
+          },
+          "B": {
+            "en": "1.2 × 10²⁴",
+            "ar": "1.2 × 10²⁴"
+          },
+          "C": {
+            "en": "2.4 × 10²³",
+            "ar": "2.4 × 10²³"
+          },
+          "D": {
+            "en": "1.51 × 10²⁴",
+            "ar": "1.51 × 10²⁴"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a41.png"
+      },
+      {
+        "id": 42,
+        "answer": "A",
+        "promptEn": "A sample of aluminium chloride, AlCl₃, has a mass of 35.6 g. How many aluminium ions, Al³⁺, are present? (Molar mass of AlCl₃ = 133.33 g/mol)",
+        "promptAr": "عيّنة من كلوريد الألومنيوم ‪AlCl₃‬ كتلتها ‪35.6 g‬. ما عدد أيونات الألومنيوم ‪Al³⁺‬ الموجودة فيها؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "1.61 × 10²³ Al³⁺ ions",
+            "ar": "1.61 × 10²³ Al³⁺ ions"
+          },
+          "B": {
+            "en": "4.83 × 10²³ Al³⁺ ions",
+            "ar": "4.83 × 10²³ Al³⁺ ions"
+          },
+          "C": {
+            "en": "0.267 Al³⁺ ions",
+            "ar": "0.267 Al³⁺ ions"
+          },
+          "D": {
+            "en": "2.21 × 10⁻²² Al³⁺ ions",
+            "ar": "2.21 × 10⁻²² Al³⁺ ions"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a42.png"
+      },
+      {
+        "id": 43,
+        "answer": "A",
+        "promptEn": "What is the mass in grams of 1.20 × 10²⁴ molecules of carbon dioxide, CO₂? (Molar mass of CO₂ = 44 g/mol)",
+        "promptAr": "ما الكتلة بالجرام لـ ‪1.20 × 10²⁴‬ جزيء من ثاني أكسيد الكربون ‪CO₂‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "87.7 g",
+            "ar": "87.7 g"
+          },
+          "B": {
+            "en": "8.7 × 10⁴⁷ g",
+            "ar": "8.7 × 10⁴⁷ g"
+          },
+          "C": {
+            "en": "22.1 g",
+            "ar": "22.1 g"
+          },
+          "D": {
+            "en": "2.7 × 10²² g",
+            "ar": "2.7 × 10²² g"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a43.png"
+      },
+      {
+        "id": 44,
+        "answer": "A",
+        "promptEn": "How many formula units of sodium sulfite, Na₂SO₃, are in 189 g of Na₂SO₃? (Molar mass of Na₂SO₃ = 126.05 g/mol)",
+        "promptAr": "ما عدد وحدات الصيغة من كبريتيت الصوديوم ‪Na₂SO₃‬ الموجودة في ‪189 g‬ منه؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "9.03 × 10²³",
+            "ar": "9.03 × 10²³"
+          },
+          "B": {
+            "en": "4.02 × 10²³",
+            "ar": "4.02 × 10²³"
+          },
+          "C": {
+            "en": "1.4 × 10²⁸",
+            "ar": "1.4 × 10²⁸"
+          },
+          "D": {
+            "en": "1.51 × 10²⁴",
+            "ar": "1.51 × 10²⁴"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a44.png"
+      },
+      {
+        "id": 45,
+        "answer": "B",
+        "promptEn": "How many carbon tetrachloride, CCl₄, molecules are in 307.6 g of CCl₄? (Molar mass of CCl₄ = 153.8 g/mol)",
+        "promptAr": "ما عدد جزيئات رابع كلوريد الكربون ‪CCl₄‬ الموجودة في ‪307.6 g‬ منه؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "3.01 × 10²³",
+            "ar": "3.01 × 10²³"
+          },
+          "B": {
+            "en": "1.20 × 10²⁴",
+            "ar": "1.20 × 10²⁴"
+          },
+          "C": {
+            "en": "6.02 × 10²³",
+            "ar": "6.02 × 10²³"
+          },
+          "D": {
+            "en": "1.82 × 10²⁴",
+            "ar": "1.82 × 10²⁴"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a45.png"
+      },
+      {
+        "id": 46,
+        "answer": "C",
+        "promptEn": "What is the mass in grams of 1.81 × 10²⁴ formula units of Na₂SO₃? (Molar mass of Na₂SO₃ = 126.05 g/mol)",
+        "promptAr": "ما الكتلة بالجرام لـ ‪1.81 × 10²⁴‬ وحدة صيغة من ‪Na₂SO₃‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "3.03 × 10⁴⁶ g",
+            "ar": "3.03 × 10⁴⁶ g"
+          },
+          "B": {
+            "en": "4.2 g",
+            "ar": "4.2 g"
+          },
+          "C": {
+            "en": "379 g",
+            "ar": "379 g"
+          },
+          "D": {
+            "en": "1.3 × 10²⁴ g",
+            "ar": "1.3 × 10²⁴ g"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a46.png"
+      },
+      {
+        "id": 47,
+        "answer": "D",
+        "promptEn": "The graph shows the number of atoms of each element in one formula unit of a compound. What is the compound's formula?",
+        "promptAr": "يوضح التمثيل البياني عدد ذرات كل عنصر في وحدة صيغة واحدة من مركب. ما صيغة المركب؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "CaCHO",
+            "ar": "CaCHO"
+          },
+          "B": {
+            "en": "CaC₂H₃O₂",
+            "ar": "CaC₂H₃O₂"
+          },
+          "C": {
+            "en": "CaC₄H₆O₂",
+            "ar": "CaC₄H₆O₂"
+          },
+          "D": {
+            "en": "CaC₄H₆O₄",
+            "ar": "CaC₄H₆O₄"
+          }
+        },
+        "figures": [
+          "assets/figures/12g/q47-1.png"
+        ],
+        "solutionImage": "assets/slides/12g/a47.png"
+      },
+      {
+        "id": 48,
+        "answer": "D",
+        "promptEn": "The graph shows the number of atoms of each element in one unit of a compound. What is the compound's formula?",
+        "promptAr": "يوضح التمثيل البياني عدد ذرات كل عنصر في وحدة واحدة من مركب. ما صيغة المركب؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "C₆H₈O₈",
+            "ar": "C₆H₈O₈"
+          },
+          "B": {
+            "en": "C₈H₆O₈",
+            "ar": "C₈H₆O₈"
+          },
+          "C": {
+            "en": "C₈H₈O₆",
+            "ar": "C₈H₈O₆"
+          },
+          "D": {
+            "en": "C₆H₈O₆",
+            "ar": "C₆H₈O₆"
+          }
+        },
+        "figures": [
+          "assets/figures/12g/q48-1.png"
+        ],
+        "solutionImage": "assets/slides/12g/a48.png"
+      },
+      {
+        "id": 49,
+        "answer": "A",
+        "promptEn": "The mass in grams of one mole of any pure substance is called ……",
+        "promptAr": "كتلة المول الواحد بالجرامات لأي مادة نقية تُسمّى ……",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "the molar mass",
+            "ar": "الكتلة المولية"
+          },
+          "B": {
+            "en": "the gram mass",
+            "ar": "الكتلة الجرامية"
+          },
+          "C": {
+            "en": "the percent by mass",
+            "ar": "النسبة المئوية بالكتلة"
+          },
+          "D": {
+            "en": "the molecule's mass",
+            "ar": "كتلة الجزيء"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a49.png"
+      },
+      {
+        "id": 50,
+        "answer": "B",
+        "promptEn": "Which of the following ratios (conversion factors) is correct for the molecule C₁₂H₄Cl₄O₂?",
+        "promptAr": "أيٌّ من النسب أو معاملات التحويل التالية صحيحة للجزيء ‪C₁₂H₄Cl₄O₂‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "2 mol H atoms / 1 mol C₁₂H₄Cl₄O₂",
+            "ar": "2 mol H atoms / 1 mol C₁₂H₄Cl₄O₂"
+          },
+          "B": {
+            "en": "1 mol C₁₂H₄Cl₄O₂ / 4 mol Cl atoms",
+            "ar": "1 mol C₁₂H₄Cl₄O₂ / 4 mol Cl atoms"
+          },
+          "C": {
+            "en": "2 mol C atoms / 1 mol C₁₂H₄Cl₄O₂",
+            "ar": "2 mol C atoms / 1 mol C₁₂H₄Cl₄O₂"
+          },
+          "D": {
+            "en": "1 mol C₁₂H₄Cl₄O₂ / 4 mol O atoms",
+            "ar": "1 mol C₁₂H₄Cl₄O₂ / 4 mol O atoms"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12g/a50.png"
+      }
+    ]
+  }
+]
