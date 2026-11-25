@@ -4212,5 +4212,730 @@
         "solutionImage": "assets/slides/12g/a50.png"
       }
     ]
+  },
+  {
+    "id": "11g",
+    "labelEn": "Grade 11 General",
+    "topic": "Electrons in Atoms and Ionic Bonding",
+    "questions": [
+      {
+        "id": 1,
+        "answer": "B",
+        "promptEn": "According to Bohr's model, when an atom gains energy, it is said to be in which state?",
+        "promptAr": "وفقًا لنموذج بور، عندما تكتسب الذرة طاقة، يُقال إنها في أي حالة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Ground state",
+            "ar": "الحالة المستقرة"
+          },
+          "B": {
+            "en": "Excited state",
+            "ar": "حالة الإثارة"
+          },
+          "C": {
+            "en": "Stable state",
+            "ar": "حالة الثبات"
+          },
+          "D": {
+            "en": "Neutral state",
+            "ar": "الحالة المتعادلة"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a1.png"
+      },
+      {
+        "id": 2,
+        "answer": "C",
+        "promptEn": "The figure shows a hydrogen atom with its one electron in two different energy states. Which statement is correct?",
+        "promptAr": "يبيّن الشكل ذرة هيدروجين بإلكترونها الوحيد في حالتين مختلفتين من الطاقة. أي العبارات التالية صحيحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Atom (1) is in the excited state because its electron is close to the nucleus.",
+            "ar": "الذرة ‪(1)‬ في حالة الإثارة لأن إلكترونها قريب من النواة."
+          },
+          "B": {
+            "en": "Atom (2) is in the ground state because its electron is in a higher energy level.",
+            "ar": "الذرة ‪(2)‬ في الحالة المستقرة لأن إلكترونها في مستوى طاقة أعلى."
+          },
+          "C": {
+            "en": "Atom (1) is in the ground state, the lowest allowable energy state.",
+            "ar": "الذرة ‪(1)‬ في الحالة المستقرة، وهي أدنى حالة طاقة مسموحة."
+          },
+          "D": {
+            "en": "Both atoms are in the ground state because each has one electron.",
+            "ar": "الذرتان في الحالة المستقرة لأن لكل منهما إلكترونًا واحدًا."
+          }
+        },
+        "figures": [
+          "assets/figures/11g/q2-1.png"
+        ],
+        "solutionImage": "assets/slides/11g/a2.png"
+      },
+      {
+        "id": 3,
+        "answer": "B",
+        "promptEn": "Which of the following statements is correct?",
+        "promptAr": "أي العبارات التالية صحيحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Energy level 3 has three sublevels: 3s, 3p and 3f",
+            "ar": "مستوى الطاقة ‪3‬ له ثلاثة مستويات فرعية: ‪3s‬ و‪3p‬ و‪3f‬"
+          },
+          "B": {
+            "en": "Energy level 3 has three sublevels: 3s, 3p and 3d",
+            "ar": "مستوى الطاقة ‪3‬ له ثلاثة مستويات فرعية: ‪3s‬ و‪3p‬ و‪3d‬"
+          },
+          "C": {
+            "en": "Energy level 2 has two sublevels: 2s and 2d",
+            "ar": "مستوى الطاقة ‪2‬ له مستويان فرعيان: ‪2s‬ و‪2d‬"
+          },
+          "D": {
+            "en": "Energy level 2 has two sublevels: 2s and 2f",
+            "ar": "مستوى الطاقة ‪2‬ له مستويان فرعيان: ‪2s‬ و‪2f‬"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a3.png"
+      },
+      {
+        "id": 4,
+        "answer": "D",
+        "promptEn": "What is the total number of orbitals in the principal energy level n = 4?",
+        "promptAr": "ما العدد الكلي للأفلاك في مستوى الطاقة الرئيس ‪n = 4‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "4",
+            "ar": "4"
+          },
+          "B": {
+            "en": "9",
+            "ar": "9"
+          },
+          "C": {
+            "en": "8",
+            "ar": "8"
+          },
+          "D": {
+            "en": "16",
+            "ar": "16"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a4.png"
+      },
+      {
+        "id": 5,
+        "answer": "B",
+        "promptEn": "Which of the orbital diagrams A, B, C and D in the figure violates Hund's rule?",
+        "promptAr": "أي مخططات الأفلاك ‪A‬ و‪B‬ و‪C‬ و‪D‬ في الشكل يخالف قاعدة هوند؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Diagram A",
+            "ar": "المخطط ‪A‬"
+          },
+          "B": {
+            "en": "Diagram B",
+            "ar": "المخطط ‪B‬"
+          },
+          "C": {
+            "en": "Diagram C",
+            "ar": "المخطط ‪C‬"
+          },
+          "D": {
+            "en": "Diagram D",
+            "ar": "المخطط ‪D‬"
+          }
+        },
+        "figures": [
+          "assets/figures/11g/q5-1.png"
+        ],
+        "solutionImage": "assets/slides/11g/a5.png"
+      },
+      {
+        "id": 6,
+        "answer": "A",
+        "promptEn": "Which statement describes the Pauli exclusion principle?",
+        "promptAr": "أي عبارة تصف مبدأ باولي للاستبعاد؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "A maximum of two electrons can occupy an orbital, but only if they have opposite spins.",
+            "ar": "يتسع الفلك الواحد لإلكترونين كحد أقصى، بشرط أن يكون غزلهما متعاكسًا."
+          },
+          "B": {
+            "en": "Each electron occupies the lowest-energy orbital available.",
+            "ar": "يشغل كل إلكترون الفلك ذا الطاقة الأقل المتاح."
+          },
+          "C": {
+            "en": "Single electrons with the same spin fill equal-energy orbitals before pairing.",
+            "ar": "تشغل الإلكترونات المفردة ذات الغزل نفسه الأفلاك المتساوية في الطاقة قبل أن تزدوج."
+          },
+          "D": {
+            "en": "Two electrons in the same orbital must have the same spin.",
+            "ar": "يجب أن يكون للإلكترونين في الفلك نفسه الغزل نفسه."
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a6.png"
+      },
+      {
+        "id": 7,
+        "answer": "B",
+        "promptEn": "An atom of phosphorus (P) has 15 electrons. Which sublevel is partially filled?",
+        "promptAr": "تحتوي ذرة الفوسفور ‪P‬ على ‪15‬ إلكترونًا. أي مستوى فرعي يكون ممتلئًا جزئيًا؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "4s",
+            "ar": "4s"
+          },
+          "B": {
+            "en": "3p",
+            "ar": "3p"
+          },
+          "C": {
+            "en": "2p",
+            "ar": "2p"
+          },
+          "D": {
+            "en": "3s",
+            "ar": "3s"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a7.png"
+      },
+      {
+        "id": 8,
+        "answer": "D",
+        "promptEn": "What is the correct noble-gas notation for copper, Cu (atomic number 29)?",
+        "promptAr": "ما الترميز الصحيح بالغاز النبيل للنحاس ‪Cu‬ الذي عدده الذري ‪29‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "[Ar] 4s² 3d⁹",
+            "ar": "[Ar] 4s² 3d⁹"
+          },
+          "B": {
+            "en": "[Kr] 5s¹ 3d¹⁰",
+            "ar": "[Kr] 5s¹ 3d¹⁰"
+          },
+          "C": {
+            "en": "[Ar] 4s² 3d⁸ 4p¹",
+            "ar": "[Ar] 4s² 3d⁸ 4p¹"
+          },
+          "D": {
+            "en": "[Ar] 4s¹ 3d¹⁰",
+            "ar": "[Ar] 4s¹ 3d¹⁰"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a8.png"
+      },
+      {
+        "id": 9,
+        "answer": "C",
+        "promptEn": "How many dots are shown in the electron-dot structure of selenium (Se, atomic number 34)?",
+        "promptAr": "كم عدد النقاط في التمثيل النقطي للإلكترونات لعنصر السيلينيوم ‪Se‬ الذي عدده الذري ‪34‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "2",
+            "ar": "2"
+          },
+          "B": {
+            "en": "4",
+            "ar": "4"
+          },
+          "C": {
+            "en": "6",
+            "ar": "6"
+          },
+          "D": {
+            "en": "16",
+            "ar": "16"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a9.png"
+      },
+      {
+        "id": 10,
+        "answer": "A",
+        "promptEn": "An atom has 13 electrons. Which element is it, and how many dots are in its electron-dot structure?",
+        "promptAr": "تحتوي ذرة عنصر على ‪13‬ إلكترونًا. ما هذا العنصر، وكم عدد النقاط في تمثيله النقطي؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Aluminum (Al), 3 dots",
+            "ar": "الألومنيوم ‪Al‬، ‪3‬ نقاط"
+          },
+          "B": {
+            "en": "Aluminum (Al), 13 dots",
+            "ar": "الألومنيوم ‪Al‬، ‪13‬ نقطة"
+          },
+          "C": {
+            "en": "Silicon (Si), 4 dots",
+            "ar": "السيليكون ‪Si‬، ‪4‬ نقاط"
+          },
+          "D": {
+            "en": "Boron (B), 3 dots",
+            "ar": "البورون ‪B‬، ‪3‬ نقاط"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a10.png"
+      },
+      {
+        "id": 11,
+        "answer": "D",
+        "promptEn": "What is the name of the series of elements shown by the arrow in the periodic table?",
+        "promptAr": "ما اسم سلسلة العناصر التي يشير إليها السهم في الجدول الدوري؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Transition metals",
+            "ar": "الفلزات الانتقالية"
+          },
+          "B": {
+            "en": "Metalloids",
+            "ar": "أشباه الفلزات"
+          },
+          "C": {
+            "en": "Noble gases",
+            "ar": "الغازات النبيلة"
+          },
+          "D": {
+            "en": "Lanthanides",
+            "ar": "اللانثانيدات"
+          }
+        },
+        "figures": [
+          "assets/figures/11g/q11-1.png"
+        ],
+        "solutionImage": "assets/slides/11g/a11.png"
+      },
+      {
+        "id": 12,
+        "answer": "C",
+        "promptEn": "The representative elements are found in which groups of the periodic table?",
+        "promptAr": "في أي مجموعات الجدول الدوري توجد العناصر المُمثِّلة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Groups 3–12",
+            "ar": "المجموعات ‪3–12‬"
+          },
+          "B": {
+            "en": "Groups 1 and 2 only",
+            "ar": "المجموعتان ‪1‬ و‪2‬ فقط"
+          },
+          "C": {
+            "en": "Groups 1, 2 and 13–18",
+            "ar": "المجموعات ‪1‬ و‪2‬ و‪13–18‬"
+          },
+          "D": {
+            "en": "Groups 13–17 only",
+            "ar": "المجموعات ‪13–17‬ فقط"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a12.png"
+      },
+      {
+        "id": 13,
+        "answer": "D",
+        "promptEn": "What are the period, group and block of an element with the configuration [Kr] 5s² 4d¹⁰ 5p⁵?",
+        "promptAr": "ما الدورة والمجموعة والمجمع لعنصر توزيعه الإلكتروني ‪[Kr] 5s² 4d¹⁰ 5p⁵‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Period 5, group 15, p-block",
+            "ar": "الدورة ‪5‬، المجموعة ‪15‬، المجمع ‪p‬"
+          },
+          "B": {
+            "en": "Period 4, group 17, d-block",
+            "ar": "الدورة ‪4‬، المجموعة ‪17‬، المجمع ‪d‬"
+          },
+          "C": {
+            "en": "Period 5, group 7, d-block",
+            "ar": "الدورة ‪5‬، المجموعة ‪7‬، المجمع ‪d‬"
+          },
+          "D": {
+            "en": "Period 5, group 17, p-block",
+            "ar": "الدورة ‪5‬، المجموعة ‪17‬، المجمع ‪p‬"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a13.png"
+      },
+      {
+        "id": 14,
+        "answer": "A",
+        "promptEn": "Which letter represents the s-block region in the periodic table shown?",
+        "promptAr": "أي حرف يمثّل منطقة المجمع ‪s‬ في الجدول الدوري الموضّح؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Region A",
+            "ar": "المنطقة ‪A‬"
+          },
+          "B": {
+            "en": "Region B",
+            "ar": "المنطقة ‪B‬"
+          },
+          "C": {
+            "en": "Region C",
+            "ar": "المنطقة ‪C‬"
+          },
+          "D": {
+            "en": "Region D",
+            "ar": "المنطقة ‪D‬"
+          }
+        },
+        "figures": [
+          "assets/figures/11g/q14-1.png"
+        ],
+        "solutionImage": "assets/slides/11g/a14.png"
+      },
+      {
+        "id": 15,
+        "answer": "A",
+        "promptEn": "Which electron configuration represents an element in group 4, period 4 and the d-block?",
+        "promptAr": "أي توزيع إلكتروني يمثّل عنصرًا في المجموعة ‪4‬ والدورة ‪4‬ والمجمع ‪d‬؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "[Ar] 4s² 3d²",
+            "ar": "[Ar] 4s² 3d²"
+          },
+          "B": {
+            "en": "[Ne] 3s² 3p²",
+            "ar": "[Ne] 3s² 3p²"
+          },
+          "C": {
+            "en": "[Ar] 4s² 3d¹⁰ 4p⁴",
+            "ar": "[Ar] 4s² 3d¹⁰ 4p⁴"
+          },
+          "D": {
+            "en": "[Ar] 4s² 3d¹⁰ 4p²",
+            "ar": "[Ar] 4s² 3d¹⁰ 4p²"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a15.png"
+      },
+      {
+        "id": 16,
+        "answer": "D",
+        "promptEn": "The graph shows the first ionization energies of the elements in periods 1 to 5. Which group has the HIGHEST first ionization energy in each period?",
+        "promptAr": "يبيّن الرسم البياني طاقة التأين الأولى لعناصر الدورات من ‪1‬ إلى ‪5‬. أي مجموعة لها أعلى طاقة تأين أولى في كل دورة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Group 1 (alkali metals)",
+            "ar": "المجموعة ‪1‬ (الفلزات القلوية)"
+          },
+          "B": {
+            "en": "Group 2 (alkaline earth metals)",
+            "ar": "المجموعة ‪2‬ (الفلزات القلوية الأرضية)"
+          },
+          "C": {
+            "en": "Group 17 (halogens)",
+            "ar": "المجموعة ‪17‬ (الهالوجينات)"
+          },
+          "D": {
+            "en": "Group 18 (noble gases)",
+            "ar": "المجموعة ‪18‬ (الغازات النبيلة)"
+          }
+        },
+        "figures": [
+          "assets/figures/11g/q16-1.png"
+        ],
+        "solutionImage": "assets/slides/11g/a16.png"
+      },
+      {
+        "id": 17,
+        "answer": "B",
+        "promptEn": "Using Table 5, between which two neighbouring elements of period 2 does the first ionization energy DECREASE?",
+        "promptAr": "باستخدام الجدول ‪5‬، بين أي عنصرين متجاورين في الدورة ‪2‬ تقلّ طاقة التأين الأولى؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Li → Be",
+            "ar": "Li → Be"
+          },
+          "B": {
+            "en": "Be → B",
+            "ar": "Be → B"
+          },
+          "C": {
+            "en": "C → N",
+            "ar": "C → N"
+          },
+          "D": {
+            "en": "F → Ne",
+            "ar": "F → Ne"
+          }
+        },
+        "figures": [
+          "assets/figures/11g/q17-1.png"
+        ],
+        "solutionImage": "assets/slides/11g/a17.png"
+      },
+      {
+        "id": 18,
+        "answer": "C",
+        "promptEn": "Which statement correctly describes the trend of electronegativity in the periodic table?",
+        "promptAr": "أي عبارة تصف بشكل صحيح تدرّج الكهروسالبية في الجدول الدوري؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "It increases down a group and across a period.",
+            "ar": "تزداد من أعلى إلى أسفل في المجموعة وعبر الدورة."
+          },
+          "B": {
+            "en": "It decreases across a period and increases down a group.",
+            "ar": "تقلّ عبر الدورة وتزداد من أعلى إلى أسفل في المجموعة."
+          },
+          "C": {
+            "en": "It increases across a period and decreases down a group.",
+            "ar": "تزداد عبر الدورة وتقلّ من أعلى إلى أسفل في المجموعة."
+          },
+          "D": {
+            "en": "It stays the same in every period and group.",
+            "ar": "تبقى ثابتة في كل الدورات والمجموعات."
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a18.png"
+      },
+      {
+        "id": 19,
+        "answer": "D",
+        "promptEn": "Which electron configuration belongs to the element with the HIGHEST electronegativity?",
+        "promptAr": "أي توزيع إلكتروني يعود إلى العنصر الذي له أعلى كهروسالبية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "[Ne] 3s¹",
+            "ar": "[Ne] 3s¹"
+          },
+          "B": {
+            "en": "[Ne] 3s² 3p³",
+            "ar": "[Ne] 3s² 3p³"
+          },
+          "C": {
+            "en": "[Ne] 3s² 3p⁴",
+            "ar": "[Ne] 3s² 3p⁴"
+          },
+          "D": {
+            "en": "[Ne] 3s² 3p⁵",
+            "ar": "[Ne] 3s² 3p⁵"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a19.png"
+      },
+      {
+        "id": 20,
+        "answer": "B",
+        "promptEn": "Aluminium is in group 13. How does an aluminium atom reach a stable octet when it forms an ion?",
+        "promptAr": "يقع الألومنيوم في المجموعة ‪13‬. كيف تصل ذرة الألومنيوم إلى ثُمانيّ مستقر عندما تكوّن أيونًا؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "It gains 5 electrons and forms Al⁵⁻.",
+            "ar": "تكتسب ‪5‬ إلكترونات وتكوّن ‪Al⁵⁻‬."
+          },
+          "B": {
+            "en": "It loses 3 electrons and forms Al³⁺.",
+            "ar": "تفقد ‪3‬ إلكترونات وتكوّن ‪Al³⁺‬."
+          },
+          "C": {
+            "en": "It loses 2 electrons and forms Al²⁺.",
+            "ar": "تفقد إلكترونين وتكوّن ‪Al²⁺‬."
+          },
+          "D": {
+            "en": "It gains 3 electrons and forms Al³⁻.",
+            "ar": "تكتسب ‪3‬ إلكترونات وتكوّن ‪Al³⁻‬."
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a20.png"
+      },
+      {
+        "id": 21,
+        "answer": "B",
+        "promptEn": "Which of the following is a pseudo-noble gas electron configuration?",
+        "promptAr": "أي مما يلي يمثّل توزيعًا إلكترونيًا شبيهًا بالغاز النبيل؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "1s² 2s² 2p⁶ 3s² 3p⁶",
+            "ar": "1s² 2s² 2p⁶ 3s² 3p⁶"
+          },
+          "B": {
+            "en": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰",
+            "ar": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰"
+          },
+          "C": {
+            "en": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²",
+            "ar": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²"
+          },
+          "D": {
+            "en": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰",
+            "ar": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a21.png"
+      },
+      {
+        "id": 22,
+        "answer": "C",
+        "promptEn": "Which ion has a pseudo-noble gas configuration?",
+        "promptAr": "أي أيون له توزيع إلكتروني شبيه بالغاز النبيل؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Na⁺",
+            "ar": "Na⁺"
+          },
+          "B": {
+            "en": "Ca²⁺",
+            "ar": "Ca²⁺"
+          },
+          "C": {
+            "en": "Zn²⁺",
+            "ar": "Zn²⁺"
+          },
+          "D": {
+            "en": "Cl⁻",
+            "ar": "Cl⁻"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a22.png"
+      },
+      {
+        "id": 23,
+        "answer": "A",
+        "promptEn": "Which statement describes what happens when a chlorine atom forms a chloride ion?",
+        "promptAr": "أي عبارة تصف ما يحدث عندما تكوّن ذرة الكلور أيون الكلوريد؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "It gains 1 electron, forms Cl⁻ and gets the configuration of argon.",
+            "ar": "تكتسب إلكترونًا واحدًا وتكوّن ‪Cl⁻‬ ويصبح توزيعها مثل الأرجون."
+          },
+          "B": {
+            "en": "It loses 1 electron and forms Cl⁺.",
+            "ar": "تفقد إلكترونًا واحدًا وتكوّن ‪Cl⁺‬."
+          },
+          "C": {
+            "en": "It gains 1 electron and its protons become 18.",
+            "ar": "تكتسب إلكترونًا واحدًا ويصبح عدد بروتوناتها ‪18‬."
+          },
+          "D": {
+            "en": "It loses 7 electrons and forms Cl⁷⁺.",
+            "ar": "تفقد ‪7‬ إلكترونات وتكوّن ‪Cl⁷⁺‬."
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a23.png"
+      },
+      {
+        "id": 24,
+        "answer": "C",
+        "promptEn": "Table 4 shows the formation of sodium chloride, NaCl. Which statement is correct?",
+        "promptAr": "يبيّن الجدول ‪4‬ تكوّن كلوريد الصوديوم ‪NaCl‬. أي عبارة صحيحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Chlorine transfers one electron to sodium.",
+            "ar": "ينقل الكلور إلكترونًا واحدًا إلى الصوديوم."
+          },
+          "B": {
+            "en": "Sodium and chlorine share one pair of electrons.",
+            "ar": "يتشارك الصوديوم والكلور في زوج واحد من الإلكترونات."
+          },
+          "C": {
+            "en": "Sodium transfers one electron to chlorine and energy is released.",
+            "ar": "ينقل الصوديوم إلكترونًا واحدًا إلى الكلور وتنطلق طاقة."
+          },
+          "D": {
+            "en": "Sodium transfers one electron to chlorine and energy is absorbed.",
+            "ar": "ينقل الصوديوم إلكترونًا واحدًا إلى الكلور وتُمتص طاقة."
+          }
+        },
+        "figures": [
+          "assets/figures/11g/q24-1.png"
+        ],
+        "solutionImage": "assets/slides/11g/a24.png"
+      },
+      {
+        "id": 25,
+        "answer": "D",
+        "promptEn": "The table shows the melting points of some ionic compounds. Why do ionic compounds have high melting points?",
+        "promptAr": "يبيّن الجدول درجات انصهار بعض المركبات الأيونية. لماذا تكون درجات انصهار المركبات الأيونية مرتفعة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The forces between their molecules are weak.",
+            "ar": "القوى بين جزيئاتها ضعيفة."
+          },
+          "B": {
+            "en": "Their electrons are delocalized.",
+            "ar": "إلكتروناتها غير متمركزة."
+          },
+          "C": {
+            "en": "Their atoms share pairs of electrons.",
+            "ar": "تتشارك ذراتها في أزواج من الإلكترونات."
+          },
+          "D": {
+            "en": "Strong attractions between oppositely charged ions need a lot of energy to break.",
+            "ar": "التجاذب القوي بين الأيونات المختلفة في الشحنة يحتاج طاقة كبيرة لكسره."
+          }
+        },
+        "figures": [
+          "assets/figures/11g/q25-1.png"
+        ],
+        "solutionImage": "assets/slides/11g/a25.png"
+      },
+      {
+        "id": 26,
+        "answer": "C",
+        "promptEn": "In which state(s) does sodium chloride, NaCl, conduct an electric current?",
+        "promptAr": "في أي حالة (حالات) يوصل كلوريد الصوديوم ‪NaCl‬ التيار الكهربائي؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Only as a solid",
+            "ar": "في الحالة الصلبة فقط"
+          },
+          "B": {
+            "en": "As a solid and as a liquid",
+            "ar": "في الحالتين الصلبة والسائلة"
+          },
+          "C": {
+            "en": "When molten or dissolved in water",
+            "ar": "عندما يكون منصهرًا أو مذابًا في الماء"
+          },
+          "D": {
+            "en": "It never conducts electricity",
+            "ar": "لا يوصل الكهرباء أبدًا"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/11g/a26.png"
+      }
+    ]
   }
 ]

@@ -1,15 +1,15 @@
 const state = { sets: [], set: null, answers: {}, current: 0 };
-const arabic = { '10a':'العاشر متقدم', '11a':'الحادي عشر متقدم', '12g':'الثاني عشر عام' };
+const arabic = { '10a':'العاشر متقدم', '11a':'الحادي عشر متقدم', '11g':'الحادي عشر عام', '12g':'الثاني عشر عام' };
 const root = document.querySelector('#app');
 const homeMarkup = root.innerHTML;
 const storageKey = id => `science-squad-v2-${id}-progress`;
 
-fetch('questions-rich.json?v=20261126-3', { cache: 'no-store' }).then(r => {
+fetch('questions-rich.json?v=20261126-4', { cache: 'no-store' }).then(r => {
   if(!r.ok) throw new Error('questions');
   return r.json();
 }).then(sets => {
-  if(!Array.isArray(sets) || sets.length !== 3 || sets.some(set => !Array.isArray(set.questions) || set.questions.length !== 50)) throw new Error('invalid questions');
-  state.sets = sets; renderCards(); setupReveal();
+  if(!Array.isArray(sets) || sets.length !== 4 || sets.some(set => !Array.isArray(set.questions) || !set.questions.length)) throw new Error('invalid questions');
+  const order = ['10a','11a','11g','12g']; state.sets = sets.sort((a,b)=>order.indexOf(a.id)-order.indexOf(b.id)); renderCards(); setupReveal();
 }).catch(() => root.innerHTML = '<section class="load-error"><h2>تعذّر تحميل الأسئلة</h2><p>حدّث الصفحة مرة واحدة لتحميل آخر نسخة.</p><button class="button primary" onclick="location.reload()">تحديث الصفحة</button></section>');
 document.querySelector('#theme').onclick = () => { document.body.classList.toggle('dark'); localStorage.setItem('science-squad-theme', document.body.classList.contains('dark') ? 'dark' : 'light'); };
 if(localStorage.getItem('science-squad-theme') === 'dark') document.body.classList.add('dark');
@@ -32,7 +32,7 @@ function setupReveal(){
 }
 
 function renderCards(){
-  document.querySelector('#examCards').innerHTML = state.sets.map(s => `<article class="exam-card"><span class="num">${s.id.slice(0,2)}</span><h3>${arabic[s.id]}</h3><strong>${s.labelEn}</strong><p>${s.topic}<br>50 سؤالًا • محاولات غير محدودة</p><button class="button primary" data-start="${s.id}">ابدأ الاختبار</button></article>`).join('');
+  document.querySelector('#examCards').innerHTML = state.sets.map(s => `<article class="exam-card"><span class="num">${s.id.slice(0,2)}</span><h3>${arabic[s.id]}</h3><strong>${s.labelEn}</strong><p>${s.topic}<br>${s.questions.length} سؤالًا • محاولات غير محدودة</p><button class="button primary" data-start="${s.id}">ابدأ الاختبار</button></article>`).join('');
   document.querySelectorAll('[data-start]').forEach(b => b.onclick = () => startExam(b.dataset.start));
 }
 function safe(value=''){ return String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c])); }
