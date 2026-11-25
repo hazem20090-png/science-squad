@@ -4,7 +4,7 @@ const root = document.querySelector('#app');
 const homeMarkup = root.innerHTML;
 const storageKey = id => `science-squad-v2-${id}-progress`;
 
-fetch('questions-rich.json?v=20261126-2', { cache: 'no-store' }).then(r => {
+fetch('questions-rich.json?v=20261126-3', { cache: 'no-store' }).then(r => {
   if(!r.ok) throw new Error('questions');
   return r.json();
 }).then(sets => {
