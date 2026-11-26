@@ -4,7 +4,7 @@ const root = document.querySelector('#app');
 const homeMarkup = root.innerHTML;
 const storageKey = id => `science-squad-v2-${id}-progress`;
 
-fetch('questions-rich.json?v=20261126-6', { cache: 'no-store' }).then(r => {
+fetch('questions-rich.json?v=20261126-7', { cache: 'no-store' }).then(r => {
   if(!r.ok) throw new Error('questions');
   return r.json();
 }).then(sets => {
@@ -38,7 +38,10 @@ async function initVisitorCounter(){
   const counterKey = 'science_squad_hazem20090_term1_2026_2027_visitors_v1';
   const browserKey = 'science-squad-visitor-counted-v1';
   const liveSite = location.hostname === 'hazem20090-png.github.io';
-  const alreadyCounted = localStorage.getItem(browserKey) === 'yes';
+  let storageCounted = false;
+  try { storageCounted = localStorage.getItem(browserKey) === 'yes'; } catch {}
+  const cookieCounted = document.cookie.split('; ').some(cookie => cookie === `${browserKey}=yes`);
+  const alreadyCounted = storageCounted || cookieCounted;
   const action = liveSite && !alreadyCounted ? 'hit' : 'get';
   try {
     const response = await fetch(`https://countapi.mileshilliard.com/api/v1/${action}/${counterKey}`, { cache:'no-store' });
@@ -47,7 +50,10 @@ async function initVisitorCounter(){
     const value = Number(data.value);
     if(!Number.isFinite(value)) throw new Error('counter value');
     display.textContent = new Intl.NumberFormat('ar-EG').format(value);
-    if(liveSite && action === 'hit') localStorage.setItem(browserKey,'yes');
+    if(liveSite && action === 'hit') {
+      try { localStorage.setItem(browserKey,'yes'); } catch {}
+      document.cookie = `${browserKey}=yes; Max-Age=31536000; Path=/; SameSite=Lax; Secure`;
+    }
     document.querySelector('.visitor-counter')?.classList.add('ready');
   } catch {
     display.textContent = '—';
