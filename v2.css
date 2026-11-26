@@ -55,3 +55,8 @@ body{position:relative}.chemistry-background{position:fixed;inset:0;z-index:0;ov
 @media(max-width:900px){.hero{min-height:auto!important}.hero-shell{grid-template-columns:1fr}.hero-brand-panel{min-height:230px}.hero-brand-panel img{width:150px}.brand-rings{width:190px}.hero-brand-panel strong{margin-top:8px}.hero-copy-panel{padding:34px 20px}}
 @media(max-width:760px){.hero{padding:32px 12px 48px!important}.hero-shell{padding:10px;border-radius:24px}.hero-shell:after{border-radius:23px}.hero-brand-panel,.hero-copy-panel{border-radius:18px}.hero-brand-panel{min-height:190px;padding:18px}.hero-brand-panel img{width:120px}.brand-rings{width:150px}.hero-brand-panel strong{font-size:.68rem}.hero-copy-panel .hero-motto{font-size:2.5rem!important;letter-spacing:-.8px}.hero-ar{font-size:1rem}.hero-proof{gap:6px}.hero-proof span{padding:7px 8px;font-size:.68rem}.atom-orbit{transform:scale(.65)}.chem-float{opacity:.09}}
 @media(prefers-reduced-motion:reduce){.chem-float,.atom-orbit,.chem-bubble,.hero-shell:before,.hero-brand-panel img,.brand-rings:before,.brand-rings:after,.hero-copy-panel:before{animation:none!important}}
+
+.hero-brand-panel .animated-3d-logo{width:min(96%,330px);filter:drop-shadow(0 28px 45px #000b) drop-shadow(0 0 30px #12c9e82c);transform-style:preserve-3d;animation:logo3dStage 7s ease-in-out infinite}@keyframes logo3dStage{0%,100%{transform:perspective(900px) rotateY(-4deg) rotateX(2deg) translateY(0)}50%{transform:perspective(900px) rotateY(5deg) rotateX(-2deg) translateY(-10px)}}
+@media(max-width:900px){.hero-brand-panel .animated-3d-logo{width:180px}}
+@media(max-width:760px){.hero-brand-panel .animated-3d-logo{width:145px}}
+@media(prefers-reduced-motion:reduce){.hero-brand-panel .animated-3d-logo{animation:none!important}}
