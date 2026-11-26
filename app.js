@@ -1,10 +1,12 @@
 const state = { sets: [], set: null, answers: {}, current: 0 };
 const arabic = { '10a':'العاشر متقدم', '11a':'الحادي عشر متقدم', '11g':'الحادي عشر عام', '12a':'الثاني عشر متقدم', '12g':'الثاني عشر عام' };
 const root = document.querySelector('#app');
+const initialVideos = root.querySelector('#videos'), initialExams = root.querySelector('#exams');
+if(initialVideos && initialExams) root.insertBefore(initialVideos, initialExams);
 const homeMarkup = root.innerHTML;
 const storageKey = id => `science-squad-v2-${id}-progress`;
 
-fetch('questions-rich.json?v=20261126-10', { cache: 'no-store' }).then(r => {
+fetch('questions-rich.json?v=20261126-11', { cache: 'no-store' }).then(r => {
   if(!r.ok) throw new Error('questions');
   return r.json();
 }).then(sets => {
