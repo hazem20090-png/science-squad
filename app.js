@@ -4,7 +4,7 @@ const root = document.querySelector('#app');
 const homeMarkup = root.innerHTML;
 const storageKey = id => `science-squad-v2-${id}-progress`;
 
-fetch('questions-rich.json?v=20261126-8', { cache: 'no-store' }).then(r => {
+fetch('questions-rich.json?v=20261126-10', { cache: 'no-store' }).then(r => {
   if(!r.ok) throw new Error('questions');
   return r.json();
 }).then(sets => {
@@ -20,6 +20,7 @@ document.querySelectorAll('.topbar a[href^="#"]').forEach(link => link.addEventL
 
 function showHome(target='#home'){
   save(); state.set = null; state.questions = []; state.answers = {}; state.current = 0;
+  document.body.classList.remove('exam-active');
   root.innerHTML = homeMarkup; renderCards(); setupReveal();
   history.replaceState(null, '', `${location.pathname}${location.search}${target}`);
   requestAnimationFrame(() => document.querySelector(target)?.scrollIntoView({behavior:'smooth',block:'start'}));
@@ -68,6 +69,7 @@ function renderCards(){
 function safe(value=''){ return String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c])); }
 function startExam(id, subset){
   state.set = state.sets.find(s => s.id === id); state.questions = subset || state.set.questions; state.answers = {}; state.current = 0;
+  document.body.classList.add('exam-active');
   if(!subset){ try { const saved = JSON.parse(localStorage.getItem(storageKey(id))); if(saved?.answers && confirm('لديك تقدّم محفوظ. هل تريد المتابعة؟')) { state.answers=saved.answers; state.current=Math.min(saved.current||0,state.questions.length-1); } } catch{} }
   root.innerHTML = document.querySelector('#examTemplate').innerHTML;
   document.querySelector('.exam-name').textContent = `${arabic[id]} — ${state.set.labelEn}`;
