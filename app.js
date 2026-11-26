@@ -4,7 +4,7 @@ const root = document.querySelector('#app');
 const homeMarkup = root.innerHTML;
 const storageKey = id => `science-squad-v2-${id}-progress`;
 
-fetch('questions-rich.json?v=20261126-5', { cache: 'no-store' }).then(r => {
+fetch('questions-rich.json?v=20261126-6', { cache: 'no-store' }).then(r => {
   if(!r.ok) throw new Error('questions');
   return r.json();
 }).then(sets => {
@@ -13,6 +13,7 @@ fetch('questions-rich.json?v=20261126-5', { cache: 'no-store' }).then(r => {
 }).catch(() => root.innerHTML = '<section class="load-error"><h2>تعذّر تحميل الأسئلة</h2><p>حدّث الصفحة مرة واحدة لتحميل آخر نسخة.</p><button class="button primary" onclick="location.reload()">تحديث الصفحة</button></section>');
 document.querySelector('#theme').onclick = () => { document.body.classList.toggle('dark'); localStorage.setItem('science-squad-theme', document.body.classList.contains('dark') ? 'dark' : 'light'); };
 if(localStorage.getItem('science-squad-theme') === 'dark') document.body.classList.add('dark');
+initVisitorCounter();
 document.querySelectorAll('.topbar a[href^="#"]').forEach(link => link.addEventListener('click', event => {
   event.preventDefault(); showHome(link.getAttribute('href'));
 }));
@@ -29,6 +30,29 @@ function setupReveal(){
   if(!('IntersectionObserver' in window) || matchMedia('(prefers-reduced-motion: reduce)').matches){ items.forEach(x=>x.classList.add('revealed')); return; }
   const observer = new IntersectionObserver(entries => entries.forEach(entry => { if(entry.isIntersecting){ entry.target.classList.add('revealed'); observer.unobserve(entry.target); } }), {threshold:.12});
   items.forEach((item,index) => { item.classList.add('reveal'); item.style.setProperty('--reveal-delay',`${Math.min(index%4,3)*90}ms`); observer.observe(item); });
+}
+
+async function initVisitorCounter(){
+  const display = document.querySelector('#visitorCount');
+  if(!display) return;
+  const counterKey = 'science_squad_hazem20090_term1_2026_2027_visitors_v1';
+  const browserKey = 'science-squad-visitor-counted-v1';
+  const liveSite = location.hostname === 'hazem20090-png.github.io';
+  const alreadyCounted = localStorage.getItem(browserKey) === 'yes';
+  const action = liveSite && !alreadyCounted ? 'hit' : 'get';
+  try {
+    const response = await fetch(`https://countapi.mileshilliard.com/api/v1/${action}/${counterKey}`, { cache:'no-store' });
+    if(!response.ok) throw new Error('counter');
+    const data = await response.json();
+    const value = Number(data.value);
+    if(!Number.isFinite(value)) throw new Error('counter value');
+    display.textContent = new Intl.NumberFormat('ar-EG').format(value);
+    if(liveSite && action === 'hit') localStorage.setItem(browserKey,'yes');
+    document.querySelector('.visitor-counter')?.classList.add('ready');
+  } catch {
+    display.textContent = '—';
+    document.querySelector('.visitor-counter')?.classList.add('offline');
+  }
 }
 
 function renderCards(){
