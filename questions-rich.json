@@ -4937,5 +4937,2533 @@
         "solutionImage": "assets/slides/11g/a26.png"
       }
     ]
+  },
+  {
+    "id": "12a",
+    "labelEn": "Grade 12 Advanced",
+    "topic": "Redox Reactions and Electrochemistry",
+    "questions": [
+      {
+        "id": 1,
+        "answer": "B",
+        "promptEn": "Which of the following is correct in relation to the reaction below?",
+        "promptAr": "أي مما يأتي صحيح فيما يتعلق بالتفاعل الآتي؟",
+        "context": [
+          "2Mg(s) + O₂(g) → 2MgO(s)"
+        ],
+        "options": {
+          "A": {
+            "en": "Oxygen O₂ gained electrons and was oxidized",
+            "ar": "اكتسب الأكسجين إلكترونات وتأكسد"
+          },
+          "B": {
+            "en": "The magnesium Mg atom lost electrons and was oxidized",
+            "ar": "فقدت ذرة المغنيسيوم إلكترونات وتأكسدت"
+          },
+          "C": {
+            "en": "Oxygen O₂ lost electrons and was oxidized",
+            "ar": "فقد الأكسجين إلكترونات وتأكسد"
+          },
+          "D": {
+            "en": "The magnesium Mg atom gained electrons and it is reduced",
+            "ar": "اكتسبت ذرة المغنيسيوم إلكترونات واختُزلت"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a1.png"
+      },
+      {
+        "id": 2,
+        "answer": "B",
+        "promptEn": "Which of the following statements is true concerning the redox reaction shown below?",
+        "promptAr": "أي العبارات الآتية صحيحة فيما يتعلق بتفاعل الأكسدة والاختزال الآتي؟",
+        "context": [
+          "2Br⁻(aq) + Cl₂(aq) → 2Cl⁻(aq) + Br₂(aq)"
+        ],
+        "options": {
+          "A": {
+            "en": "Oxidation of the chlorine molecule",
+            "ar": "يتأكسد جزيء الكلور"
+          },
+          "B": {
+            "en": "Electrons transfer from bromide ions to chlorine",
+            "ar": "تنتقل الإلكترونات من أيونات البروميد إلى الكلور"
+          },
+          "C": {
+            "en": "Electrons transfer from chlorine to bromide ions",
+            "ar": "تنتقل الإلكترونات من الكلور إلى أيونات البروميد"
+          },
+          "D": {
+            "en": "Reduction of the bromide ions",
+            "ar": "تُختزل أيونات البروميد"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a2.png"
+      },
+      {
+        "id": 3,
+        "answer": "A",
+        "promptEn": "In 2Al + 3Cl₂ → 2AlCl₃, which statement is correct?",
+        "promptAr": "أي عبارة صحيحة في التفاعل الآتي؟",
+        "context": [
+          "2Al + 3Cl₂ → 2AlCl₃"
+        ],
+        "options": {
+          "A": {
+            "en": "Aluminium loses electrons and chlorine gains them",
+            "ar": "يفقد الألومنيوم الإلكترونات ويكتسبها الكلور"
+          },
+          "B": {
+            "en": "Aluminium gains electrons and is reduced",
+            "ar": "يكتسب الألومنيوم إلكترونات ويُختزل"
+          },
+          "C": {
+            "en": "Chlorine loses electrons and is oxidized",
+            "ar": "يفقد الكلور إلكترونات ويتأكسد"
+          },
+          "D": {
+            "en": "Both Al and Cl₂ lose electrons",
+            "ar": "يفقد كل من الألومنيوم والكلور الإلكترونات"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a3.png"
+      },
+      {
+        "id": 4,
+        "answer": "D",
+        "promptEn": "Which statement correctly defines oxidation number?",
+        "promptAr": "أي عبارة تعرّف عدد التأكسد تعريفًا صحيحًا؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The number of protons in the nucleus of the atom",
+            "ar": "عدد البروتونات في نواة الذرة"
+          },
+          "B": {
+            "en": "The number of valence electrons in the atom only",
+            "ar": "عدد إلكترونات التكافؤ في الذرة فقط"
+          },
+          "C": {
+            "en": "The number of atoms in one formula unit",
+            "ar": "عدد الذرات في وحدة الصيغة"
+          },
+          "D": {
+            "en": "A number assigned to an atom or ion that indicates its degree of oxidation or reduction",
+            "ar": "عدد يُعيَّن للذرة أو الأيون ويدل على درجة أكسدته أو اختزاله"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a4.png"
+      },
+      {
+        "id": 5,
+        "answer": "D",
+        "promptEn": "Which value is written as an oxidation number rather than an ionic charge?",
+        "promptAr": "أي قيمة كُتبت على صورة عدد تأكسد بدلًا من شحنة أيونية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "3+",
+            "ar": "3+"
+          },
+          "B": {
+            "en": "Al³⁺",
+            "ar": "Al³⁺"
+          },
+          "C": {
+            "en": "3",
+            "ar": "3"
+          },
+          "D": {
+            "en": "+3",
+            "ar": "+3"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a5.png"
+      },
+      {
+        "id": 6,
+        "answer": "D",
+        "promptEn": "When a species is reduced, its oxidation number …",
+        "promptAr": "عندما تُختزل مادة، فإن عدد تأكسدها ...",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "increases because it gains electrons",
+            "ar": "يزداد لأنها تكتسب إلكترونات"
+          },
+          "B": {
+            "en": "increases because it loses electrons",
+            "ar": "يزداد لأنها تفقد إلكترونات"
+          },
+          "C": {
+            "en": "does not change",
+            "ar": "لا يتغير"
+          },
+          "D": {
+            "en": "decreases because it gains electrons",
+            "ar": "ينخفض لأنها تكتسب إلكترونات"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a6.png"
+      },
+      {
+        "id": 7,
+        "answer": "B",
+        "promptEn": "Which pair correctly identifies the agents in Fe + 2Ag⁺ → Fe²⁺ + 2Ag?",
+        "promptAr": "أي زوج يحدد العاملين بشكل صحيح في التفاعل الآتي؟",
+        "context": [
+          "Fe + 2Ag⁺ → Fe²⁺ + 2Ag"
+        ],
+        "options": {
+          "A": {
+            "en": "Reducing agent: Ag⁺; oxidizing agent: Fe",
+            "ar": "العامل المختزل: Ag⁺؛ العامل المؤكسد: Fe"
+          },
+          "B": {
+            "en": "Reducing agent: Fe; oxidizing agent: Ag⁺",
+            "ar": "العامل المختزل: Fe؛ العامل المؤكسد: Ag⁺"
+          },
+          "C": {
+            "en": "Reducing agent: Fe²⁺; oxidizing agent: Ag",
+            "ar": "العامل المختزل: Fe²⁺؛ العامل المؤكسد: Ag"
+          },
+          "D": {
+            "en": "Reducing agent: Ag; oxidizing agent: Fe²⁺",
+            "ar": "العامل المختزل: Ag؛ العامل المؤكسد: Fe²⁺"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a7.png"
+      },
+      {
+        "id": 8,
+        "answer": "C",
+        "promptEn": "An oxidizing agent is a substance that …",
+        "promptAr": "العامل المؤكسد مادة ...",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "donates electrons and is itself oxidized",
+            "ar": "تفقد إلكترونات وتتأكسد"
+          },
+          "B": {
+            "en": "accepts electrons and is itself oxidized",
+            "ar": "تكتسب إلكترونات وتتأكسد"
+          },
+          "C": {
+            "en": "accepts electrons and is itself reduced",
+            "ar": "تكتسب إلكترونات وتُختزل"
+          },
+          "D": {
+            "en": "donates electrons and is itself reduced",
+            "ar": "تفقد إلكترونات وتُختزل"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a8.png"
+      },
+      {
+        "id": 9,
+        "answer": "C",
+        "promptEn": "Substance X is a strong reducing agent. Which statement must be true?",
+        "promptAr": "المادة X عامل مختزل قوي. أي عبارة يجب أن تكون صحيحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "X readily gains electrons and is easily reduced",
+            "ar": "تكتسب X الإلكترونات بسهولة وتُختزل"
+          },
+          "B": {
+            "en": "X always contains oxygen",
+            "ar": "تحتوي X دائمًا على الأكسجين"
+          },
+          "C": {
+            "en": "X readily loses electrons and is easily oxidized",
+            "ar": "تفقد X الإلكترونات بسهولة وتتأكسد"
+          },
+          "D": {
+            "en": "The oxidation number of X decreases",
+            "ar": "ينخفض عدد تأكسد X"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a9.png"
+      },
+      {
+        "id": 10,
+        "answer": "B",
+        "promptEn": "What is the oxidizing agent in the following reaction?",
+        "promptAr": "ما العامل المؤكسد في التفاعل الآتي؟",
+        "context": [
+          "Fe + 2Ag⁺ → Fe²⁺ + 2Ag"
+        ],
+        "options": {
+          "A": {
+            "en": "Fe",
+            "ar": "Fe"
+          },
+          "B": {
+            "en": "Ag⁺",
+            "ar": "Ag⁺"
+          },
+          "C": {
+            "en": "Fe²⁺",
+            "ar": "Fe²⁺"
+          },
+          "D": {
+            "en": "Ag",
+            "ar": "Ag"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a10.png"
+      },
+      {
+        "id": 11,
+        "answer": "B",
+        "promptEn": "Regarding the redox reaction below, which of the following is correct?",
+        "promptAr": "أي مما يأتي صحيح فيما يتعلق بالتفاعل الآتي؟",
+        "context": [
+          "3Mg + N₂ → Mg₃N₂",
+          "(Atomic numbers: Mg = 12, N = 7)",
+          "(العددان الذريان: Mg = 12، N = 7)"
+        ],
+        "options": {
+          "A": {
+            "en": "The oxidizing agent is N₂ and its oxidation number changes from 0 to +3",
+            "ar": "العامل المؤكسد N₂، ويتغير عدد تأكسده من 0 إلى +3"
+          },
+          "B": {
+            "en": "The reducing agent is Mg and its oxidation number changes from 0 to +2",
+            "ar": "العامل المختزل Mg، ويتغير عدد تأكسده من 0 إلى +2"
+          },
+          "C": {
+            "en": "The oxidizing agent is Mg and its oxidation number changes from 0 to +2",
+            "ar": "العامل المؤكسد Mg، ويتغير عدد تأكسده من 0 إلى +2"
+          },
+          "D": {
+            "en": "The reducing agent is N₂ and its oxidation number changes from 0 to −3",
+            "ar": "العامل المختزل N₂، ويتغير عدد تأكسده من 0 إلى −3"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a11.png"
+      },
+      {
+        "id": 12,
+        "answer": "C",
+        "promptEn": "What is the oxidizing agent in this reaction?",
+        "promptAr": "ما العامل المؤكسد في التفاعل الآتي؟",
+        "context": [
+          "Na₂SO₄ + 4C → Na₂S + 4CO"
+        ],
+        "options": {
+          "A": {
+            "en": "C",
+            "ar": "C"
+          },
+          "B": {
+            "en": "CO",
+            "ar": "CO"
+          },
+          "C": {
+            "en": "Na₂SO₄",
+            "ar": "Na₂SO₄"
+          },
+          "D": {
+            "en": "Na₂S",
+            "ar": "Na₂S"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a12.png"
+      },
+      {
+        "id": 13,
+        "answer": "A",
+        "promptEn": "Which of the following is the reducing agent in the following reaction?",
+        "promptAr": "ما العامل المختزل في التفاعل الآتي؟",
+        "context": [
+          "Ca(s) + Zn²⁺(aq) → Ca²⁺(aq) + Zn(s)"
+        ],
+        "options": {
+          "A": {
+            "en": "Ca(s)",
+            "ar": "Ca(s)"
+          },
+          "B": {
+            "en": "Zn²⁺(aq)",
+            "ar": "Zn²⁺(aq)"
+          },
+          "C": {
+            "en": "Ca²⁺(aq)",
+            "ar": "Ca²⁺(aq)"
+          },
+          "D": {
+            "en": "Zn(s)",
+            "ar": "Zn(s)"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a13.png"
+      },
+      {
+        "id": 14,
+        "answer": "C",
+        "promptEn": "What is the reducing agent in the following reaction?",
+        "promptAr": "ما العامل المختزل في التفاعل الآتي؟",
+        "context": [
+          "H₂S(g) + Cl₂(g) → S(s) + 2HCl(g)"
+        ],
+        "options": {
+          "A": {
+            "en": "Cl₂",
+            "ar": "Cl₂"
+          },
+          "B": {
+            "en": "S",
+            "ar": "S"
+          },
+          "C": {
+            "en": "H₂S",
+            "ar": "H₂S"
+          },
+          "D": {
+            "en": "HCl",
+            "ar": "HCl"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a14.png"
+      },
+      {
+        "id": 15,
+        "answer": "D",
+        "promptEn": "What is the reducing agent in this reaction?",
+        "promptAr": "ما العامل المختزل في التفاعل الآتي؟",
+        "context": [
+          "2Ce(s) + 3Cu²⁺(aq) → 3Cu(s) + 2Ce³⁺(aq)"
+        ],
+        "options": {
+          "A": {
+            "en": "Cu",
+            "ar": "Cu"
+          },
+          "B": {
+            "en": "Cu²⁺",
+            "ar": "Cu²⁺"
+          },
+          "C": {
+            "en": "Ce³⁺",
+            "ar": "Ce³⁺"
+          },
+          "D": {
+            "en": "Ce",
+            "ar": "Ce"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a15.png"
+      },
+      {
+        "id": 16,
+        "answer": "A",
+        "promptEn": "In N₂ + 3H₂ → 2NH₃, what are the changes in oxidation number?",
+        "promptAr": "ما التغيرات في أعداد التأكسد في التفاعل الآتي؟",
+        "context": [
+          "N₂ + 3H₂ → 2NH₃"
+        ],
+        "options": {
+          "A": {
+            "en": "N: 0 → −3 (reduced); H: 0 → +1 (oxidized)",
+            "ar": "يُختزل N من 0 إلى −3؛ ويتأكسد H من 0 إلى +1"
+          },
+          "B": {
+            "en": "N: 0 → +3 (oxidized); H: 0 → −1 (reduced)",
+            "ar": "يتأكسد N من 0 إلى +3؛ ويُختزل H من 0 إلى −1"
+          },
+          "C": {
+            "en": "N: 0 → −3 (oxidized); H: 0 → +1 (reduced)",
+            "ar": "يتأكسد N من 0 إلى −3؛ ويُختزل H من 0 إلى +1"
+          },
+          "D": {
+            "en": "No change in either element",
+            "ar": "لا يتغير عدد التأكسد لأي منهما"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a16.png"
+      },
+      {
+        "id": 17,
+        "answer": "A",
+        "promptEn": "What is the change in the oxidation number of chlorine?",
+        "promptAr": "ما التغير في عدد تأكسد الكلور في التفاعل الآتي؟",
+        "context": [
+          "2KBr + Cl₂ → 2KCl + Br₂"
+        ],
+        "options": {
+          "A": {
+            "en": "0 → −1",
+            "ar": "0 → −1"
+          },
+          "B": {
+            "en": "−1 → 0",
+            "ar": "−1 → 0"
+          },
+          "C": {
+            "en": "0 → −2",
+            "ar": "0 → −2"
+          },
+          "D": {
+            "en": "−2 → 0",
+            "ar": "−2 → 0"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a17.png"
+      },
+      {
+        "id": 18,
+        "answer": "D",
+        "promptEn": "Which reaction is NOT a redox reaction?",
+        "promptAr": "أي التفاعلات الآتية ليس تفاعل أكسدة واختزال؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Zn + CuSO₄ → ZnSO₄ + Cu",
+            "ar": "Zn + CuSO₄ → ZnSO₄ + Cu"
+          },
+          "B": {
+            "en": "2H₂ + O₂ → 2H₂O",
+            "ar": "2H₂ + O₂ → 2H₂O"
+          },
+          "C": {
+            "en": "Cl₂ + 2KBr → 2KCl + Br₂",
+            "ar": "Cl₂ + 2KBr → 2KCl + Br₂"
+          },
+          "D": {
+            "en": "AgNO₃ + NaCl → AgCl + NaNO₃",
+            "ar": "AgNO₃ + NaCl → AgCl + NaNO₃"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a18.png"
+      },
+      {
+        "id": 19,
+        "answer": "D",
+        "promptEn": "In which of the following formulas does the oxidation number of oxygen differ from that in the other formulas?",
+        "promptAr": "في أي الصيغ الآتية يختلف عدد تأكسد الأكسجين عن الصيغ الأخرى؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "NO₂",
+            "ar": "NO₂"
+          },
+          "B": {
+            "en": "NO",
+            "ar": "NO"
+          },
+          "C": {
+            "en": "H₂O",
+            "ar": "H₂O"
+          },
+          "D": {
+            "en": "H₂O₂",
+            "ar": "H₂O₂"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a19.png"
+      },
+      {
+        "id": 20,
+        "answer": "D",
+        "promptEn": "Which of the rules for determining oxidation numbers is incorrect?",
+        "promptAr": "أي قواعد تعيين أعداد التأكسد الآتية غير صحيحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The oxidation number of an atom of an uncombined element is zero",
+            "ar": "عدد تأكسد ذرة العنصر الحر يساوي صفرًا"
+          },
+          "B": {
+            "en": "The oxidation number of a group 1 element in a compound equals +1",
+            "ar": "عدد تأكسد عنصر المجموعة الأولى في المركب يساوي +1"
+          },
+          "C": {
+            "en": "The sum of the oxidation numbers in a neutral compound is zero",
+            "ar": "مجموع أعداد التأكسد في المركب المتعادل يساوي صفرًا"
+          },
+          "D": {
+            "en": "The oxidation number of hydrogen in metal hydrides equals +1",
+            "ar": "عدد تأكسد الهيدروجين في هيدريدات الفلزات يساوي +1"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a20.png"
+      },
+      {
+        "id": 21,
+        "answer": "D",
+        "promptEn": "When is the oxidation number of oxygen positive?",
+        "promptAr": "متى يكون عدد تأكسد الأكسجين موجبًا؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "When oxygen is bonded to itself",
+            "ar": "عندما يرتبط الأكسجين بنفسه"
+          },
+          "B": {
+            "en": "In peroxides",
+            "ar": "في فوق الأكاسيد"
+          },
+          "C": {
+            "en": "In oxides",
+            "ar": "في الأكاسيد"
+          },
+          "D": {
+            "en": "When oxygen is bonded to fluorine",
+            "ar": "عندما يرتبط الأكسجين بالفلور"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a21.png"
+      },
+      {
+        "id": 22,
+        "answer": "A",
+        "promptEn": "In which of the following formulas is the oxidation number of manganese the greatest?",
+        "promptAr": "في أي الصيغ الآتية يكون عدد تأكسد المنغنيز هو الأعلى؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "KMnO₄",
+            "ar": "KMnO₄"
+          },
+          "B": {
+            "en": "MnO₂",
+            "ar": "MnO₂"
+          },
+          "C": {
+            "en": "MnCl₂",
+            "ar": "MnCl₂"
+          },
+          "D": {
+            "en": "K₂MnO₄",
+            "ar": "K₂MnO₄"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a22.png"
+      },
+      {
+        "id": 23,
+        "answer": "A",
+        "promptEn": "What is the correct ascending order of the following formulas according to the oxidation number of chlorine in each of them?",
+        "promptAr": "ما الترتيب التصاعدي الصحيح للصيغ الآتية وفق عدد تأكسد الكلور؟",
+        "context": [
+          "Cl₂ – NaCl – KClO₄ – KClO"
+        ],
+        "options": {
+          "A": {
+            "en": "NaCl → Cl₂ → KClO → KClO₄",
+            "ar": "NaCl → Cl₂ → KClO → KClO₄"
+          },
+          "B": {
+            "en": "Cl₂ → NaCl → KClO₄ → KClO",
+            "ar": "Cl₂ → NaCl → KClO₄ → KClO"
+          },
+          "C": {
+            "en": "KClO₄ → NaCl → Cl₂ → KClO",
+            "ar": "KClO₄ → NaCl → Cl₂ → KClO"
+          },
+          "D": {
+            "en": "KClO₄ → KClO → Cl₂ → NaCl",
+            "ar": "KClO₄ → KClO → Cl₂ → NaCl"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a23.png"
+      },
+      {
+        "id": 24,
+        "answer": "D",
+        "promptEn": "What is the oxidation number of chromium in CrO₄²⁻?",
+        "promptAr": "ما عدد تأكسد الكروم في أيون CrO₄²⁻؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "+2",
+            "ar": "+2"
+          },
+          "B": {
+            "en": "−6",
+            "ar": "−6"
+          },
+          "C": {
+            "en": "−2",
+            "ar": "−2"
+          },
+          "D": {
+            "en": "+6",
+            "ar": "+6"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a24.png"
+      },
+      {
+        "id": 25,
+        "answer": "A",
+        "promptEn": "What is the oxidation number of iron in K₄Fe(CN)₆? (CN is a −1 ion.)",
+        "promptAr": "ما عدد تأكسد الحديد في K₄Fe(CN)₆؟ (شحنة أيون CN تساوي −1.)",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "+2",
+            "ar": "+2"
+          },
+          "B": {
+            "en": "+3",
+            "ar": "+3"
+          },
+          "C": {
+            "en": "+4",
+            "ar": "+4"
+          },
+          "D": {
+            "en": "−2",
+            "ar": "−2"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a25.png"
+      },
+      {
+        "id": 26,
+        "answer": "A",
+        "promptEn": "Fe₃O₄ contains iron in two oxidation states, Fe²⁺ and Fe³⁺, in a 1 : 2 ratio. What is the average oxidation number of iron?",
+        "promptAr": "يحتوي Fe₃O₄ على Fe²⁺ وFe³⁺ بنسبة 1 : 2. ما متوسط عدد تأكسد الحديد؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "+8/3",
+            "ar": "+8/3"
+          },
+          "B": {
+            "en": "+2",
+            "ar": "+2"
+          },
+          "C": {
+            "en": "+3",
+            "ar": "+3"
+          },
+          "D": {
+            "en": "+4",
+            "ar": "+4"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a26.png"
+      },
+      {
+        "id": 27,
+        "answer": "A",
+        "promptEn": "What is the average oxidation number of sulfur in S₄O₆²⁻?",
+        "promptAr": "ما متوسط عدد تأكسد الكبريت في أيون S₄O₆²⁻؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "+2.5",
+            "ar": "+2.5"
+          },
+          "B": {
+            "en": "+2",
+            "ar": "+2"
+          },
+          "C": {
+            "en": "+3",
+            "ar": "+3"
+          },
+          "D": {
+            "en": "+6",
+            "ar": "+6"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a27.png"
+      },
+      {
+        "id": 28,
+        "answer": "B",
+        "promptEn": "In the oxidation-number change S: −2 → +6, how many electrons are lost per S atom?",
+        "promptAr": "عند تغير عدد تأكسد الكبريت من −2 إلى +6، كم إلكترونًا تفقد كل ذرة كبريت؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "4",
+            "ar": "4"
+          },
+          "B": {
+            "en": "8",
+            "ar": "8"
+          },
+          "C": {
+            "en": "6",
+            "ar": "6"
+          },
+          "D": {
+            "en": "2",
+            "ar": "2"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a28.png"
+      },
+      {
+        "id": 29,
+        "answer": "C",
+        "promptEn": "Which species is oxidized, and how does its oxidation number change?",
+        "promptAr": "ما المادة التي تتأكسد، وكيف يتغير عدد تأكسدها؟",
+        "context": [
+          "Fe + 2HBr → FeBr₂ + H₂"
+        ],
+        "options": {
+          "A": {
+            "en": "H: +1 → 0",
+            "ar": "H: +1 → 0"
+          },
+          "B": {
+            "en": "Br: −1 → 0",
+            "ar": "Br: −1 → 0"
+          },
+          "C": {
+            "en": "Fe: 0 → +2",
+            "ar": "Fe: 0 → +2"
+          },
+          "D": {
+            "en": "Fe: +2 → 0",
+            "ar": "Fe: +2 → 0"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a29.png"
+      },
+      {
+        "id": 30,
+        "answer": "B",
+        "promptEn": "Which element is oxidized in C + O₂ → CO₂?",
+        "promptAr": "أي عنصر يتأكسد في التفاعل C + O₂ → CO₂؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Oxygen: 0 → −2",
+            "ar": "الأكسجين من صفر إلى −2"
+          },
+          "B": {
+            "en": "Carbon: 0 → +4",
+            "ar": "الكربون من صفر إلى +4"
+          },
+          "C": {
+            "en": "Carbon: +4 → 0",
+            "ar": "الكربون من +4 إلى صفر"
+          },
+          "D": {
+            "en": "Both elements",
+            "ar": "كلا العنصرين"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a30.png"
+      },
+      {
+        "id": 31,
+        "answer": "B",
+        "promptEn": "In 3Cu + 8HNO₃ → 3Cu(NO₃)₂ + 2NO + 4H₂O, which statement is correct?",
+        "promptAr": "أي العبارات الآتية صحيحة في التفاعل الآتي؟",
+        "context": [
+          "3Cu + 8HNO₃ → 3Cu(NO₃)₂ + 2NO + 4H₂O"
+        ],
+        "options": {
+          "A": {
+            "en": "Nitrogen is oxidized from +5 to +2",
+            "ar": "يتأكسد النيتروجين من +5 إلى +2"
+          },
+          "B": {
+            "en": "Nitrogen is reduced from +5 to +2 and copper is oxidized from 0 to +2",
+            "ar": "يُختزل النيتروجين من +5 إلى +2، ويتأكسد النحاس من 0 إلى +2"
+          },
+          "C": {
+            "en": "Copper is reduced from 0 to +2",
+            "ar": "يُختزل النحاس من 0 إلى +2"
+          },
+          "D": {
+            "en": "Hydrogen is oxidized from +1 to 0",
+            "ar": "يتأكسد الهيدروجين من +1 إلى 0"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a31.png"
+      },
+      {
+        "id": 32,
+        "answer": "C",
+        "promptEn": "Which element is reduced, and what is its net change per atom?",
+        "promptAr": "أي عنصر يُختزل، وما مقدار التغير لكل ذرة؟",
+        "context": [
+          "Fe + 2HBr → FeBr₂ + H₂"
+        ],
+        "options": {
+          "A": {
+            "en": "Br: −1 → 0 (Δ = +1)",
+            "ar": "Br: −1 → 0 (Δ = +1)"
+          },
+          "B": {
+            "en": "Fe: 0 → +2 (Δ = +2)",
+            "ar": "Fe: 0 → +2 (Δ = +2)"
+          },
+          "C": {
+            "en": "H: +1 → 0 (Δ = −1)",
+            "ar": "H: +1 → 0 (Δ = −1)"
+          },
+          "D": {
+            "en": "H: 0 → +1 (Δ = +1)",
+            "ar": "H: 0 → +1 (Δ = +1)"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a32.png"
+      },
+      {
+        "id": 33,
+        "answer": "A",
+        "promptEn": "What is the net change in the oxidation number of Mn when MnO₄⁻ becomes Mn²⁺?",
+        "promptAr": "ما صافي التغير في عدد تأكسد المنغنيز عند تحول MnO₄⁻ إلى Mn²⁺؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "−5",
+            "ar": "−5"
+          },
+          "B": {
+            "en": "+5",
+            "ar": "+5"
+          },
+          "C": {
+            "en": "−7",
+            "ar": "−7"
+          },
+          "D": {
+            "en": "+2",
+            "ar": "+2"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a33.png"
+      },
+      {
+        "id": 34,
+        "answer": "A",
+        "promptEn": "When balancing redox equations using the half-reaction method, the coefficients of the two half-reactions are adjusted so that:",
+        "promptAr": "عند وزن معادلات الأكسدة والاختزال بطريقة نصف التفاعل، تُعدَّل معاملات نصفي التفاعل بحيث:",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "the number of electrons lost in oxidation equals the number of electrons gained in reduction",
+            "ar": "يتساوى عدد الإلكترونات المفقودة في الأكسدة والمكتسبة في الاختزال"
+          },
+          "B": {
+            "en": "the number of electrons lost in oxidation is twice the number gained in reduction",
+            "ar": "يكون عدد الإلكترونات المفقودة ضعف المكتسبة"
+          },
+          "C": {
+            "en": "the number of electrons lost in oxidation is less than the number gained in reduction",
+            "ar": "يكون عدد الإلكترونات المفقودة أقل من المكتسبة"
+          },
+          "D": {
+            "en": "the number of electrons lost in oxidation is greater than the number gained in reduction",
+            "ar": "يكون عدد الإلكترونات المفقودة أكبر من المكتسبة"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a34.png"
+      },
+      {
+        "id": 35,
+        "answer": "D",
+        "promptEn": "When balancing half-reactions of a redox equation using the half-reaction method in acidic solution, H₂O molecules are used to balance:",
+        "promptAr": "عند وزن أنصاف التفاعلات في الوسط الحمضي، تُستخدم جزيئات الماء لموازنة:",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "electrons e⁻",
+            "ar": "الإلكترونات"
+          },
+          "B": {
+            "en": "hydrogen atoms",
+            "ar": "ذرات الهيدروجين"
+          },
+          "C": {
+            "en": "OH⁻ ions",
+            "ar": "أيونات الهيدروكسيد"
+          },
+          "D": {
+            "en": "oxygen atoms",
+            "ar": "ذرات الأكسجين"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a35.png"
+      },
+      {
+        "id": 36,
+        "answer": "D",
+        "promptEn": "Which sequence correctly balances one half-reaction in acidic solution?",
+        "promptAr": "أي تسلسل يزن نصف تفاعل في الوسط الحمضي بصورة صحيحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "e⁻ for charge, H⁺ for H, H₂O for O, other atoms",
+            "ar": "الإلكترونات للشحنة، ثم H⁺، ثم الماء، ثم بقية الذرات"
+          },
+          "B": {
+            "en": "H⁺ for H, H₂O for O, e⁻, other atoms",
+            "ar": "H⁺، ثم الماء، ثم الإلكترونات، ثم بقية الذرات"
+          },
+          "C": {
+            "en": "OH⁻ for H, H₂O for O, other atoms, e⁻",
+            "ar": "OH⁻، ثم الماء، ثم بقية الذرات، ثم الإلكترونات"
+          },
+          "D": {
+            "en": "Other atoms, H₂O for O, H⁺ for H, e⁻ for charge",
+            "ar": "بقية الذرات، ثم الماء للأكسجين، ثم H⁺ للهيدروجين، ثم الإلكترونات للشحنة"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a36.png"
+      },
+      {
+        "id": 37,
+        "answer": "B",
+        "promptEn": "What is the oxidation half-reaction for the redox reaction shown below?",
+        "promptAr": "ما نصف تفاعل الأكسدة للتفاعل الآتي؟",
+        "context": [
+          "Ni(s) + CuCl₂(aq) → Cu(s) + NiCl₂(aq)"
+        ],
+        "options": {
+          "A": {
+            "en": "Cu²⁺ + 2e⁻ → Cu",
+            "ar": "Cu²⁺ + 2e⁻ → Cu"
+          },
+          "B": {
+            "en": "Ni → Ni²⁺ + 2e⁻",
+            "ar": "Ni → Ni²⁺ + 2e⁻"
+          },
+          "C": {
+            "en": "Ni²⁺ + 2e⁻ → Ni",
+            "ar": "Ni²⁺ + 2e⁻ → Ni"
+          },
+          "D": {
+            "en": "Cu → Cu²⁺ + 2e⁻",
+            "ar": "Cu → Cu²⁺ + 2e⁻"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a37.png"
+      },
+      {
+        "id": 38,
+        "answer": "A",
+        "promptEn": "Given the two half-reactions: Sn²⁺ → Sn⁴⁺ + 2e⁻ and Au³⁺ + 3e⁻ → Au. What is the minimum number of Sn²⁺ and Au³⁺ ions that react with no electrons left over?",
+        "promptAr": "بالنظر إلى نصفي التفاعل الآتيين، ما أقل عدد من أيونات القصدير والذهب اللازمة للتفاعل دون بقاء إلكترونات؟",
+        "context": [
+          "Sn²⁺ → Sn⁴⁺ + 2e⁻ ; Au³⁺ + 3e⁻ → Au"
+        ],
+        "options": {
+          "A": {
+            "en": "Au³⁺ = 2 and Sn²⁺ = 3",
+            "ar": "Au³⁺ = 2 and Sn²⁺ = 3"
+          },
+          "B": {
+            "en": "Au³⁺ = 3 and Sn²⁺ = 2",
+            "ar": "Au³⁺ = 3 and Sn²⁺ = 2"
+          },
+          "C": {
+            "en": "Au³⁺ = 1 and Sn²⁺ = 1",
+            "ar": "Au³⁺ = 1 and Sn²⁺ = 1"
+          },
+          "D": {
+            "en": "Au³⁺ = 3 and Sn²⁺ = 3",
+            "ar": "Au³⁺ = 3 and Sn²⁺ = 3"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a38.png"
+      },
+      {
+        "id": 39,
+        "answer": "B",
+        "promptEn": "Which half-reactions are reductions?",
+        "promptAr": "أي أنصاف التفاعلات تمثل اختزالًا؟",
+        "context": [
+          "(1) Al → Al³⁺ + 3e⁻",
+          "(2) Cu²⁺ + e⁻ → Cu⁺",
+          "(3) 2F⁻ → F₂ + 2e⁻",
+          "(4) Zn²⁺ + 2e⁻ → Zn"
+        ],
+        "options": {
+          "A": {
+            "en": "3 and 4",
+            "ar": "الثالث والرابع"
+          },
+          "B": {
+            "en": "2 and 4",
+            "ar": "الثاني والرابع"
+          },
+          "C": {
+            "en": "2 and 3",
+            "ar": "الثاني والثالث"
+          },
+          "D": {
+            "en": "1 and 2",
+            "ar": "الأول والثاني"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a39.png"
+      },
+      {
+        "id": 40,
+        "answer": "B",
+        "promptEn": "When the following redox equation is balanced in an acidic solution, which of the following is correct?",
+        "promptAr": "عند وزن المعادلة الآتية في وسط حمضي، أي مما يأتي صحيح؟",
+        "context": [
+          "Cr₂O₇²⁻ + Fe²⁺ → Cr³⁺ + Fe³⁺"
+        ],
+        "options": {
+          "A": {
+            "en": "7H₂O on the reactants side; 14H⁺ on the products side",
+            "ar": "7H₂O مع المتفاعلات؛ و14H⁺ مع النواتج"
+          },
+          "B": {
+            "en": "7H₂O on the products side; 14H⁺ on the reactants side",
+            "ar": "7H₂O مع النواتج؛ و14H⁺ مع المتفاعلات"
+          },
+          "C": {
+            "en": "14H₂O on the products side; 7H⁺ on the reactants side",
+            "ar": "14H₂O مع النواتج؛ و7H⁺ مع المتفاعلات"
+          },
+          "D": {
+            "en": "14H₂O on the reactants side; 7H⁺ on the products side",
+            "ar": "14H₂O مع المتفاعلات؛ و7H⁺ مع النواتج"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a40.png"
+      },
+      {
+        "id": 41,
+        "answer": "A",
+        "promptEn": "Using the half-reaction method, what is the correct balanced equation in acidic solution for Cr₂O₇²⁻ + I⁻ → Cr³⁺ + I₂?",
+        "promptAr": "ما المعادلة الموزونة الصحيحة في الوسط الحمضي للتفاعل الآتي؟",
+        "context": [
+          "Cr₂O₇²⁻ + I⁻ → Cr³⁺ + I₂"
+        ],
+        "options": {
+          "A": {
+            "en": "Cr₂O₇²⁻ + 6I⁻ + 14H⁺ → 2Cr³⁺ + 3I₂ + 7H₂O",
+            "ar": "Cr₂O₇²⁻ + 6I⁻ + 14H⁺ → 2Cr³⁺ + 3I₂ + 7H₂O"
+          },
+          "B": {
+            "en": "2Cr₂O₇²⁻ + 2I⁻ + 14H⁺ → 2Cr³⁺ + I₂ + 7H₂O",
+            "ar": "2Cr₂O₇²⁻ + 2I⁻ + 14H⁺ → 2Cr³⁺ + I₂ + 7H₂O"
+          },
+          "C": {
+            "en": "Cr₂O₇²⁻ + 6I⁻ + 7H₂O → 2Cr³⁺ + 3I₂ + 14H⁺",
+            "ar": "Cr₂O₇²⁻ + 6I⁻ + 7H₂O → 2Cr³⁺ + 3I₂ + 14H⁺"
+          },
+          "D": {
+            "en": "2Cr₂O₇²⁻ + 6I⁻ + 28H⁺ → 4Cr³⁺ + 3I₂ + 14H₂O",
+            "ar": "2Cr₂O₇²⁻ + 6I⁻ + 28H⁺ → 4Cr³⁺ + 3I₂ + 14H₂O"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a41.png"
+      },
+      {
+        "id": 42,
+        "answer": "B",
+        "promptEn": "Balance MnO₄⁻ + Fe²⁺ → Mn²⁺ + Fe³⁺ in acidic solution. What is the coefficient of Fe²⁺ in the smallest whole-number ratio?",
+        "promptAr": "عند وزن التفاعل الآتي في وسط حمضي، ما معامل Fe²⁺ بأصغر نسبة صحيحة؟",
+        "context": [
+          "MnO₄⁻ + Fe²⁺ → Mn²⁺ + Fe³⁺"
+        ],
+        "options": {
+          "A": {
+            "en": "1",
+            "ar": "1"
+          },
+          "B": {
+            "en": "5",
+            "ar": "5"
+          },
+          "C": {
+            "en": "2",
+            "ar": "2"
+          },
+          "D": {
+            "en": "8",
+            "ar": "8"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a42.png"
+      },
+      {
+        "id": 43,
+        "answer": "C",
+        "promptEn": "What is the sum of coefficients when Zn + Ag⁺ → Zn²⁺ + Ag is balanced?",
+        "promptAr": "ما مجموع المعاملات عند وزن المعادلة الآتية؟",
+        "context": [
+          "Zn + Ag⁺ → Zn²⁺ + Ag"
+        ],
+        "options": {
+          "A": {
+            "en": "4",
+            "ar": "4"
+          },
+          "B": {
+            "en": "5",
+            "ar": "5"
+          },
+          "C": {
+            "en": "6",
+            "ar": "6"
+          },
+          "D": {
+            "en": "3",
+            "ar": "3"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a43.png"
+      },
+      {
+        "id": 44,
+        "answer": "A",
+        "promptEn": "In the balanced equation 5SO₃²⁻ + 2MnO₄⁻ + 6H⁺ → 5SO₄²⁻ + 2Mn²⁺ + 3H₂O, how many electrons are transferred in total?",
+        "promptAr": "كم إلكترونًا ينتقل إجمالًا في المعادلة الموزونة الآتية؟",
+        "context": [
+          "5SO₃²⁻ + 2MnO₄⁻ + 6H⁺ → 5SO₄²⁻ + 2Mn²⁺ + 3H₂O"
+        ],
+        "options": {
+          "A": {
+            "en": "10",
+            "ar": "10"
+          },
+          "B": {
+            "en": "5",
+            "ar": "5"
+          },
+          "C": {
+            "en": "2",
+            "ar": "2"
+          },
+          "D": {
+            "en": "7",
+            "ar": "7"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a44.png"
+      },
+      {
+        "id": 45,
+        "answer": "C",
+        "promptEn": "Which equation correctly balances Cu + NO₃⁻ → Cu²⁺ + NO in acidic solution?",
+        "promptAr": "أي معادلة تزن التفاعل الآتي في وسط حمضي بصورة صحيحة؟",
+        "context": [
+          "Cu + NO₃⁻ → Cu²⁺ + NO"
+        ],
+        "options": {
+          "A": {
+            "en": "3Cu + 2NO₃⁻ + 4H⁺ → 3Cu²⁺ + 2NO + 2H₂O",
+            "ar": "3Cu + 2NO₃⁻ + 4H⁺ → 3Cu²⁺ + 2NO + 2H₂O"
+          },
+          "B": {
+            "en": "2Cu + 3NO₃⁻ + 8H⁺ → 2Cu²⁺ + 3NO + 4H₂O",
+            "ar": "2Cu + 3NO₃⁻ + 8H⁺ → 2Cu²⁺ + 3NO + 4H₂O"
+          },
+          "C": {
+            "en": "3Cu + 2NO₃⁻ + 8H⁺ → 3Cu²⁺ + 2NO + 4H₂O",
+            "ar": "3Cu + 2NO₃⁻ + 8H⁺ → 3Cu²⁺ + 2NO + 4H₂O"
+          },
+          "D": {
+            "en": "Cu + NO₃⁻ + 4H⁺ → Cu²⁺ + NO + 2H₂O",
+            "ar": "Cu + NO₃⁻ + 4H⁺ → Cu²⁺ + NO + 2H₂O"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a45.png"
+      },
+      {
+        "id": 46,
+        "answer": "B",
+        "promptEn": "In the characteristic step for balancing redox equations that take place in basic solution, what must be added to equal the number of H⁺ ions?",
+        "promptAr": "في الخطوة المميزة لوزن تفاعلات الأكسدة والاختزال في الوسط القاعدي، ما الذي يُضاف بعدد يساوي عدد أيونات H⁺؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Number of H₂O molecules",
+            "ar": "عدد من جزيئات الماء"
+          },
+          "B": {
+            "en": "Number of OH⁻ ions",
+            "ar": "عدد من أيونات الهيدروكسيد"
+          },
+          "C": {
+            "en": "Number of O₂ molecules",
+            "ar": "عدد من جزيئات الأكسجين"
+          },
+          "D": {
+            "en": "Number of electrons e⁻",
+            "ar": "عدد من الإلكترونات"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a46.png"
+      },
+      {
+        "id": 47,
+        "answer": "C",
+        "promptEn": "Which statement describes the final step in balancing a redox equation in basic medium?",
+        "promptAr": "أي عبارة تصف الخطوة النهائية لوزن معادلة أكسدة واختزال في وسط قاعدي؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Electrons are added to the product side",
+            "ar": "تُضاف الإلكترونات إلى طرف النواتج"
+          },
+          "B": {
+            "en": "Oxidation numbers are re-assigned",
+            "ar": "تُعيَّن أعداد التأكسد من جديد"
+          },
+          "C": {
+            "en": "H⁺ is neutralized by OH⁻ and the equation is checked for atoms and charge",
+            "ar": "تُعادَل أيونات H⁺ بأيونات OH⁻ ثم تُراجع الذرات والشحنة"
+          },
+          "D": {
+            "en": "H₂O is removed from both sides always",
+            "ar": "يُحذف الماء دائمًا من الطرفين"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a47.png"
+      },
+      {
+        "id": 48,
+        "answer": "C",
+        "promptEn": "While balancing in basic solution, 4H⁺ appear on the left of a half-reaction. How many OH⁻ must be added to EACH side?",
+        "promptAr": "أثناء الوزن في وسط قاعدي، ظهرت 4H⁺ في الطرف الأيسر. كم أيون OH⁻ يجب إضافته إلى كل طرف؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "2",
+            "ar": "2"
+          },
+          "B": {
+            "en": "8",
+            "ar": "8"
+          },
+          "C": {
+            "en": "4",
+            "ar": "4"
+          },
+          "D": {
+            "en": "1",
+            "ar": "1"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a48.png"
+      },
+      {
+        "id": 49,
+        "answer": "B",
+        "promptEn": "Which is the correct balanced equation in basic solution for the reaction Cl⁻ + NO₃⁻ → ClO⁻ + NO?",
+        "promptAr": "ما المعادلة الموزونة الصحيحة في الوسط القاعدي للتفاعل الآتي؟",
+        "context": [
+          "Cl⁻ + NO₃⁻ → ClO⁻ + NO"
+        ],
+        "options": {
+          "A": {
+            "en": "2H₂O + 3Cl⁻ + 2NO₃⁻ → 3ClO⁻ + 2NO + 4OH⁻",
+            "ar": "2H₂O + 3Cl⁻ + 2NO₃⁻ → 3ClO⁻ + 2NO + 4OH⁻"
+          },
+          "B": {
+            "en": "H₂O + 3Cl⁻ + 2NO₃⁻ → 3ClO⁻ + 2NO + 2OH⁻",
+            "ar": "H₂O + 3Cl⁻ + 2NO₃⁻ → 3ClO⁻ + 2NO + 2OH⁻"
+          },
+          "C": {
+            "en": "H₂O + 3Cl⁻ + 2NO₃⁻ → 3ClO⁻ + 2NO + 4OH⁻",
+            "ar": "H₂O + 3Cl⁻ + 2NO₃⁻ → 3ClO⁻ + 2NO + 4OH⁻"
+          },
+          "D": {
+            "en": "2H⁺ + 3Cl⁻ + 2NO₃⁻ → 3ClO⁻ + 2NO + H₂O",
+            "ar": "2H⁺ + 3Cl⁻ + 2NO₃⁻ → 3ClO⁻ + 2NO + H₂O"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a49.png"
+      },
+      {
+        "id": 50,
+        "answer": "A",
+        "promptEn": "Which is the correct balanced equation for MnO₄⁻ + I⁻ → MnO₂ + I₂ in basic solution?",
+        "promptAr": "ما المعادلة الموزونة الصحيحة في الوسط القاعدي للتفاعل الآتي؟",
+        "context": [
+          "MnO₄⁻ + I⁻ → MnO₂ + I₂"
+        ],
+        "options": {
+          "A": {
+            "en": "2MnO₄⁻ + 6I⁻ + 4H₂O → 2MnO₂ + 3I₂ + 8OH⁻",
+            "ar": "2MnO₄⁻ + 6I⁻ + 4H₂O → 2MnO₂ + 3I₂ + 8OH⁻"
+          },
+          "B": {
+            "en": "MnO₄⁻ + 2I⁻ + 2H₂O → MnO₂ + I₂ + 4OH⁻",
+            "ar": "MnO₄⁻ + 2I⁻ + 2H₂O → MnO₂ + I₂ + 4OH⁻"
+          },
+          "C": {
+            "en": "2MnO₄⁻ + 6I⁻ + 8H⁺ → 2MnO₂ + 3I₂ + 4H₂O",
+            "ar": "2MnO₄⁻ + 6I⁻ + 8H⁺ → 2MnO₂ + 3I₂ + 4H₂O"
+          },
+          "D": {
+            "en": "2MnO₄⁻ + 6I⁻ + 4OH⁻ → 2MnO₂ + 3I₂ + 8H₂O",
+            "ar": "2MnO₄⁻ + 6I⁻ + 4OH⁻ → 2MnO₂ + 3I₂ + 8H₂O"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a50.png"
+      },
+      {
+        "id": 51,
+        "answer": "C",
+        "promptEn": "Convert this acidic equation to basic medium. How many H₂O molecules remain?",
+        "promptAr": "حوّل المعادلة الحمضية الآتية إلى وسط قاعدي. كم جزيء ماء يبقى؟",
+        "context": [
+          "5HSO₃⁻ + 2IO₃⁻ → 5SO₄²⁻ + 3H⁺ + I₂ + H₂O"
+        ],
+        "options": {
+          "A": {
+            "en": "2",
+            "ar": "2"
+          },
+          "B": {
+            "en": "3",
+            "ar": "3"
+          },
+          "C": {
+            "en": "4",
+            "ar": "4"
+          },
+          "D": {
+            "en": "5",
+            "ar": "5"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a51.png"
+      },
+      {
+        "id": 52,
+        "answer": "C",
+        "promptEn": "The study of the redox processes by which chemical energy is converted to electrical energy and vice versa is called …",
+        "promptAr": "ماذا تُسمى دراسة عمليات الأكسدة والاختزال التي تتحول فيها الطاقة الكيميائية إلى كهربائية والعكس؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Nuclear chemistry",
+            "ar": "الكيمياء النووية"
+          },
+          "B": {
+            "en": "Organic chemistry",
+            "ar": "الكيمياء العضوية"
+          },
+          "C": {
+            "en": "Electrochemistry",
+            "ar": "الكيمياء الكهربائية"
+          },
+          "D": {
+            "en": "Physical chemistry",
+            "ar": "الكيمياء الفيزيائية"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a52.png"
+      },
+      {
+        "id": 53,
+        "answer": "D",
+        "promptEn": "Which statement is true for BOTH voltaic and electrolytic cells?",
+        "promptAr": "أي عبارة صحيحة لكل من الخلية الفولتية والخلية التحليلية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The anode is negative",
+            "ar": "المصعد سالب"
+          },
+          "B": {
+            "en": "The reaction is spontaneous",
+            "ar": "التفاعل تلقائي"
+          },
+          "C": {
+            "en": "An external voltage source is required",
+            "ar": "يلزم مصدر جهد خارجي"
+          },
+          "D": {
+            "en": "Oxidation occurs at the anode",
+            "ar": "تحدث الأكسدة عند المصعد"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a53.png"
+      },
+      {
+        "id": 54,
+        "answer": "D",
+        "promptEn": "Which energy conversion takes place in a voltaic cell?",
+        "promptAr": "ما تحول الطاقة الذي يحدث في الخلية الفولتية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Electrical energy to chemical energy",
+            "ar": "من طاقة كهربائية إلى كيميائية"
+          },
+          "B": {
+            "en": "Heat energy to electrical energy",
+            "ar": "من طاقة حرارية إلى كهربائية"
+          },
+          "C": {
+            "en": "Light energy to chemical energy",
+            "ar": "من طاقة ضوئية إلى كيميائية"
+          },
+          "D": {
+            "en": "Chemical energy to electrical energy",
+            "ar": "من طاقة كيميائية إلى كهربائية"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a54.png"
+      },
+      {
+        "id": 55,
+        "answer": "B",
+        "promptEn": "In a voltaic cell with Zn | Zn²⁺ and Ag | Ag⁺ half-cells joined by a copper wire and a KCl salt bridge, where do ions move from one side to the other?",
+        "promptAr": "في خلية فولتية من نصفي الخلية Zn | Zn²⁺ وAg | Ag⁺ موصولين بسلك نحاسي وقنطرة ملحية من KCl، أين تنتقل الأيونات من جانب إلى الآخر؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Through the silver strip",
+            "ar": "عبر شريط الفضة"
+          },
+          "B": {
+            "en": "Through the salt bridge",
+            "ar": "عبر القنطرة الملحية"
+          },
+          "C": {
+            "en": "Through the copper wire",
+            "ar": "عبر السلك النحاسي"
+          },
+          "D": {
+            "en": "Through the zinc strip",
+            "ar": "عبر شريط الزنك"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a55.png"
+      },
+      {
+        "id": 56,
+        "answer": "B",
+        "promptEn": "How do electrons transfer in voltaic cells?",
+        "promptAr": "كيف تنتقل الإلكترونات في الخلايا الفولتية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Through the salt bridge from anode to cathode",
+            "ar": "عبر القنطرة الملحية من المصعد إلى المهبط"
+          },
+          "B": {
+            "en": "Through a metal wire from anode to cathode",
+            "ar": "عبر سلك فلزي من المصعد إلى المهبط"
+          },
+          "C": {
+            "en": "Through a metal wire from the reduced electrode to the oxidized electrode",
+            "ar": "عبر سلك فلزي من قطب الاختزال إلى قطب الأكسدة"
+          },
+          "D": {
+            "en": "Through the salt bridge from the reduced electrode to the oxidized electrode",
+            "ar": "عبر القنطرة الملحية من قطب الاختزال إلى قطب الأكسدة"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a56.png"
+      },
+      {
+        "id": 57,
+        "answer": "A",
+        "promptEn": "What happens to ion concentrations as this voltaic cell operates?",
+        "promptAr": "ماذا يحدث لتراكيز الأيونات عند تشغيل الخلية الفولتية الآتية؟",
+        "context": [
+          "Zn | Zn²⁺ || Cu²⁺ | Cu"
+        ],
+        "options": {
+          "A": {
+            "en": "[Zn²⁺] increases and [Cu²⁺] decreases",
+            "ar": "يزداد تركيز Zn²⁺ ويقل تركيز Cu²⁺"
+          },
+          "B": {
+            "en": "Both concentrations increase",
+            "ar": "يزداد التركيزان"
+          },
+          "C": {
+            "en": "[Zn²⁺] decreases",
+            "ar": "يقل تركيز Zn²⁺"
+          },
+          "D": {
+            "en": "Both concentrations remain unchanged",
+            "ar": "يبقى التركيزان ثابتين"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a57.png"
+      },
+      {
+        "id": 58,
+        "answer": "B",
+        "promptEn": "A cell uses Mn and Fe²⁺. If Mn is the anode, what is the half-reaction at the cathode?",
+        "promptAr": "تستخدم خلية المنغنيز وأيونات الحديد الثنائي. إذا كان المنغنيز هو المصعد، فما نصف التفاعل عند المهبط؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Mn → Mn²⁺ + 2e⁻",
+            "ar": "Mn → Mn²⁺ + 2e⁻"
+          },
+          "B": {
+            "en": "Fe²⁺ + 2e⁻ → Fe",
+            "ar": "Fe²⁺ + 2e⁻ → Fe"
+          },
+          "C": {
+            "en": "Fe → Fe²⁺ + 2e⁻",
+            "ar": "Fe → Fe²⁺ + 2e⁻"
+          },
+          "D": {
+            "en": "Mn²⁺ + 2e⁻ → Mn",
+            "ar": "Mn²⁺ + 2e⁻ → Mn"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a58.png"
+      },
+      {
+        "id": 59,
+        "answer": "A",
+        "promptEn": "Which equation is the balanced overall reaction of the voltaic cell Mn–Fe?",
+        "promptAr": "أي معادلة تمثل التفاعل الكلي الموزون للخلية الفولتية Mn–Fe؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Mn + Fe²⁺ → Mn²⁺ + Fe",
+            "ar": "Mn + Fe²⁺ → Mn²⁺ + Fe"
+          },
+          "B": {
+            "en": "Mn²⁺ + Fe → Mn + Fe²⁺",
+            "ar": "Mn²⁺ + Fe → Mn + Fe²⁺"
+          },
+          "C": {
+            "en": "Mn + Fe → Mn²⁺ + Fe²⁺",
+            "ar": "Mn + Fe → Mn²⁺ + Fe²⁺"
+          },
+          "D": {
+            "en": "2Mn + Fe²⁺ → 2Mn²⁺ + Fe",
+            "ar": "2Mn + Fe²⁺ → 2Mn²⁺ + Fe"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a59.png"
+      },
+      {
+        "id": 60,
+        "answer": "D",
+        "promptEn": "Which half-reaction occurs at the anode for the cell reaction Zn + Cu²⁺ → Zn²⁺ + Cu?",
+        "promptAr": "ما نصف التفاعل عند المصعد للتفاعل الكلي الآتي؟",
+        "context": [
+          "Zn + Cu²⁺ → Zn²⁺ + Cu"
+        ],
+        "options": {
+          "A": {
+            "en": "Cu²⁺ + 2e⁻ → Cu",
+            "ar": "Cu²⁺ + 2e⁻ → Cu"
+          },
+          "B": {
+            "en": "Zn²⁺ + 2e⁻ → Zn",
+            "ar": "Zn²⁺ + 2e⁻ → Zn"
+          },
+          "C": {
+            "en": "Cu → Cu²⁺ + 2e⁻",
+            "ar": "Cu → Cu²⁺ + 2e⁻"
+          },
+          "D": {
+            "en": "Zn → Zn²⁺ + 2e⁻",
+            "ar": "Zn → Zn²⁺ + 2e⁻"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a60.png"
+      },
+      {
+        "id": 61,
+        "answer": "A",
+        "promptEn": "Under what conditions are standard reduction potentials measured?",
+        "promptAr": "ما الظروف التي تُقاس عندها جهود الاختزال القياسية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "25 °C, 1 atm, and 1 M ion solution",
+            "ar": "25 °C، وضغط 1 atm، ومحلول أيوني بتركيز 1 M"
+          },
+          "B": {
+            "en": "100 °C, 100 atm, and 0.1 M ion solution",
+            "ar": "100 °C، وضغط 100 atm، ومحلول أيوني بتركيز 0.1 M"
+          },
+          "C": {
+            "en": "0 °C, 0.5 atm, and 0.5 M ion solution",
+            "ar": "0 °C، وضغط 0.5 atm، ومحلول أيوني بتركيز 0.5 M"
+          },
+          "D": {
+            "en": "1 °C, 1 atm, and 1 M ion solution",
+            "ar": "1 °C، وضغط 1 atm، ومحلول أيوني بتركيز 1 M"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a61.png"
+      },
+      {
+        "id": 62,
+        "answer": "D",
+        "promptEn": "Which ion is most easily reduced? The E° values for reduction to the stated product are:",
+        "promptAr": "أي الأيونات أسهل اختزالًا؟ جهود الاختزال القياسية هي:",
+        "context": [
+          "Pt²⁺/Pt +1.18 V, Fe³⁺/Fe²⁺ +0.771 V, Hg²⁺/Hg +0.851 V, Cu²⁺/Cu +0.3419 V."
+        ],
+        "options": {
+          "A": {
+            "en": "Cu²⁺",
+            "ar": "Cu²⁺"
+          },
+          "B": {
+            "en": "Hg²⁺",
+            "ar": "Hg²⁺"
+          },
+          "C": {
+            "en": "Fe³⁺",
+            "ar": "Fe³⁺"
+          },
+          "D": {
+            "en": "Pt²⁺",
+            "ar": "Pt²⁺"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a62.png"
+      },
+      {
+        "id": 63,
+        "answer": "A",
+        "promptEn": "What does the reduction potential of an electrode measure?",
+        "promptAr": "ماذا يقيس جهد الاختزال للقطب؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Its tendency to gain electrons and undergo reduction",
+            "ar": "ميله لاكتساب الإلكترونات وحدوث الاختزال"
+          },
+          "B": {
+            "en": "The number of protons in the electrode",
+            "ar": "عدد البروتونات في القطب"
+          },
+          "C": {
+            "en": "Its tendency to lose neutrons",
+            "ar": "ميله لفقد النيوترونات"
+          },
+          "D": {
+            "en": "The mass of the electrode only",
+            "ar": "كتلة القطب فقط"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a63.png"
+      },
+      {
+        "id": 64,
+        "answer": "D",
+        "promptEn": "Regarding the standard hydrogen electrode, which of the following is incorrect?",
+        "promptAr": "أي العبارات الآتية غير صحيحة فيما يتعلق بقطب الهيدروجين القياسي؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Hydrogen gas H₂ is bubbled into the solution at 1 atm and 25 °C",
+            "ar": "يُمرَّر غاز الهيدروجين في المحلول بضغط 1 atm ودرجة 25 °C"
+          },
+          "B": {
+            "en": "The standard reduction potential equals 0.000 V",
+            "ar": "جهد الاختزال القياسي يساوي 0.000 V"
+          },
+          "C": {
+            "en": "Platinum electrode immersed in 1 M acid solution",
+            "ar": "قطب بلاتين مغمور في محلول حمضي تركيزه 1 M"
+          },
+          "D": {
+            "en": "The standard hydrogen electrode always acts as a reduction half-reaction",
+            "ar": "يعمل قطب الهيدروجين القياسي دائمًا نصف تفاعل اختزال"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a64.png"
+      },
+      {
+        "id": 65,
+        "answer": "A",
+        "promptEn": "When a Zn | Zn²⁺ electrode is connected to the standard hydrogen electrode (E° for Zn²⁺/Zn = −0.762 V), which of the following is an oxidation half-reaction?",
+        "promptAr": "عند توصيل قطب Zn | Zn²⁺ بقطب الهيدروجين القياسي، أي مما يأتي يمثل نصف تفاعل الأكسدة؟",
+        "context": [
+          "E°(Zn²⁺/Zn) = −0.762 V"
+        ],
+        "options": {
+          "A": {
+            "en": "Zn(s) → Zn²⁺(aq) + 2e⁻",
+            "ar": "Zn(s) → Zn²⁺(aq) + 2e⁻"
+          },
+          "B": {
+            "en": "Zn²⁺(aq) + 2e⁻ → Zn(s)",
+            "ar": "Zn²⁺(aq) + 2e⁻ → Zn(s)"
+          },
+          "C": {
+            "en": "2H⁺(aq) + 2e⁻ → H₂(g)",
+            "ar": "2H⁺(aq) + 2e⁻ → H₂(g)"
+          },
+          "D": {
+            "en": "H₂(g) → 2H⁺(aq) + 2e⁻",
+            "ar": "H₂(g) → 2H⁺(aq) + 2e⁻"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a65.png"
+      },
+      {
+        "id": 66,
+        "answer": "C",
+        "promptEn": "An unknown M²⁺ | M half-cell is connected to the SHE. E°cell = +0.28 V and the SHE is the anode. What is E°(M²⁺/M)?",
+        "promptAr": "وُصل نصف خلية M²⁺ | M بقطب الهيدروجين القياسي الذي يعمل مصعدًا. جهد الخلية +0.28 V. ما جهد اختزال M²⁺/M القياسي؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "−0.28 V",
+            "ar": "−0.28 V"
+          },
+          "B": {
+            "en": "0.00 V",
+            "ar": "0.00 V"
+          },
+          "C": {
+            "en": "+0.28 V",
+            "ar": "+0.28 V"
+          },
+          "D": {
+            "en": "+0.56 V",
+            "ar": "+0.56 V"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a66.png"
+      },
+      {
+        "id": 67,
+        "answer": "A",
+        "promptEn": "A voltaic cell consists of these reduction half-reactions. Which statement is correct?",
+        "promptAr": "تتكون خلية فولتية من نصفي الاختزال الآتيين. أي عبارة صحيحة؟",
+        "context": [
+          "Ag⁺ + e⁻ ⇌ Ag, E° = +0.7996 V",
+          "Cr³⁺ + 3e⁻ ⇌ Cr, E° = −0.744 V"
+        ],
+        "options": {
+          "A": {
+            "en": "Anode: Cr; cathode: Ag; E°cell = +1.54 V; spontaneous",
+            "ar": "المصعد Cr؛ المهبط Ag؛ جهد الخلية +1.54 V؛ تلقائي"
+          },
+          "B": {
+            "en": "Anode: Ag; cathode: Cr; E°cell = +0.0556 V; spontaneous",
+            "ar": "المصعد Ag؛ المهبط Cr؛ جهد الخلية +0.0556 V؛ تلقائي"
+          },
+          "C": {
+            "en": "Anode: Cr; cathode: Ag; E°cell = −1.54 V; nonspontaneous",
+            "ar": "المصعد Cr؛ المهبط Ag؛ جهد الخلية −1.54 V؛ غير تلقائي"
+          },
+          "D": {
+            "en": "Anode: Ag; cathode: Cr; E°cell = −0.0556 V; nonspontaneous",
+            "ar": "المصعد Ag؛ المهبط Cr؛ جهد الخلية −0.0556 V؛ غير تلقائي"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a67.png"
+      },
+      {
+        "id": 68,
+        "answer": "A",
+        "promptEn": "What is the standard cell potential for the redox reaction between cobalt and copper?",
+        "promptAr": "ما جهد الخلية القياسي لتفاعل الكوبالت مع النحاس؟",
+        "context": [
+          "Co²⁺ + 2e⁻ → Co, E° = −0.28 V",
+          "Cu²⁺ + 2e⁻ → Cu, E° = +0.3419 V"
+        ],
+        "options": {
+          "A": {
+            "en": "+0.622 V",
+            "ar": "+0.622 V"
+          },
+          "B": {
+            "en": "+0.062 V",
+            "ar": "+0.062 V"
+          },
+          "C": {
+            "en": "−0.622 V",
+            "ar": "−0.622 V"
+          },
+          "D": {
+            "en": "−0.062 V",
+            "ar": "−0.062 V"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a68.png"
+      },
+      {
+        "id": 69,
+        "answer": "C",
+        "promptEn": "Calculate E°cell for 2Cu²⁺ + 2Mg → 2Cu + 2Mg²⁺.",
+        "promptAr": "احسب جهد الخلية القياسي للتفاعل الآتي:",
+        "context": [
+          "E°(Mg²⁺/Mg) = −2.37 V",
+          "E°(Cu²⁺/Cu) = +0.34 V",
+          "2Cu²⁺ + 2Mg → 2Cu + 2Mg²⁺",
+          "E°(Mg²⁺/Mg) = −2.37 V; E°(Cu²⁺/Cu) = +0.34 V"
+        ],
+        "options": {
+          "A": {
+            "en": "+5.42 V",
+            "ar": "+5.42 V"
+          },
+          "B": {
+            "en": "+2.03 V",
+            "ar": "+2.03 V"
+          },
+          "C": {
+            "en": "+2.71 V",
+            "ar": "+2.71 V"
+          },
+          "D": {
+            "en": "−2.71 V",
+            "ar": "−2.71 V"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a69.png"
+      },
+      {
+        "id": 70,
+        "answer": "D",
+        "promptEn": "Which cell notation represents a voltaic cell consisting of nickel and calcium electrodes?",
+        "promptAr": "ما التدوين الاصطلاحي الصحيح لخلية فولتية من قطبي النيكل والكالسيوم؟",
+        "context": [
+          "Ni²⁺ + 2e⁻ → Ni, E° = −0.257 V",
+          "Ca²⁺ + 2e⁻ → Ca, E° = −2.868 V",
+          "Ni²⁺/Ni: −0.257 V ; Ca²⁺/Ca: −2.868 V"
+        ],
+        "options": {
+          "A": {
+            "en": "Ca²⁺ | Ca || Ni | Ni²⁺",
+            "ar": "Ca²⁺ | Ca || Ni | Ni²⁺"
+          },
+          "B": {
+            "en": "Ni²⁺ | Ni || Ca²⁺ | Ca",
+            "ar": "Ni²⁺ | Ni || Ca²⁺ | Ca"
+          },
+          "C": {
+            "en": "Ni | Ni²⁺ || Ca²⁺ | Ca",
+            "ar": "Ni | Ni²⁺ || Ca²⁺ | Ca"
+          },
+          "D": {
+            "en": "Ca | Ca²⁺ || Ni²⁺ | Ni",
+            "ar": "Ca | Ca²⁺ || Ni²⁺ | Ni"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a70.png"
+      },
+      {
+        "id": 71,
+        "answer": "A",
+        "promptEn": "Which cell notation represents a voltaic cell consisting of aluminium and copper electrodes?",
+        "promptAr": "ما التدوين الاصطلاحي الصحيح لخلية فولتية من قطبي الألومنيوم والنحاس؟",
+        "context": [
+          "Al³⁺ + 3e⁻ → Al, E° = −1.662 V",
+          "Cu²⁺ + 2e⁻ → Cu, E° = +0.3419 V",
+          "Al³⁺/Al: −1.662 V ; Cu²⁺/Cu: +0.3419 V"
+        ],
+        "options": {
+          "A": {
+            "en": "Al | Al³⁺ || Cu²⁺ | Cu",
+            "ar": "Al | Al³⁺ || Cu²⁺ | Cu"
+          },
+          "B": {
+            "en": "Cu | Cu²⁺ || Al³⁺ | Al",
+            "ar": "Cu | Cu²⁺ || Al³⁺ | Al"
+          },
+          "C": {
+            "en": "Al³⁺ | Al || Cu | Cu²⁺",
+            "ar": "Al³⁺ | Al || Cu | Cu²⁺"
+          },
+          "D": {
+            "en": "Cu²⁺ | Cu || Al | Al³⁺",
+            "ar": "Cu²⁺ | Cu || Al | Al³⁺"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a71.png"
+      },
+      {
+        "id": 72,
+        "answer": "A",
+        "promptEn": "Which option gives E°cell and the balanced overall reaction for an Al/Ag voltaic cell?",
+        "promptAr": "أي خيار يعطي جهد الخلية والتفاعل الكلي الموزون لخلية Al/Ag الفولتية؟",
+        "context": [
+          "E°(Al³⁺/Al) = −1.662 V",
+          "E°(Ag⁺/Ag) = +0.7996 V"
+        ],
+        "options": {
+          "A": {
+            "en": "+2.4616 V; Al + 3Ag⁺ → Al³⁺ + 3Ag",
+            "ar": "+2.4616 V; Al + 3Ag⁺ → Al³⁺ + 3Ag"
+          },
+          "B": {
+            "en": "+2.4616 V; 3Al + Ag⁺ → 3Al³⁺ + Ag",
+            "ar": "+2.4616 V; 3Al + Ag⁺ → 3Al³⁺ + Ag"
+          },
+          "C": {
+            "en": "+0.8624 V; Al + 3Ag⁺ → Al³⁺ + 3Ag",
+            "ar": "+0.8624 V; Al + 3Ag⁺ → Al³⁺ + 3Ag"
+          },
+          "D": {
+            "en": "+7.4 V; Al + Ag⁺ → Al³⁺ + Ag",
+            "ar": "+7.4 V; Al + Ag⁺ → Al³⁺ + Ag"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a72.png"
+      },
+      {
+        "id": 73,
+        "answer": "D",
+        "promptEn": "E°cell of a voltaic cell is +0.47 V and E° of the cathode half-cell is +0.34 V (Cu²⁺/Cu). What is E° of the anode half-cell?",
+        "promptAr": "جهد خلية فولتية +0.47 V، وجهد اختزال المهبط Cu²⁺/Cu يساوي +0.34 V. ما جهد الاختزال القياسي للمصعد؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "+0.81 V",
+            "ar": "+0.81 V"
+          },
+          "B": {
+            "en": "+0.13 V",
+            "ar": "+0.13 V"
+          },
+          "C": {
+            "en": "−0.81 V",
+            "ar": "−0.81 V"
+          },
+          "D": {
+            "en": "−0.13 V",
+            "ar": "−0.13 V"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a73.png"
+      },
+      {
+        "id": 74,
+        "answer": "D",
+        "promptEn": "Given E°(Fe³⁺/Fe²⁺) = +0.771 V, which species can spontaneously oxidize Fe²⁺ to Fe³⁺ under standard conditions?",
+        "promptAr": "إذا كان E°(Fe³⁺/Fe²⁺) = +0.771 V، فأي مادة تؤكسد Fe²⁺ إلى Fe³⁺ تلقائيًا في الظروف القياسية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Cu²⁺: E° = +0.3419 V",
+            "ar": "Cu²⁺: E° = +0.3419 V"
+          },
+          "B": {
+            "en": "Zn²⁺: E° = −0.7618 V",
+            "ar": "Zn²⁺: E° = −0.7618 V"
+          },
+          "C": {
+            "en": "Pb²⁺: E° = −0.1262 V",
+            "ar": "Pb²⁺: E° = −0.1262 V"
+          },
+          "D": {
+            "en": "Ag⁺: E° = +0.7996 V",
+            "ar": "Ag⁺: E° = +0.7996 V"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a74.png"
+      },
+      {
+        "id": 75,
+        "answer": "B",
+        "promptEn": "A voltaic cell has E°cell = +1.46 V. Pt²⁺/Pt is the cathode with E° = +1.18 V. What is the standard reduction potential of the anode couple?",
+        "promptAr": "جهد خلية فولتية +1.46 V، والمهبط Pt²⁺/Pt بجهد اختزال +1.18 V. ما جهد الاختزال القياسي لزوج المصعد؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "+0.28 V",
+            "ar": "+0.28 V"
+          },
+          "B": {
+            "en": "−0.28 V",
+            "ar": "−0.28 V"
+          },
+          "C": {
+            "en": "−2.64 V",
+            "ar": "−2.64 V"
+          },
+          "D": {
+            "en": "+2.64 V",
+            "ar": "+2.64 V"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a75.png"
+      },
+      {
+        "id": 76,
+        "answer": "B",
+        "promptEn": "Which statement correctly differentiates an electrolytic cell from a voltaic cell?",
+        "promptAr": "أي عبارة تميز الخلية التحليلية عن الخلية الفولتية بشكل صحيح؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Oxidation occurs at the cathode in an electrolytic cell",
+            "ar": "تحدث الأكسدة عند المهبط في الخلية التحليلية"
+          },
+          "B": {
+            "en": "An electrolytic cell uses an external source to drive a nonspontaneous reaction",
+            "ar": "تستخدم الخلية التحليلية مصدرًا خارجيًا لدفع تفاعل غير تلقائي"
+          },
+          "C": {
+            "en": "An electrolytic cell has E°cell > 0",
+            "ar": "جهد الخلية التحليلية القياسي موجب"
+          },
+          "D": {
+            "en": "Electrons flow from cathode to anode in the wire of an electrolytic cell",
+            "ar": "تنتقل الإلكترونات في السلك من المهبط إلى المصعد في الخلية التحليلية"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a76.png"
+      },
+      {
+        "id": 77,
+        "answer": "D",
+        "promptEn": "The anode of an electrolytic cell is …",
+        "promptAr": "مصعد الخلية التحليلية يكون ...",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "negative, and oxidation occurs there",
+            "ar": "سالبًا وتحدث عنده الأكسدة"
+          },
+          "B": {
+            "en": "positive, and reduction occurs there",
+            "ar": "موجبًا ويحدث عنده الاختزال"
+          },
+          "C": {
+            "en": "negative, and reduction occurs there",
+            "ar": "سالبًا ويحدث عنده الاختزال"
+          },
+          "D": {
+            "en": "positive, and oxidation occurs there",
+            "ar": "موجبًا وتحدث عنده الأكسدة"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a77.png"
+      },
+      {
+        "id": 78,
+        "answer": "B",
+        "promptEn": "Which feature is common to voltaic and electrolytic cells?",
+        "promptAr": "أي خاصية مشتركة بين الخليتين الفولتية والتحليلية؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Both reactions are spontaneous",
+            "ar": "التفاعلان تلقائيان"
+          },
+          "B": {
+            "en": "Reduction takes place at the cathode",
+            "ar": "يحدث الاختزال عند المهبط"
+          },
+          "C": {
+            "en": "Both require an external voltage source",
+            "ar": "تحتاجان إلى مصدر جهد خارجي"
+          },
+          "D": {
+            "en": "The cathode is positive in both",
+            "ar": "المهبط موجب في كلتيهما"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a78.png"
+      },
+      {
+        "id": 79,
+        "answer": "B",
+        "promptEn": "A Zn | Zn²⁺ and Cu | Cu²⁺ cell is connected to an opposing voltage source of 2 V. The reaction is …",
+        "promptAr": "تُوصَل خلية Zn | Zn²⁺ وCu | Cu²⁺ بمصدر جهد معاكس مقداره 2 V. يكون التفاعل ...",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "spontaneous: Zn + Cu²⁺ → Zn²⁺ + Cu",
+            "ar": "تلقائي: Zn + Cu²⁺ → Zn²⁺ + Cu"
+          },
+          "B": {
+            "en": "nonspontaneous: Cu + Zn²⁺ → Cu²⁺ + Zn",
+            "ar": "غير تلقائي: Cu + Zn²⁺ → Cu²⁺ + Zn"
+          },
+          "C": {
+            "en": "nonspontaneous: Zn + Cu²⁺ → Zn²⁺ + Cu",
+            "ar": "غير تلقائي: Zn + Cu²⁺ → Zn²⁺ + Cu"
+          },
+          "D": {
+            "en": "not a redox reaction",
+            "ar": "ليس تفاعل أكسدة واختزال"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a79.png"
+      },
+      {
+        "id": 80,
+        "answer": "C",
+        "promptEn": "To reverse Zn + Cu²⁺ → Zn²⁺ + Cu, where E°cell = +1.10 V, the external voltage must ideally be …",
+        "promptAr": "لعكس التفاعل Zn + Cu²⁺ → Zn²⁺ + Cu ذي الجهد القياسي +1.10 V، يجب نظريًا أن يكون الجهد الخارجي ...",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "less than 1.10 V and opposing the cell",
+            "ar": "أقل من 1.10 V ومعاكسًا للخلية"
+          },
+          "B": {
+            "en": "greater than 1.10 V and aiding the cell",
+            "ar": "أكبر من 1.10 V وفي اتجاه الخلية"
+          },
+          "C": {
+            "en": "greater than 1.10 V and opposing the cell",
+            "ar": "أكبر من 1.10 V ومعاكسًا للخلية"
+          },
+          "D": {
+            "en": "exactly zero",
+            "ar": "مساويًا للصفر"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a80.png"
+      },
+      {
+        "id": 81,
+        "answer": "B",
+        "promptEn": "In the reversed Zn–Cu cell, which half-reaction occurs at the zinc electrode?",
+        "promptAr": "في خلية الزنك والنحاس عند عكس التفاعل، ما نصف التفاعل عند قطب الزنك؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Zn → Zn²⁺ + 2e⁻",
+            "ar": "Zn → Zn²⁺ + 2e⁻"
+          },
+          "B": {
+            "en": "Zn²⁺ + 2e⁻ → Zn",
+            "ar": "Zn²⁺ + 2e⁻ → Zn"
+          },
+          "C": {
+            "en": "Cu²⁺ + 2e⁻ → Cu",
+            "ar": "Cu²⁺ + 2e⁻ → Cu"
+          },
+          "D": {
+            "en": "Cu → Cu²⁺ + 2e⁻",
+            "ar": "Cu → Cu²⁺ + 2e⁻"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a81.png"
+      },
+      {
+        "id": 82,
+        "answer": "A",
+        "promptEn": "What is the anode reaction in a Downs cell?",
+        "promptAr": "ما نصف التفاعل عند المصعد في خلية داونز؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "2Cl⁻(l) → Cl₂(g) + 2e⁻",
+            "ar": "2Cl⁻(l) → Cl₂(g) + 2e⁻"
+          },
+          "B": {
+            "en": "Cl₂(g) + 2e⁻ → 2Cl⁻(l)",
+            "ar": "Cl₂(g) + 2e⁻ → 2Cl⁻(l)"
+          },
+          "C": {
+            "en": "Na(l) → Na⁺(l) + e⁻",
+            "ar": "Na(l) → Na⁺(l) + e⁻"
+          },
+          "D": {
+            "en": "Na⁺(l) + e⁻ → Na(l)",
+            "ar": "Na⁺(l) + e⁻ → Na(l)"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a82.png"
+      },
+      {
+        "id": 83,
+        "answer": "D",
+        "promptEn": "Which half-reaction describes the cathode in the electrolysis of molten NaCl?",
+        "promptAr": "أي نصف تفاعل يصف ما يحدث عند المهبط في التحليل الكهربائي لمصهور NaCl؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "2Cl⁻ → Cl₂ + 2e⁻",
+            "ar": "2Cl⁻ → Cl₂ + 2e⁻"
+          },
+          "B": {
+            "en": "Na → Na⁺ + e⁻",
+            "ar": "Na → Na⁺ + e⁻"
+          },
+          "C": {
+            "en": "Cl₂ + 2e⁻ → 2Cl⁻",
+            "ar": "Cl₂ + 2e⁻ → 2Cl⁻"
+          },
+          "D": {
+            "en": "Na⁺ + e⁻ → Na",
+            "ar": "Na⁺ + e⁻ → Na"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a83.png"
+      },
+      {
+        "id": 84,
+        "answer": "A",
+        "promptEn": "Why is CaCl₂ added to molten NaCl in the Downs cell?",
+        "promptAr": "لماذا يُضاف CaCl₂ إلى مصهور NaCl في خلية داونز؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "To lower the melting point of the mixture",
+            "ar": "لخفض درجة انصهار الخليط"
+          },
+          "B": {
+            "en": "To increase the required voltage",
+            "ar": "لزيادة الجهد اللازم"
+          },
+          "C": {
+            "en": "To reduce Na⁺ instead of Cl⁻",
+            "ar": "لاختزال Na⁺ بدلًا من Cl⁻"
+          },
+          "D": {
+            "en": "To make the reaction spontaneous",
+            "ar": "لجعل التفاعل تلقائيًا"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a84.png"
+      },
+      {
+        "id": 85,
+        "answer": "D",
+        "promptEn": "What is the reaction of the cathode in a NaCl solution electrolytic cell?",
+        "promptAr": "ما نصف التفاعل عند المهبط في خلية التحليل الكهربائي لمحلول NaCl؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Cl₂(g) + 2e⁻ → 2Cl⁻(aq)",
+            "ar": "Cl₂(g) + 2e⁻ → 2Cl⁻(aq)"
+          },
+          "B": {
+            "en": "O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)",
+            "ar": "O₂(g) + 4H⁺(aq) + 4e⁻ → 2H₂O(l)"
+          },
+          "C": {
+            "en": "Na⁺(aq) + e⁻ → Na(s)",
+            "ar": "Na⁺(aq) + e⁻ → Na(s)"
+          },
+          "D": {
+            "en": "2H₂O(l) + 2e⁻ → H₂(g) + 2OH⁻(aq)",
+            "ar": "2H₂O(l) + 2e⁻ → H₂(g) + 2OH⁻(aq)"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a85.png"
+      },
+      {
+        "id": 86,
+        "answer": "A",
+        "promptEn": "Which statement distinguishes electrolysis of molten NaCl from aqueous NaCl?",
+        "promptAr": "أي عبارة تميز التحليل الكهربائي لمصهور NaCl عن محلوله المائي؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Molten: Na forms at the cathode; aqueous: H₂ forms at the cathode",
+            "ar": "المصهور: يتكون Na عند المهبط؛ المحلول: يتكون H₂ عند المهبط"
+          },
+          "B": {
+            "en": "Molten: H₂ forms; aqueous: Na forms",
+            "ar": "المصهور: يتكون H₂؛ المحلول: يتكون Na"
+          },
+          "C": {
+            "en": "Both give Na at the cathode",
+            "ar": "يتكون Na عند المهبط في كليهما"
+          },
+          "D": {
+            "en": "Both give O₂ at the anode",
+            "ar": "يتكون O₂ عند المصعد في كليهما"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a86.png"
+      },
+      {
+        "id": 87,
+        "answer": "C",
+        "promptEn": "Aqueous Na₂SO₄ is electrolyzed using inert electrodes. Which row gives the cathode and anode products?",
+        "promptAr": "يُحلَّل محلول Na₂SO₄ كهربائيًا بأقطاب خاملة. أي زوج يعطي ناتجي المهبط والمصعد؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Cathode: Na; anode: SO₂",
+            "ar": "المهبط Na؛ المصعد SO₂"
+          },
+          "B": {
+            "en": "Cathode: O₂; anode: H₂",
+            "ar": "المهبط O₂؛ المصعد H₂"
+          },
+          "C": {
+            "en": "Cathode: H₂; anode: O₂",
+            "ar": "المهبط H₂؛ المصعد O₂"
+          },
+          "D": {
+            "en": "Cathode: Na; anode: O₂",
+            "ar": "المهبط Na؛ المصعد O₂"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a87.png"
+      },
+      {
+        "id": 88,
+        "answer": "B",
+        "promptEn": "A spoon is silver-plated using AgNO₃(aq). Which statement is correct?",
+        "promptAr": "تُطلى ملعقة بالفضة باستخدام محلول AgNO₃. أي العبارات صحيحة؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "The spoon is the anode and gains mass",
+            "ar": "الملعقة هي المصعد وتزداد كتلتها"
+          },
+          "B": {
+            "en": "The spoon is the cathode and gains mass",
+            "ar": "الملعقة هي المهبط وتزداد كتلتها"
+          },
+          "C": {
+            "en": "The silver bar is the cathode",
+            "ar": "شريط الفضة هو المهبط"
+          },
+          "D": {
+            "en": "The silver bar gains mass",
+            "ar": "تزداد كتلة شريط الفضة"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a88.png"
+      },
+      {
+        "id": 89,
+        "answer": "B",
+        "promptEn": "In which electroplating setup is the anode's mass expected to decrease?",
+        "promptAr": "في أي ترتيب للطلاء الكهربائي يُتوقع أن تقل كتلة المصعد؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "Graphite anode in CuSO₄(aq)",
+            "ar": "مصعد جرافيت في محلول CuSO₄"
+          },
+          "B": {
+            "en": "Copper anode in CuSO₄(aq), plating a key",
+            "ar": "مصعد نحاس في محلول CuSO₄ لطلاء مفتاح"
+          },
+          "C": {
+            "en": "Inert Pt anode in NaCl(aq)",
+            "ar": "مصعد بلاتين خامل في محلول NaCl"
+          },
+          "D": {
+            "en": "Pt anode in AgNO₃(aq)",
+            "ar": "مصعد بلاتين في محلول AgNO₃"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a89.png"
+      },
+      {
+        "id": 90,
+        "answer": "D",
+        "promptEn": "During electroplating with a soluble metal anode, why does the metal-ion concentration remain nearly constant?",
+        "promptAr": "لماذا يبقى تركيز أيونات الفلز شبه ثابت أثناء الطلاء الكهربائي بمصعد فلزي قابل للذوبان؟",
+        "context": [],
+        "options": {
+          "A": {
+            "en": "No metal ions are deposited",
+            "ar": "لا تترسب أيونات الفلز"
+          },
+          "B": {
+            "en": "The electrolyte is replaced continuously",
+            "ar": "يُستبدل الإلكتروليت باستمرار"
+          },
+          "C": {
+            "en": "The cathode dissolves",
+            "ar": "يذوب المهبط"
+          },
+          "D": {
+            "en": "Ions deposited at the cathode are replaced by ions formed at the anode",
+            "ar": "تُعوَّض الأيونات المترسبة عند المهبط بأيونات تتكون عند المصعد"
+          }
+        },
+        "figures": [],
+        "solutionImage": "assets/slides/12a/a90.png"
+      }
+    ]
   }
 ]
